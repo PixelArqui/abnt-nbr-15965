@@ -1,0 +1,235 @@
+[system]
+name = "ABNT NBR 15965"
+version = "2023"
+source = "ABNT"
+description = "Sistema de classificação da informação da construção"
+
+[Template]
+code = "000000"
+subject = "something"
+
+# ----- GRUPO 0 -----
+[Grupo0]
+code = "0"
+subject = "Características dos objetos"
+description = "Características dos objetos da construção"
+
+[Grupo0.0M]
+code = "0M"
+subject = "Materiais"
+description = "Materiais de construção"
+
+[Grupo0.0M.10.00]
+code = "0M.10.00"
+subject = "Elementos químicos"
+
+[Grupo0.0M.10.10.00]
+code = "0M.10.10.00"
+subject = "Elementos sólidos"
+
+[Grupo0.0M.10.10.01]
+code = "0M.10.10.01"
+subject = "Carbono"
+
+[Grupo0.0M.10.10.03]
+code = "0M.10.10.03"
+subject = "Silício"
+
+[Grupo0.0M.10.10.05]
+code = "0M.10.10.05"
+subject = "Fósforo"
+
+[Grupo0.0M.10.10.07]
+code = "0M.10.10.07"
+subject = "Enxofre"
+
+[Grupo0.0M.10.10.09]
+code = "0M.10.10.09"
+subject = "Cálcio"
+
+[Grupo0.0M.10.10.11]
+code = "0M.10.10.11"
+subject = "Iodo"
+
+[Grupo0.0M.10.10.13]
+code = "0M.10.10.13"
+subject = "Boro"
+
+[Grupo0.0M.10.10.15]
+code = "0M.10.10.15"
+subject = "Magnésio"
+
+[Grupo0.0M.10.10.17]
+code = "0M.10.10.17"
+subject = "Alumínio"
+
+[Grupo0.0M.10.10.19]
+code = "0M.10.10.19"
+subject = "Potássio"
+
+[Grupo0.0M.10.10.21]
+code = "0M.10.10.21"
+subject = "Titânio"
+
+[Grupo0.0M.10.10.23]
+code = "0M.10.10.03"
+subject = "Vanádio"
+
+[Grupo0.0M.10.10.25]
+code = "0M.10.10.25"
+subject = "Crômio"
+
+[Grupo0.0M.10.10.27]
+code = "0M.10.10.27"
+subject = "Manganês"
+
+[Grupo0.0M.10.10.29]
+code = "0M.10.10.29"
+subject = "Ferro"
+
+[Grupo0.0M.10.10.31]
+code = "0M.10.10.31"
+subject = "Cobalto"
+
+[Grupo0.0M.10.10.33]
+code = "0M.10.10.33"
+subject = "Níquel"
+
+[Grupo0.0M.10.10.35]
+code = "0M.10.10.35"
+subject = "Cobre"
+
+[Grupo0.0M.10.10.37]
+code = "0M.10.10.37"
+subject = "Zinco"
+
+[Grupo0.0M.10.10.39]
+code = "0M.10.10.39"
+subject = "Arsênio"
+
+[Grupo0.0M.10.10.41]
+code = "0M.10.10.41"
+subject = "Molibdênio"
+
+[Grupo0.0M.10.10.43]
+code = "0M.10.10.43"
+subject = "Prata"
+
+[Grupo0.0M.10.10.45]
+code = "0M.10.10.45"
+subject = "Cádmo"
+
+[Grupo0.0M.10.10.47]
+code = "0M.10.10.47"
+subject = "Estanho"
+
+[Grupo0.0M.10.10.49]
+code = "0M.10.10.49"
+subject = "Antimônio"
+
+[Grupo0.0M.10.10.51]
+code = "0M.10.10.51"
+subject = "Tungstênio"
+
+[Grupo0.0M.10.10.53]
+code = "0M.10.10.53"
+subject = "Ouro"
+
+[Grupo0.0M.10.10.55]
+code = "0M.10.10.55"
+subject = "Chumbo"
+
+[Grupo0.0M.10.10.57]
+code = "0M.10.10.57"
+subject = "Bismuto"
+
+[Grupo0.0P]
+code = "0P"
+subject = "Propriedades"
+description = "Propriedades de construção"
+
+# ----- GRUPO 1 -----
+[Grupo1]
+code = "1"
+subject = "Processos"
+description = "Processos da construção"
+
+[Grupo1.1F]
+code = "1F"
+subject = "Fases"
+description = "Fases da construção"
+
+[Grupo1.1S]
+code = "1S"
+subject = "Serviços"
+description = "Serviços da construção"
+
+[Grupo1.1D]
+code = "1D"
+subject = "Disciplinas"
+description = "Disciplinas da construção"
+
+# ----- GRUPO 2 -----
+[Grupo2]
+code = "2"
+subject = "Recursos"
+description = "Recursos da construção"
+
+[Grupo2.2N]
+code = "2N"
+subject = "Funções"
+description = "Funções da construção"
+
+[Grupo2.2Q]
+code = "2Q"
+subject = "Equipamentos"
+description = "Equipamentos da construção"
+
+[Grupo2.2C]
+code = "2C"
+subject = "Componentes"
+description = "Produtos da construção"
+
+# ----- GRUPO 3 -----
+[Grupo3]
+code = "3"
+subject = "Resultados da construção"
+description = "Resultados da construção"
+
+[Grupo3.3E]
+code = "3E"
+subject = "Elementos"
+description = "Elementos da construção"
+
+[Grupo3.3R]
+code = "3R"
+subject = "Construção"
+description = "Resultados de serviços da construção"
+
+# ----- GRUPO 4 -----
+[Grupo4]
+code = "4"
+subject = "Unidades e espaços da construção"
+description = "Unidades e espaços da construção"
+
+[Grupo4.4U]
+code = "4U"
+subject = "Unidades"
+description = "Unidades da construção"
+
+[Grupo4.4A]
+code = "4A"
+subject = "Espaços"
+description = "Espaços da construção"
+
+# ----- GRUPO 5 -----
+[Grupo5]
+code = "5"
+subject = "Informações da construção"
+description = "Informações da construção"
+
+[Grupo5.5I]
+code = "5I"
+subject = "Informação"
+description = "Informação da construção"
+
