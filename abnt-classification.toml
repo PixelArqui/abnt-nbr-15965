@@ -143,6 +143,74 @@ subject = "Chumbo"
 code = "0M.10.10.57"
 subject = "Bismuto"
 
+[Grupo0.0M.10.30.00]
+code = "0M.10.30.00"
+subject = "Elementos Líquidos"
+
+[Grupo0.0M.10.30.01]
+code = "0M.10.30.01"
+subject = "Mercúrio"
+
+[Grupo0.0M.10.40.00]
+code = "0M.10.40.00"
+subject = "Elementos gasosos"
+
+[Grupo0.0M.10.40.01]
+code = "0M.10.40.01"
+subject = "Hidrogênio"
+
+[Grupo0.0M.10.40.03]
+code = "0M.10.40.03"
+subject = "Hélio"
+
+[Grupo0.0M.10.40.05]
+code = "0M.10.40.05"
+subject = "Nitrogênio"
+
+[Grupo0.0M.10.40.07]
+code = "0M.10.40.07"
+subject = "Oxigênio"
+
+[Grupo0.0M.10.40.09]
+code = "0M.10.40.09"
+subject = "Flúor"
+
+[Grupo0.0M.10.40.11]
+code = "0M.10.40.11"
+subject = "Neônio"
+
+[Grupo0.0M.10.40.13]
+code = "0M.10.40.13"
+subject = "Cloro"
+
+[Grupo0.0M.10.40.15]
+code = "0M.10.40.15"
+subject = "Argônio"
+
+[Grupo0.0M.10.40.17]
+code = "0M.10.40.17"
+subject = "Criptônio"
+
+[Grupo0.0M.10.40.19]
+code = "0M.10.40.19"
+subject = "Xenônio"
+
+[Grupo0.0M.10.40.21]
+code = "0M.10.40.21"
+subject = "Radônio"
+
+[Grupo0.0M.20.00.00]
+code = "0M.20.00.00"
+subject = "Compostos sólidos"
+
+[Grupo0.0M.20.10.00]
+code = "0M.20.10.00"
+subject = "Compostos mineriais"
+
+[Grupo0.0M.20.10.01.00]
+code = "0M.20.10.01.00"
+subject = "Rochas"
+
 [Grupo0.0P]
 code = "0P"
 subject = "Propriedades"
