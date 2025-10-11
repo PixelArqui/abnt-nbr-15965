@@ -4,300 +4,1009 @@ version = "2023"
 source = "ABNT"
 description = "Sistema de classificação da informação da construção"
 
-[Template]
-code = "000000"
-subject = "something"
-
-# ----- GRUPO 0 -----
 [Grupo0]
 code = "0"
 subject = "Características dos objetos"
 description = "Características dos objetos da construção"
 
-[Grupo0.0M]
-code = "0M"
+[Grupo0.0M.00.00.00]
+code = "0M-00-00-00"
 subject = "Materiais"
 description = "Materiais de construção"
 
-[Grupo0.0M.10.00]
-code = "0M.10.00"
+[Grupo0.0M.10.00.00]
+code = "0M-10-00-00"
 subject = "Elementos químicos"
 
 [Grupo0.0M.10.10.00]
-code = "0M.10.10.00"
+code = "0M-10-10-00"
 subject = "Elementos sólidos"
 
 [Grupo0.0M.10.10.01]
-code = "0M.10.10.01"
+code = "0M-10-10-01"
 subject = "Carbono"
 
 [Grupo0.0M.10.10.03]
-code = "0M.10.10.03"
+code = "0M-10-10-03"
 subject = "Silício"
 
 [Grupo0.0M.10.10.05]
-code = "0M.10.10.05"
+code = "0M-10-10-05"
 subject = "Fósforo"
 
 [Grupo0.0M.10.10.07]
-code = "0M.10.10.07"
+code = "0M-10-10-07"
 subject = "Enxofre"
 
 [Grupo0.0M.10.10.09]
-code = "0M.10.10.09"
+code = "0M-10-10-09"
 subject = "Cálcio"
 
 [Grupo0.0M.10.10.11]
-code = "0M.10.10.11"
+code = "0M-10-10-11"
 subject = "Iodo"
 
 [Grupo0.0M.10.10.13]
-code = "0M.10.10.13"
+code = "0M-10-10-13"
 subject = "Boro"
 
 [Grupo0.0M.10.10.15]
-code = "0M.10.10.15"
+code = "0M-10-10-15"
 subject = "Magnésio"
 
 [Grupo0.0M.10.10.17]
-code = "0M.10.10.17"
+code = "0M-10-10-17"
 subject = "Alumínio"
 
 [Grupo0.0M.10.10.19]
-code = "0M.10.10.19"
+code = "0M-10-10-19"
 subject = "Potássio"
 
 [Grupo0.0M.10.10.21]
-code = "0M.10.10.21"
+code = "0M-10-10-21"
 subject = "Titânio"
 
 [Grupo0.0M.10.10.23]
-code = "0M.10.10.03"
+code = "0M-10-10-23"
 subject = "Vanádio"
 
 [Grupo0.0M.10.10.25]
-code = "0M.10.10.25"
+code = "0M-10-10-25"
 subject = "Crômio"
 
 [Grupo0.0M.10.10.27]
-code = "0M.10.10.27"
+code = "0M-10-10-27"
 subject = "Manganês"
 
 [Grupo0.0M.10.10.29]
-code = "0M.10.10.29"
+code = "0M-10-10-29"
 subject = "Ferro"
 
 [Grupo0.0M.10.10.31]
-code = "0M.10.10.31"
+code = "0M-10-10-31"
 subject = "Cobalto"
 
 [Grupo0.0M.10.10.33]
-code = "0M.10.10.33"
+code = "0M-10-10-33"
 subject = "Níquel"
 
 [Grupo0.0M.10.10.35]
-code = "0M.10.10.35"
+code = "0M-10-10-35"
 subject = "Cobre"
 
 [Grupo0.0M.10.10.37]
-code = "0M.10.10.37"
+code = "0M-10-10-37"
 subject = "Zinco"
 
 [Grupo0.0M.10.10.39]
-code = "0M.10.10.39"
+code = "0M-10-10-39"
 subject = "Arsênio"
 
 [Grupo0.0M.10.10.41]
-code = "0M.10.10.41"
+code = "0M-10-10-41"
 subject = "Molibdênio"
 
 [Grupo0.0M.10.10.43]
-code = "0M.10.10.43"
+code = "0M-10-10-43"
 subject = "Prata"
 
 [Grupo0.0M.10.10.45]
-code = "0M.10.10.45"
+code = "0M-10-10-45"
 subject = "Cádmo"
 
 [Grupo0.0M.10.10.47]
-code = "0M.10.10.47"
+code = "0M-10-10-47"
 subject = "Estanho"
 
 [Grupo0.0M.10.10.49]
-code = "0M.10.10.49"
+code = "0M-10-10-49"
 subject = "Antimônio"
 
 [Grupo0.0M.10.10.51]
-code = "0M.10.10.51"
+code = "0M-10-10-51"
 subject = "Tungstênio"
 
 [Grupo0.0M.10.10.53]
-code = "0M.10.10.53"
+code = "0M-10-10-53"
 subject = "Ouro"
 
 [Grupo0.0M.10.10.55]
-code = "0M.10.10.55"
+code = "0M-10-10-55"
 subject = "Chumbo"
 
 [Grupo0.0M.10.10.57]
-code = "0M.10.10.57"
+code = "0M-10-10-57"
 subject = "Bismuto"
 
 [Grupo0.0M.10.30.00]
-code = "0M.10.30.00"
+code = "0M-10-30-00"
 subject = "Elementos Líquidos"
 
 [Grupo0.0M.10.30.01]
-code = "0M.10.30.01"
+code = "0M-10-30-01"
 subject = "Mercúrio"
 
 [Grupo0.0M.10.40.00]
-code = "0M.10.40.00"
+code = "0M-10-40-00"
 subject = "Elementos gasosos"
 
 [Grupo0.0M.10.40.01]
-code = "0M.10.40.01"
+code = "0M-10-40-01"
 subject = "Hidrogênio"
 
 [Grupo0.0M.10.40.03]
-code = "0M.10.40.03"
+code = "0M-10-40-03"
 subject = "Hélio"
 
 [Grupo0.0M.10.40.05]
-code = "0M.10.40.05"
+code = "0M-10-40-05"
 subject = "Nitrogênio"
 
 [Grupo0.0M.10.40.07]
-code = "0M.10.40.07"
+code = "0M-10-40-07"
 subject = "Oxigênio"
 
 [Grupo0.0M.10.40.09]
-code = "0M.10.40.09"
+code = "0M-10-40-09"
 subject = "Flúor"
 
 [Grupo0.0M.10.40.11]
-code = "0M.10.40.11"
+code = "0M-10-40-11"
 subject = "Neônio"
 
 [Grupo0.0M.10.40.13]
-code = "0M.10.40.13"
+code = "0M-10-40-13"
 subject = "Cloro"
 
 [Grupo0.0M.10.40.15]
-code = "0M.10.40.15"
+code = "0M-10-40-15"
 subject = "Argônio"
 
 [Grupo0.0M.10.40.17]
-code = "0M.10.40.17"
+code = "0M-10-40-17"
 subject = "Criptônio"
 
 [Grupo0.0M.10.40.19]
-code = "0M.10.40.19"
+code = "0M-10-40-19"
 subject = "Xenônio"
 
 [Grupo0.0M.10.40.21]
-code = "0M.10.40.21"
+code = "0M-10-40-21"
 subject = "Radônio"
 
 [Grupo0.0M.20.00.00]
-code = "0M.20.00.00"
+code = "0M-20-00-00"
 subject = "Compostos sólidos"
 
 [Grupo0.0M.20.10.00]
-code = "0M.20.10.00"
+code = "0M-20-10-00"
 subject = "Compostos mineriais"
 
 [Grupo0.0M.20.10.01.00]
-code = "0M.20.10.01.00"
+code = "0M-20-10-01-00"
 subject = "Rochas"
 
-[Grupo0.0P]
-code = "0P"
-subject = "Propriedades"
-description = "Propriedades de construção"
+[Grupo0.0M.20.10.01.01]
+code = "0M-20-10-01-01"
+subject = "Granitos"
 
-# ----- GRUPO 1 -----
-[Grupo1]
-code = "1"
-subject = "Processos"
-description = "Processos da construção"
+[Grupo0.0M.20.10.01.03]
+code = "0M-20-10-01-03"
+subject = "Mármores"
 
-[Grupo1.1F]
-code = "1F"
-subject = "Fases"
-description = "Fases da construção"
+[Grupo0.0M.20.10.01.05]
+code = "0M-20-10-01-05"
+subject = "Pedra-luminária"
 
-[Grupo1.1S]
-code = "1S"
-subject = "Serviços"
-description = "Serviços da construção"
+[Grupo0.0M.20.10.01.07]
+code = "0M-20-10-01-07"
+subject = "Pedra Mineira"
 
-[Grupo1.1D]
-code = "1D"
-subject = "Disciplinas"
-description = "Disciplinas da construção"
+[Grupo0.0M.20.10.01.09]
+code = "0M-20-10-01-09"
+subject = "Pedra Goiás"
 
-# ----- GRUPO 2 -----
-[Grupo2]
-code = "2"
-subject = "Recursos"
-description = "Recursos da construção"
+[Grupo0.0M.20.10.01.11]
+code = "0M-20-10-01-11"
+subject = "Pedra Miracema"
 
-[Grupo2.2N]
-code = "2N"
-subject = "Funções"
-description = "Funções da construção"
+[Grupo0.0M.20.10.01.13]
+code = "0M-20-10-01-13"
+subject = "Pedra-madeira"
 
-[Grupo2.2Q]
-code = "2Q"
-subject = "Equipamentos"
-description = "Equipamentos da construção"
+[Grupo0.0M.20.10.01.15]
+code = "0M-20-10-01-15"
+subject = "Pedra-sabão"
 
-[Grupo2.2C]
-code = "2C"
-subject = "Componentes"
-description = "Produtos da construção"
+[Grupo0.0M.20.10.01.17]
+code = "0M-20-10-01-17"
+subject = "Pedra Lagoa Santa"
 
-# ----- GRUPO 3 -----
-[Grupo3]
-code = "3"
-subject = "Resultados da construção"
-description = "Resultados da construção"
+[Grupo0.0M.20.10.01.19]
+code = "0M-20-10-01-19"
+subject = "Pedra Cariri"
 
-[Grupo3.3E]
-code = "3E"
-subject = "Elementos"
-description = "Elementos da construção"
+[Grupo0.0M.20.10.01.50]
+code = "0M-20-10-01-50"
+subject = "Rochas à base de quartzo"
 
-[Grupo3.3R]
-code = "3R"
-subject = "Construção"
-description = "Resultados de serviços da construção"
+[Grupo0.0M.20.10.01.50.01]
+code = "0M-20-10-01-50-01"
+subject = "Quartzo"
 
-# ----- GRUPO 4 -----
-[Grupo4]
-code = "4"
-subject = "Unidades e espaços da construção"
-description = "Unidades e espaços da construção"
+[Grupo0.0M.20.10.01.50.03]
+code = "0M-20-10-01-50-03"
+subject = "Arenito"
 
-[Grupo4.4U]
-code = "4U"
-subject = "Unidades"
-description = "Unidades da construção"
+[Grupo0.0M.20.10.01.50.05]
+code = "0M-20-10-01-50-05"
+subject = "Areia"
 
-[Grupo4.4A]
-code = "4A"
-subject = "Espaços"
-description = "Espaços da construção"
+[Grupo0.0M.20.10.03]
+code = "0M-20-10-03"
+subject = "Argilas"
 
-# ----- GRUPO 5 -----
-[Grupo5]
-code = "5"
-subject = "Informações da construção"
-description = "Informações da construção"
+[Grupo0.0M.20.10.03.01]
+code = "0M-20-10-03-01"
+subject = "Argila"
 
-[Grupo5.5I]
-code = "5I"
-subject = "Informação"
-description = "Informação da construção"
+[Grupo0.0M.20.10.03.03]
+code = "0M-20-10-03-03"
+subject = "Argila refratária (queimada)"
+
+[Grupo0.0M.20.10.03.05]
+code = "0M-20-10-03-05"
+subject = "Bentonita"
+
+[Grupo0.0M.20.10.03.07]
+code = "0M-20-10-03-07"
+subject = "Argila expandida"
+
+[Grupo0.0M.20.10.03.09]
+code = "0M-20-10-03-09"
+subject = "Cerâmica"
+
+[Grupo0.0M.20.10.03.09.01]
+code = "0M-20-10-03-09-01"
+subject = "Barro"
+
+[Grupo0.0M.20.10.03.09.03]
+code = "0M-20-10-03-09-03"
+subject = "Terracota"
+
+[Grupo0.0M.20.10.03.09.05]
+code = "0M-20-10-03-09-05"
+subject = "Xisto refratário (queimado)"
+
+[Grupo0.0M.20.10.03.09.07]
+code = "0M-20-10-03-09-07"
+subject = "Porcelana"
+
+[Grupo0.0M.20.10.03.09.09]
+code = "0M-20-10-03-09-09"
+subject = "Louças"
+
+[Grupo0.0M.20.10.05]
+code = "0M-20-10-05"
+subject = "Outros materiais cimentícios"
+
+[Grupo0.0M.20.10.05.01]
+code = "0M-20-10-05-01"
+subject = "Solos"
+
+[Grupo0.0M.20.10.05.03]
+code = "0M-20-10-05-03"
+subject = "Cimentos"
+
+[Grupo0.0M.20.10.05.03.01]
+code = "0M-20-10-05-03-01"
+subject = "Cimento comum"
+
+[Grupo0.0M.20.10.05.03.01.01]
+code = "0M-20-10-05-03-01-01"
+subject = "Cimento Portland comum CP-I"
+
+[Grupo0.0M.20.10.05.03.01.02]
+code = "0M-20-10-05-03-01-02"
+subject = "Cimento Portland comum CP-I-S"
+
+[Grupo0.0M.20.10.05.03.03]
+code = "0M-20-10-05-03-03"
+subject = "Cimento composto CP-II"
+
+[Grupo0.0M.20.10.05.03.03.01]
+code = "0M-20-10-05-03-03-01"
+subject = "Cimento escória CP-II-E"
+
+[Grupo0.0M.20.10.05.03.03.02]
+code = "0M-20-10-05-03-03-02"
+subject = "Cimento Filler CP-II-F"
+
+[Grupo0.0M.20.10.05.03.03.03]
+code = "0M-20-10-05-03-03-03"
+subject = "Cimento pozolânico CP-II-Z"
+
+[Grupo0.0M.20.10.05.03.05]
+code = "0M-20-10-05-03-05"
+subject = "Cimento alto forno CP-III"
+
+[Grupo0.0M.20.10.05.03.07]
+code = "0M-20-10-05-03-07"
+subject = "Cimento pozolânico CP-IV"
+
+[Grupo0.0M.20.10.05.03.09]
+code = "0M-20-10-05-03-09"
+subject = "Cimento de alta resistência inicial CP-V-ARI"
+
+[Grupo0.0M.20.10.05.03.11]
+code = "0M-20-10-05-03-11"
+subject = "Cimento branco CP-B"
+
+[Grupo0.0M.20.10.05.05]
+code = "0M-20-10-05-05"
+subject = "Cales"
+
+[Grupo0.0M.20.10.05.05.01]
+code = "0M-20-10-05-05-01"
+subject = "Cal"
+
+[Grupo0.0M.20.10.05.05.02]
+code = "0M-20-10-05-05-02"
+subject = "Cal virgem"
+
+[Grupo0.0M.20.10.05.05.03]
+code = "0M-20-10-05-05-03"
+subject = "Cal extinta"
+
+[Grupo0.0M.20.10.05.05.04]
+code = "0M-20-10-05-05-04"
+subject = "Cal hidratada"
+
+[Grupo0.0M.20.10.05.05.05]
+code = "0M-20-10-05-05-05"
+subject = "Cal hidráulica"
+
+[Grupo0.0M.20.10.05.07]
+code = "0M-20-10-05-07"
+subject = "Gesso"
+
+[Grupo0.0M.20.10.05.09]
+code = "0M-20-10-05-09"
+subject = "Silicato de cálcio"
+
+[Grupo0.0M.20.10.05.11]
+code = "0M-20-10-05-11"
+subject = "Magnésia"
+
+[Grupo0.0M.20.10.07]
+code = "0M-20-10-07"
+subject = "Betuminosas e minerais petroquímicos"
+
+[Grupo0.0M.20.10.07.01]
+code = "0M-20-10-07-01"
+subject = "Asfaltos"
+
+[Grupo0.0M.20.10.07.01.01]
+code = "0M-20-10-07-01-01"
+subject = "Asfalto"
+
+[Grupo0.0M.20.10.07.01.02]
+code = "0M-20-10-07-01-02"
+subject = "Asfalto modificado por polímero"
+
+[Grupo0.0M.20.10.07.03]
+code = "0M-20-10-07-03"
+subject = "Alcatrão de carvão"
+
+[Grupo0.0M.20.10.07.03.01]
+code = "0M-20-10-07-03-01"
+subject = "Breu de alcatrão de carvão"
+
+[Grupo0.0M.20.10.07.05]
+code = "0M-20-10-07-05"
+subject = "Parafinas"
+
+[Grupo0.0M.20.10.09]
+code = "0M-20-10-09"
+subject = "Outros minerais não metálicos naturais"
+
+[Grupo0.0M.20.10.09.01]
+code = "0M-20-10-09-01"
+subject = "Crisotila"
+
+[Grupo0.0M.20.10.09.03]
+code = "0M-20-10-09-03"
+subject = "Grafite"
+
+[Grupo0.0M.20.10.09.05]
+code = "0M-20-10-09-05"
+subject = "Preto de carbono"
+
+[Grupo0.0M.20.10.09.07]
+code = "0M-20-10-09-07"
+subject = "Sal (cloreto de sódio)"
+
+[Grupo0.0M.20.10.11]
+code = "0M-20-10-11"
+subject = "Outros minerais que não ocorrem naturalmente"
+
+[Grupo0.0M.20.10.11.01]
+code = "0M-20-10-11-01"
+subject = "Vidros e materiais como o vidro"
+
+[Grupo0.0M.20.10.11.01.01]
+code = "0M-20-10-11-01-01"
+subject = "Vidro"
+
+[Grupo0.0M.20.10.11.01.02]
+code = "0M-20-10-11-01-02"
+subject = "Porcelana esmaltada"
+
+[Grupo0.0M.20.10.11.03]
+code = "0M-20-10-11-03"
+subject = "Outros minerais"
+
+[Grupo0.0M.20.10.11.03.01]
+code = "0M-20-10-11-03-01"
+subject = "Cinzas"
+
+[Grupo0.0M.20.10.11.03.02]
+code = "0M-20-10-11-03-02"
+subject = "Fibra de carbono"
+
+[Grupo0.0M.20.10.11.03.03]
+code = "0M-20-10-11-03-03"
+subject = "Carboneto de silício"
+
+[Grupo0.0M.20.10.11.03.04]
+code = "0M-20-10-11-03-04"
+subject = "Cermet"
+
+[Grupo0.0M.20.20.00]
+code = "0M-20-20-00"
+subject = "Compostos metálicos"
+
+[Grupo0.0M.20.20.01]
+code = "0M-20-20-01"
+subject = "Ferro ligas"
+
+[Grupo0.0M.20.20.01.01]
+code = "0M-20-20-01-01"
+subject = "Aços carbono"
+
+[Grupo0.0M.20.20.01.03]
+code = "0M-20-20-01-03"
+subject = "Aços inoxidáveis"
+
+[Grupo0.0M.20.20.01.05]
+code = "0M-20-20-01-05"
+subject = "Outros aços"
+
+[Grupo0.0M.20.20.01.07]
+code = "0M-20-20-01-07"
+subject = "Outras ligas de ferro"
+
+[Grupo0.0M.20.20.01.07.01]
+code = "0M-20-20-01-07-01"
+subject = "Ferro fundido"
+
+[Grupo0.0M.20.20.01.07.02]
+code = "0M-20-20-01-07-02"
+subject = "Ferro forjado"
+
+[Grupo0.0M.20.20.01.07.03]
+code = "0M-20-20-01-07-03"
+subject = "Ferro fundido dúctil"
+
+[Grupo0.0M.20.20.01.07.04]
+code = "0M-20-20-01-07-04"
+subject = "Ferro maleável"
+
+[Grupo0.0M.20.20.03]
+code = "0M-20-20-03"
+subject = "Ligas de alumínio"
+
+[Grupo0.0M.20.20.03.01]
+code = "0M-20-20-03-01"
+subject = "Ligas de alumínio-zinco"
+
+[Grupo0.0M.20.20.05]
+code = "0M-20-20-05"
+subject = "Ligas de cobre"
+
+[Grupo0.0M.20.20.05.01]
+code = "0M-20-20-05-01"
+subject = "Latões"
+
+[Grupo0.0M.20.20.05.03]
+code = "0M-20-20-05-03"
+subject = "Bronzes"
+
+[Grupo0.0M.20.20.07]
+code = "0M-20-20-07"
+subject = "Ligas de zinco"
+
+[Grupo0.0M.20.20.07.01]
+code = "0M-20-20-07-01"
+subject = "Ligas de zinco-chumbo"
+
+[Grupo0.0M.20.20.07.01.01]
+code = "0M-20-20-07-01-01"
+subject = "Zamac"
+
+[Grupo0.0M.20.20.07.03]
+code = "0M-20-20-07-03"
+subject = "0M-20-20-07-01"
+
+[Grupo0.0M.20.20.07.03.01]
+code = "0M-20-20-07-03-01"
+subject = "Mazac"
+
+[Grupo0.0M.20.20.09]
+code = "0M-20-20-09"
+subject = "Ligas de chumbo"
+
+[Grupo0.0M.20.20.09.01]
+code = "0M-20-20-09-01"
+subject = "Ligas de chumbo e estanho"
+
+[Grupo0.0M.20.20.09.01.01]
+code = "0M-20-20-09-01-01"
+subject = "Terne"
+
+[Grupo0.0M.20.20.11]
+code = "0M-20-20-11"
+subject = "Outras ligas"
+
+[Grupo0.0M.20.30.00]
+code = "0M-20-30-00"
+subject = "Vegetação"
+
+[Grupo0.0M.20.30.01]
+code = "0M-20-30-01"
+subject = "Materiais de vegetais em geral"
+
+[Grupo0.0M.20.30.01.01]
+code = "0M-20-30-01-01"
+subject = "Celulose"
+
+[Grupo0.0M.20.30.01.03]
+code = "0M-20-30-01-03"
+subject = "Papel"
+
+[Grupo0.0M.20.30.01.05]
+code = "0M-20-30-01-05"
+subject = "Têxteis"
+
+[Grupo0.0M.20.30.01.07]
+code = "0M-20-30-01-07"
+subject = "Resíduos de combustão"
+
+[Grupo0.0M.20.30.03]
+code = "0M-20-30-03"
+subject = "Materiais de árvores"
+
+[Grupo0.0M.20.30.03.01]
+code = "0M-20-30-03-01"
+subject = "Madeira"
+
+[Grupo0.0M.20.30.03.01.01]
+code = "0M-20-30-03-01-01"
+subject = "Madeiras resinosas"
+
+[Grupo0.0M.20.30.03.01.01.01]
+code = "0M-20-30-03-01-01-01"
+subject = "Pinus"
+
+[Grupo0.0M.20.30.03.01.01.02]
+code = "0M-20-30-03-01-01-02"
+subject = "Peroba"
+
+[Grupo0.0M.20.30.03.01.01.03]
+code = "0M-20-30-03-01-01-03"
+subject = "Mogno"
+
+[Grupo0.0M.20.30.03.01.01.04]
+code = "0M-20-30-03-01-01-04"
+subject = "Cedro vermelho ocidental"
+
+[Grupo0.0M.20.30.03.01.01.05]
+code = "0M-20-30-03-01-01-05"
+subject = "Angelim-pedra (Hymenolobium)"
+
+[Grupo0.0M.20.30.03.01.01.06]
+code = "0M-20-30-03-01-01-06"
+subject = "Cedro (Cedrela Odorata)"
+
+[Grupo0.0M.20.30.03.01.01.07]
+code = "0M-20-30-03-01-01-07"
+subject = "Cerejeira (Amburana Caerensis)"
+
+[Grupo0.0M.20.30.03.01.01.08]
+code = "0M-20-30-03-01-01-08"
+subject = "Pau-marfim (Agonandra Brasiliensis)"
+
+[Grupo0.0M.20.30.03.01.01.09]
+code = "0M-20-30-03-01-01-09"
+subject = "Pequiá (Caryocar Villosum)"
+
+[Grupo0.0M.20.30.03.01.01.10]
+code = "0M-20-30-03-01-01-10"
+subject = "Sucupira (Bowdichia Nitida)"
+
+[Grupo0.0M.20.30.03.01.03]
+code = "0M-20-30-03-01-03"
+subject = "Madeira de lei"
+
+[Grupo0.0M.20.30.03.01.03.01]
+code = "0M-20-30-03-01-03-01"
+subject = "Carvalho branco"
+
+[Grupo0.0M.20.30.03.01.03.02]
+code = "0M-20-30-03-01-03-02"
+subject = "Carvalho vermelho"
+
+[Grupo0.0M.20.30.03.01.03.03]
+code = "0M-20-30-03-01-03-03"
+subject = "Bordo"
+
+[Grupo0.0M.20.30.03.01.03.04]
+code = "0M-20-30-03-01-03-04"
+subject = "Curupixá (Micropholis Venulosa)"
+
+[Grupo0.0M.20.30.03.01.03.05]
+code = "0M-20-30-03-01-03-05"
+subject = "Goiabão (Pouteria Pachycarpa)"
+
+[Grupo0.0M.20.30.03.01.03.06]
+code = "0M-20-30-03-01-03-06"
+subject = "Ipê (Tabebuia)"
+
+[Grupo0.0M.20.30.03.01.03.07]
+code = "0M-20-30-03-01-03-07"
+subject = "Jatobá (Hymenaea Courbaril)"
+
+[Grupo0.0M.20.30.03.01.03.08]
+code = "0M-20-30-03-01-03-08"
+subject = "Louro-vermelho (Nectrandra Rubra)"
+
+[Grupo0.0M.20.30.03.01.03.09]
+code = "0M-20-30-03-01-03-09"
+subject = "Marupá (Simarouba Amara)"
+
+[Grupo0.0M.20.30.03.01.03.10]
+code = "0M-20-30-03-01-03-10"
+subject = "Massaranduba (Manilkara Elata)"
+
+[Grupo0.0M.20.30.03.01.03.11]
+code = "0M-20-30-03-01-03-11"
+subject = "Muiracatira (Astrnium Lecointei)"
+
+[Grupo0.0M.20.30.03.01.03.12]
+code = "0M-20-30-03-01-03-12"
+subject = "Pau-amarelo (Euxylophora Paraensis)"
+
+[Grupo0.0M.20.30.03.01.03.13]
+code = "0M-20-30-03-01-03-13"
+subject = "Cumarú (Dipteryx Odorata)"
+
+[Grupo0.0M.20.30.03.01.03.14]
+code = "0M-20-30-03-01-03-14"
+subject = "Jacarandá"
+
+[Grupo0.0M.20.30.03.03]
+code = "0M-20-30-03-03"
+subject = "Outras partes da árvore"
+
+[Grupo0.0M.20.30.03.03.01]
+code = "0M-20-30-03-03-01"
+subject = "Casca de árvore"
+
+[Grupo0.0M.20.30.05]
+code = "0M-20-30-05"
+subject = "Materiais de gramíneas"
+
+[Grupo0.0M.20.30.05.01]
+code = "0M-20-30-05-01"
+subject = "Bambu"
+
+[Grupo0.0M.20.30.05.02]
+code = "0M-20-30-05-02"
+subject = "Grama"
+
+[Grupo0.0M.20.30.05.03]
+code = "0M-20-30-05-03"
+subject = "Linho"
+
+[Grupo0.0M.20.30.05.04]
+code = "0M-20-30-05-04"
+subject = "Vime"
+
+[Grupo0.0M.20.30.05.05]
+code = "0M-20-30-05-05"
+subject = "Palha"
+
+[Grupo0.0M.20.40.00]
+code = "0M-20-40-00"
+subject = "Materiais de outras plantas"
+
+[Grupo0.0M.20.40.01]
+code = "0M-20-40-01"
+subject = "Borracha natural"
+
+[Grupo0.0M.20.40.03]
+code = "0M-20-40-03"
+subject = "Algodão"
+
+[Grupo0.0M.20.40.05]
+code = "0M-20-40-05"
+subject = "Juta"
+
+[Grupo0.0M.20.40.07]
+code = "0M-20-40-07"
+subject = "Cortiça"
+
+[Grupo0.0M.20.50.00]
+code = "0M-20-50-00"
+subject = "Outros materiais orgânicos"
+
+[Grupo0.0M.20.50.01]
+code = "0M-20-50-01"
+subject = "Materiais de origem animal"
+
+[Grupo0.0M.20.50.01.01]
+code = "0M-20-50-01-01"
+subject = "Materiais de pelo animal"
+
+[Grupo0.0M.20.50.01.01.01]
+code = "0M-20-50-01-01-01"
+subject = "Lã"
+
+[Grupo0.0M.20.50.01.01.02]
+code = "0M-20-50-01-01-02"
+subject = "Crina"
+
+[Grupo0.0M.20.50.01.03]
+code = "0M-20-50-01-03"
+subject = "Outros materiais de origem animal"
+
+[Grupo0.0M.20.50.01.03.01]
+code = "0M-20-50-01-03-01"
+subject = "Couro"
+
+[Grupo0.0M.20.50.01.03.02]
+code = "0M-20-50-01-03-02"
+subject = "Sebo"
+
+[Grupo0.0M.20.50.03]
+code = "0M-20-50-03"
+subject = "Materiais de insetos"
+
+[Grupo0.0M.20.50.03.01]
+code = "0M-20-50-03-01"
+subject = "Seda"
+
+[Grupo0.0M.20.50.03.02]
+code = "0M-20-50-03-02"
+subject = "Cera de abelha"
+
+[Grupo0.0M.20.60.00]
+code = "0M-20-60-00"
+subject = "Compostos sintéticos sólidos"
+
+[Grupo0.0M.20.60.01]
+code = "0M-20-60-01"
+subject = "Ácidos"
+
+[Grupo0.0M.20.60.03]
+code = "0M-20-60-03"
+subject = "Bases (álcalis)"
+
+[Grupo0.0M.20.60.05]
+code = "0M-20-60-05"
+subject = "Sais"
+
+[Grupo0.0M.20.60.07]
+code = "0M-20-60-07"
+subject = "Plásticos"
+
+[Grupo0.0M.20.60.07.01]
+code = "0M-20-60-07-01"
+subject = "Acrilonitrila-butadieno-estireno (ABE)"
+
+[Grupo0.0M.20.60.07.02]
+code = "0M-20-60-07-02"
+subject = "Acrílico, polimetilmetacrilato"
+
+[Grupo0.0M.20.60.07.03]
+code = "0M-20-60-07-03"
+subject = "Epóxi"
+
+[Grupo0.0M.20.60.07.04]
+code = "0M-20-60-07-04"
+subject = "Poliamida"
+
+[Grupo0.0M.20.60.07.05]
+code = "0M-20-60-07-05"
+subject = "Polibutileno (PB)"
+
+[Grupo0.0M.20.60.07.06]
+code = "0M-20-60-07-06"
+subject = "Fenólicos"
+
+[Grupo0.0M.20.60.07.07]
+code = "0M-20-60-07-07"
+subject = "Policarbonato"
+
+[Grupo0.0M.20.60.07.08]
+code = "0M-20-60-07-08"
+subject = "Poliéster"
+
+[Grupo0.0M.20.60.07.09]
+code = "0M-20-60-07-09"
+subject = "Polietileno (PE)"
+
+[Grupo0.0M.20.60.07.10]
+code = "0M-20-60-07-10"
+subject = "Polietileno reticulado (PE-X)"
+
+[Grupo0.0M.20.60.07.11]
+code = "0M-20-60-07-11"
+subject = "Poli-isocianurato"
+
+[Grupo0.0M.20.60.07.12]
+code = "0M-20-60-07-12"
+subject = "Polipropileno"
+
+[Grupo0.0M.20.60.07.13]
+code = "0M-20-60-07-13"
+subject = "Polipropileno copolímero random (PP-R)"
+
+[Grupo0.0M.20.60.07.14]
+code = "0M-20-60-07-14"
+subject = "Poliestireno"
+
+[Grupo0.0M.20.60.07.15]
+code = "0M-20-60-07-15"
+subject = "Poliuretano"
+
+[Grupo0.0M.20.60.07.16]
+code = "0M-20-60-07-16"
+subject = "Cloreto de polivinil (PVC)"
+
+[Grupo0.0M.20.60.07.17]
+code = "0M-20-60-07-17"
+subject = "Cloreto de polivinil, não plastificado (U-PVC)"
+
+[Grupo0.0M.20.60.07.18]
+code = "0M-20-60-07-18"
+subject = "Policloreto de vinila clorado (CPVC)"
+
+[Grupo0.0M.20.60.07.19]
+code = "0M-20-60-07-19"
+subject = "Fluoreto de polivinilideno"
+
+[Grupo0.0M.20.60.07.20]
+code = "0M-20-60-07-20"
+subject = "Ureia formaldeído"
+
+[Grupo0.0M.20.60.07.21]
+code = "0M-20-60-07-21"
+subject = "Vinil"
+
+[Grupo0.0M.20.60.09]
+code = "0M-20-60-09"
+subject = "Borrachas"
+
+[Grupo0.0M.20.60.09.01]
+code = "0M-20-60-09-01"
+subject = "Borracha butílica"
+
+[Grupo0.0M.20.60.09.02]
+code = "0M-20-60-09-02"
+subject = "Neoprene"
+
+[Grupo0.0M.20.60.09.03]
+code = "0M-20-60-09-03"
+subject = "Silicone"
+
+[Grupo0.0M.20.60.09.04]
+code = "0M-20-60-09-04"
+subject = "Polisulfato"
+
+[Grupo0.0M.20.60.11]
+code = "0M-20-60-11"
+subject = "Outros compostos petroquímicos"
+
+[Grupo0.0M.20.60.11.01]
+code = "0M-20-60-11-01"
+subject = "Parafina"
+
+[Grupo0.0M.20.60.11.02]
+code = "0M-20-60-11-02"
+subject = "Ceras"
+
+[Grupo0.0M.20.60.13]
+code = "0M-20-60-13"
+subject = "Outros compostos sintéticos sólidos"
+
+[Grupo0.0M.30.00.00]
+code = "0M-30-00-00"
+subject = "Lı́quidos"
+
+[Grupo0.0M.30.10.00]
+code = "0M-30-10-00"
+subject = "Águas"
+
+[Grupo0.0M.30.10.01]
+code = "0M-30-10-01"
+subject = "Água doce"
+
+[Grupo0.0M.30.10.01.01]
+code = "0M-30-10-01-01"
+subject = "Água da chuva"
+
+[Grupo0.0M.30.10.01.02]
+code = "0M-30-10-01-02"
+subject = "Água mineral"
+
+[Grupo0.0M.30.10.01.03]
+code = "0M-30-10-01-03"
+subject = "Água destilada"
+
+[Grupo0.0M.30.10.01.04]
+code = "0M-30-10-01-04"
+subject = "Água deionizada"
+
+[Grupo0.0M.30.10.01.05]
+code = "0M-30-10-01-05"
+subject = "Água dura"
+
+[Grupo0.0M.30.10.01.06]
+code = "0M-30-10-01-06"
+subject = "Água de reuso"
+
+[Grupo0.0M.30.10.03]
+code = "0M-30-10-03"
+subject = "Águas salgadas"
+
+[Grupo0.0M.30.10.03.01]
+code = "0M-30-10-03-01"
+subject = "Água do mar"
+
+[Grupo0.0M.30.20.00]
+code = "0M-30-20-00"
+subject = "Soluções à base de água"
+
+[Grupo0.0M.30.20.01]
+code = "0M-30-20-01"
+subject = "Soluções ácidas à base de água"
+
+[Grupo0.0M.30.20.03]
+code = "0M-30-20-03"
+subject = "Soluções básicas (alcalinas) à base de água"
+
+[Grupo0.0M.30.20.05]
+code = "0M-30-20-05"
+subject = "Outras soluções à base de água"
 
