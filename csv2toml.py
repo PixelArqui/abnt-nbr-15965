@@ -12,7 +12,7 @@ def criar_toml_de_csv_corrigido(arquivo_csv_entrada, arquivo_toml_saida):
     try:
         # 1. Abre o arquivo com 'utf-8-sig' para remover o BOM automaticamente
         with open(arquivo_csv_entrada, mode='r', encoding='utf-8-sig') as arquivo_csv:
-            leitor_csv = list(csv.reader(arquivo_csv))
+            leitor_csv = list(csv.reader(arquivo_csv,delimiter=';'))
 
             # 2. Processa as informações do sistema (primeiras 4 linhas)
             info_sistema = {linha[0]: linha[1] for linha in leitor_csv[:4]}
