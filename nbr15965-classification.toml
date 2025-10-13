@@ -4,11 +4,6 @@ version = "2023"
 source = "ABNT"
 description = "Sistema de classificação da informação da construção"
 
-[Grupo0]
-code = "0"
-subject = "Características dos objetos"
-description = "Características dos objetos da construção"
-
 [Grupo0.0M.00.00.00]
 code = "0M-00-00-00"
 subject = "Materiais"
@@ -1009,4 +1004,1231 @@ subject = "Soluções básicas (alcalinas) à base de água"
 [Grupo0.0M.30.20.05]
 code = "0M-30-20-05"
 subject = "Outras soluções à base de água"
+
+[Grupo0.0M.30.30.00]
+code = "0M-30-30-00"
+subject = "Minerais líquidos"
+
+[Grupo0.0M.30.30.01]
+code = "0M-30-30-01"
+subject = "Produtos de petróleo"
+
+[Grupo0.0M.30.30.01.01]
+code = "0M-30-30-01-01"
+subject = "Gasolina"
+
+[Grupo0.0M.30.30.01.02]
+code = "0M-30-30-01-02"
+subject = "Óleos diesel"
+
+[Grupo0.0M.30.30.01.03]
+code = "0M-30-30-01-03"
+subject = "Óleos combustíveis"
+
+[Grupo0.0M.30.30.01.04]
+code = "0M-30-30-01-04"
+subject = "Querosene"
+
+[Grupo0.0M.30.30.03]
+code = "0M-30-30-03"
+subject = "Óleos minerais"
+
+[Grupo0.0M.30.40.00]
+code = "0M-30-40-00"
+subject = "Líquidos derivados de plantas"
+
+[Grupo0.0M.30.40.01]
+code = "0M-30-40-01"
+subject = "Óleos vegetais"
+
+[Grupo0.0M.30.40.03]
+code = "0M-30-40-03"
+subject = "Outros líquidos derivados de plantas"
+
+[Grupo0.0M.30.50.00]
+code = "0M-30-50-00"
+subject = "Líquidos de origem animal"
+
+[Grupo0.0M.30.50.01]
+code = "0M-30-50-01"
+subject = "Óleos de peixe"
+
+[Grupo0.0M.30.50.03]
+code = "0M-30-50-03"
+subject = "Outros líquidos de origem animal"
+
+[Grupo0.0M.30.60.00]
+code = "0M-30-60-00"
+subject = "Líquidos sintéticos"
+
+[Grupo0.0M.30.60.01]
+code = "0M-30-60-01"
+subject = "Alcoóis"
+
+[Grupo0.0M.30.60.03]
+code = "0M-30-60-03"
+subject = "Lubrificantes"
+
+[Grupo0.0M.30.60.05]
+code = "0M-30-60-05"
+subject = "Amônia"
+
+[Grupo0.0M.30.70.00]
+code = "0M-30-70-00"
+subject = "Outros líquidos"
+
+[Grupo0.0M.40.00.00]
+code = "0M-40-00-00"
+subject = "Gases"
+
+[Grupo0.0M.40.10.00]
+code = "0M-40-10-00"
+subject = "Gases naturais"
+
+[Grupo0.0M.40.10.01]
+code = "0M-40-10-01"
+subject = "Ar natural"
+
+[Grupo0.0M.40.10.03]
+code = "0M-40-10-03"
+subject = "Dióxido de carbono"
+
+[Grupo0.0M.40.10.05]
+code = "0M-40-10-05"
+subject = "Monóxido de carbono"
+
+[Grupo0.0M.40.10.07]
+code = "0M-40-10-07"
+subject = "Vapor de água"
+
+[Grupo0.0M.40.20.00]
+code = "0M-40-20-00"
+subject = "Gases de hidrocarbonetos"
+
+[Grupo0.0M.40.20.01]
+code = "0M-40-20-01"
+subject = "Propano"
+
+[Grupo0.0M.40.20.03]
+code = "0M-40-20-03"
+subject = "Gás butano"
+
+[Grupo0.0M.40.20.05]
+code = "0M-40-20-05"
+subject = "GLP"
+
+[Grupo0.0M.40.30.00]
+code = "0M-40-30-00"
+subject = "Gases refrigerantes"
+
+[Grupo0.0M.40.30.01]
+code = "0M-40-30-01"
+subject = "Gases refrigerantes"
+
+[Grupo0.0M.40.30.01.01]
+code = "0M-40-30-01-01"
+subject = "Triclorofluorometano (CFC-11)"
+
+[Grupo0.0M.40.30.01.02]
+code = "0M-40-30-01-02"
+subject = "Diclorodifluorometano (CFC-12)"
+
+[Grupo0.0M.40.30.01.03]
+code = "0M-40-30-01-03"
+subject = "Clorotrifluorometano (CFC-13)"
+
+[Grupo0.0M.40.30.01.04]
+code = "0M-40-30-01-04"
+subject = "Clorodifluorometano (HCFC-22)"
+
+[Grupo0.0M.40.30.01.05]
+code = "0M-40-30-01-05"
+subject = "Trifluorometano (HFC-23)"
+
+[Grupo0.0M.40.30.01.06]
+code = "0M-40-30-01-06"
+subject = "Triclorotrifluoretano (CFC-113)"
+
+[Grupo0.0M.40.30.01.07]
+code = "0M-40-30-01-07"
+subject = "Diclorotetrafluoretano (CFC-114)"
+
+[Grupo0.0M.40.30.01.08]
+code = "0M-40-30-01-08"
+subject = "Cloropentafluoretano (CFC-115)"
+
+[Grupo0.0M.40.30.01.09]
+code = "0M-40-30-01-09"
+subject = "Hexacloroetano (CFC-116)"
+
+[Grupo0.0M.40.30.01.10]
+code = "0M-40-30-01-10"
+subject = "Tetrafluoroetano (HFC-134a)"
+
+[Grupo0.0M.40.30.01.11]
+code = "0M-40-30-01-11"
+subject = "Heptafluoropropano (HFC-227ea)"
+
+[Grupo0.0M.40.40.00]
+code = "0M-40-40-00"
+subject = "Outros gases"
+
+[Grupo0.0M.40.40.01]
+code = "0M-40-40-01"
+subject = "Halon"
+
+[Grupo0.0M.40.40.01.01]
+code = "0M-40-40-01-01"
+subject = "Bromoclorodifluorometano (Halon 1211)"
+
+[Grupo0.0M.40.40.01.02]
+code = "0M-40-40-01-02"
+subject = "Bromotrifluorometano (Halon 1301)"
+
+[Grupo0.0P.10.00.00]
+code = "0P-10-00-00"
+subject = "Propriedades de identificação"
+
+[Grupo0.0P.10.10.00]
+code = "0P-10-10-00"
+subject = "Códigos de identificação das edificações"
+
+[Grupo0.0P.10.10.01]
+code = "0P-10-10-01"
+subject = "Código de identificação do local"
+
+[Grupo0.0P.10.10.03]
+code = "0P-10-10-03"
+subject = "Tipo de local"
+
+[Grupo0.0P.10.10.05]
+code = "0P-10-10-05"
+subject = "Código de identificação do marco"
+
+[Grupo0.0P.10.10.07]
+code = "0P-10-10-07"
+subject = "Grupo da edificação"
+
+[Grupo0.0P.10.10.09]
+code = "0P-10-10-09"
+subject = "Nome da edificação"
+
+[Grupo0.0P.10.10.11]
+code = "0P-10-10-11"
+subject = "Numero da edificação"
+
+[Grupo0.0P.10.10.13]
+code = "0P-10-10-13"
+subject = "Endereço"
+
+[Grupo0.0P.10.10.13.01]
+code = "0P-10-10-13-01"
+subject = "Tipo de logradouro"
+
+[Grupo0.0P.10.10.13.02]
+code = "0P-10-10-13-02"
+subject = "Nome do logradouro"
+
+[Grupo0.0P.10.10.13.03]
+code = "0P-10-10-13-03"
+subject = "Número no logradouro"
+
+[Grupo0.0P.10.10.13.04]
+code = "0P-10-10-13-04"
+subject = "Complemento no logradouro"
+
+[Grupo0.0P.10.10.13.05]
+code = "0P-10-10-13-05"
+subject = "Código de Endereçamento Postal"
+
+[Grupo0.0P.10.20.00]
+code = "0P-10-20-00"
+subject = "Identificações de ambientes"
+
+[Grupo0.0P.10.20.01]
+code = "0P-10-20-01"
+subject = "Número do pavimento"
+
+[Grupo0.0P.10.20.03]
+code = "0P-10-20-03"
+subject = "Nome designado do ambiente"
+
+[Grupo0.0P.10.20.05]
+code = "0P-10-20-05"
+subject = "Nome padrão do ambiente"
+
+[Grupo0.0P.10.20.07]
+code = "0P-10-20-07"
+subject = "Número designado do ambiente"
+
+[Grupo0.0P.10.20.09]
+code = "0P-10-20-09"
+subject = "Número do ambiente"
+
+[Grupo0.0P.10.20.11]
+code = "0P-10-20-11"
+subject = "Rota de fuga"
+
+[Grupo0.0P.10.30.00]
+code = "0P-10-30-00"
+subject = "Identificações de ocupação"
+
+[Grupo0.0P.10.30.01]
+code = "0P-10-30-01"
+subject = "Classe de ocupação"
+
+[Grupo0.0P.10.30.03]
+code = "0P-10-30-03"
+subject = "Grupo funcional dos ocupantes"
+
+[Grupo0.0P.10.30.05]
+code = "0P-10-30-05"
+subject = "Demografia dos ocupantes"
+
+[Grupo0.0P.10.30.07]
+code = "0P-10-30-07"
+subject = "Ocupantes animais"
+
+[Grupo0.0P.10.40.00]
+code = "0P-10-40-00"
+subject = "Identificações de resultados de serviço de construção"
+
+[Grupo0.0P.10.40.01]
+code = "0P-10-40-01"
+subject = "Categoria"
+
+[Grupo0.0P.10.40.01.01]
+code = "0P-10-40-01-01"
+subject = "Subcategoria"
+
+[Grupo0.0P.10.40.03]
+code = "0P-10-40-03"
+subject = "Versão"
+
+[Grupo0.0P.10.40.05]
+code = "0P-10-40-05"
+subject = "Atributo Material ID Ref (padrão gbXML)"
+
+[Grupo0.0P.10.40.07]
+code = "0P-10-40-07"
+subject = "Atributo Object ID (padrão gbXML)"
+
+[Grupo0.0P.10.40.09]
+code = "0P-10-40-09"
+subject = "Classe IFC (Industry Foundation Classes - ISO/PAS16739)"
+
+[Grupo0.0P.10.40.11]
+code = "0P-10-40-11"
+subject = "IFD (International Framework for Dictionaries - ISO12006-3)"
+
+[Grupo0.0P.10.40.13]
+code = "0P-10-40-13"
+subject = "Tipo de etiqueta"
+
+[Grupo0.0P.10.40.15]
+code = "0P-10-40-15"
+subject = "RFID (Radio Frequency ID)"
+
+[Grupo0.0P.10.40.17]
+code = "0P-10-40-17"
+subject = "Código de barras"
+
+[Grupo0.0P.10.40.19]
+code = "0P-10-40-19"
+subject = "Número de rastreamento"
+
+[Grupo0.0P.10.40.21]
+code = "0P-10-40-21"
+subject = "Fonte dos dados"
+
+[Grupo0.0P.10.40.21.01]
+code = "0P-10-40-21-01"
+subject = "Número da posição"
+
+[Grupo0.0P.10.40.21.02]
+code = "0P-10-40-21-02"
+subject = "Referência do detalhe"
+
+[Grupo0.0P.10.40.21.03]
+code = "0P-10-40-21-03"
+subject = "Revisão atual"
+
+[Grupo0.0P.10.40.21.04]
+code = "0P-10-40-21-04"
+subject = "Certificado por"
+
+[Grupo0.0P.10.40.21.05]
+code = "0P-10-40-21-05"
+subject = "Aprovado por"
+
+[Grupo0.0P.10.40.21.06]
+code = "0P-10-40-21-06"
+subject = "Projetado por"
+
+[Grupo0.0P.10.40.21.07]
+code = "0P-10-40-21-07"
+subject = "Verificado por"
+
+[Grupo0.0P.10.40.21.08]
+code = "0P-10-40-21-08"
+subject = "Desenhado por"
+
+[Grupo0.0P.10.40.21.09]
+code = "0P-10-40-21-09"
+subject = "Caminho do arquivo"
+
+[Grupo0.0P.10.40.21.10]
+code = "0P-10-40-21-10"
+subject = "Emitido para"
+
+[Grupo0.0P.10.40.21.11]
+code = "0P-10-40-21-11"
+subject = "Emitido por"
+
+[Grupo0.0P.10.50.00]
+code = "0P-10-50-00"
+subject = "Identificações do produto"
+
+[Grupo0.0P.10.50.01]
+code = "0P-10-50-01"
+subject = "Nome da marca"
+
+[Grupo0.0P.10.50.03]
+code = "0P-10-50-03"
+subject = "Nome do fabricante"
+
+[Grupo0.0P.10.50.05]
+code = "0P-10-50-05"
+subject = "Número SKU (Stock-Keeping Unit)"
+
+[Grupo0.0P.10.50.07]
+code = "0P-10-50-07"
+subject = "Número EAN (European Article Number)"
+
+[Grupo0.0P.10.50.09]
+code = "0P-10-50-09"
+subject = "Marca registrada"
+
+[Grupo0.0P.10.50.11]
+code = "0P-10-50-11"
+subject = "Código UPC (Universal Product Code)"
+
+[Grupo0.0P.10.60.00]
+code = "0P-10-60-00"
+subject = "Identificações de comunicação"
+
+[Grupo0.0P.10.60.01]
+code = "0P-10-60-01"
+subject = "URL (Uniform Resource Locator)"
+
+[Grupo0.0P.10.60.03]
+code = "0P-10-60-03"
+subject = "Código do país na Internet"
+
+[Grupo0.0P.10.60.05]
+code = "0P-10-60-05"
+subject = "Número de telefone"
+
+[Grupo0.0P.10.60.07]
+code = "0P-10-60-07"
+subject = "Número de fax"
+
+[Grupo0.0P.10.60.09]
+code = "0P-10-60-09"
+subject = "Endereço de email"
+
+[Grupo0.0P.10.60.11]
+code = "0P-10-60-11"
+subject = "Endereço IP"
+
+[Grupo0.0P.20.00.00]
+code = "0P-20-00-00"
+subject = "Propriedades de localização"
+
+[Grupo0.0P.20.10.00]
+code = "0P-20-10-00"
+subject = "Localização geográfica"
+
+[Grupo0.0P.20.10.01]
+code = "0P-20-10-01"
+subject = "Latitude"
+
+[Grupo0.0P.20.10.02]
+code = "0P-20-10-02"
+subject = "Longitude"
+
+[Grupo0.0P.20.10.03]
+code = "0P-20-10-03"
+subject = "Altitude"
+
+[Grupo0.0P.20.10.05]
+code = "0P-20-10-05"
+subject = "Posição GPS"
+
+[Grupo0.0P.20.10.06]
+code = "0P-20-10-06"
+subject = "WGS84"
+
+[Grupo0.0P.20.10.07]
+code = "0P-20-10-07"
+subject = "Orientação na bússola"
+
+[Grupo0.0P.20.20.00]
+code = "0P-20-20-00"
+subject = "Divisão geopolítica"
+
+[Grupo0.0P.20.20.01]
+code = "0P-20-20-01"
+subject = "País"
+
+[Grupo0.0P.20.20.02]
+code = "0P-20-20-02"
+subject = "Região"
+
+[Grupo0.0P.20.20.03]
+code = "0P-20-20-03"
+subject = "Estado"
+
+[Grupo0.0P.20.20.04]
+code = "0P-20-20-04"
+subject = "Região metropolitana"
+
+[Grupo0.0P.20.20.05]
+code = "0P-20-20-05"
+subject = "Município"
+
+[Grupo0.0P.20.20.06]
+code = "0P-20-20-06"
+subject = "Divisão municipal"
+
+[Grupo0.0P.20.20.07]
+code = "0P-20-20-07"
+subject = "Autoridade com jurisdição"
+
+[Grupo0.0P.20.20.08]
+code = "0P-20-20-08"
+subject = "Distrito para zoneamento"
+
+[Grupo0.0P.20.20.09]
+code = "0P-20-20-09"
+subject = "Distrito para planejamento"
+
+[Grupo0.0P.20.20.10]
+code = "0P-20-20-10"
+subject = "Descrição legal"
+
+[Grupo0.0P.20.20.11]
+code = "0P-20-20-11"
+subject = "Lote/terreno"
+
+[Grupo0.0P.20.30.00]
+code = "0P-20-30-00"
+subject = "Localização de fabricantes e produtos"
+
+[Grupo0.0P.20.30.01]
+code = "0P-20-30-01"
+subject = "Local da fabricação"
+
+[Grupo0.0P.20.30.02]
+code = "0P-20-30-02"
+subject = "Local da montagem"
+
+[Grupo0.0P.20.30.03]
+code = "0P-20-30-03"
+subject = "Local da armazenagem"
+
+[Grupo0.0P.20.30.04]
+code = "0P-20-30-04"
+subject = "Local da colheita"
+
+[Grupo0.0P.30.00.00]
+code = "0P-30-00-00"
+subject = "Propriedades de tempo e custo"
+
+[Grupo0.0P.30.10.00]
+code = "0P-30-10-00"
+subject = "Propriedades de prazo e programação"
+
+[Grupo0.0P.30.10.01]
+code = "0P-30-10-01"
+subject = "Idade"
+
+[Grupo0.0P.30.10.02]
+code = "0P-30-10-02"
+subject = "Faixa de idade"
+
+[Grupo0.0P.30.10.03]
+code = "0P-30-10-03"
+subject = "Intervalo de tempo"
+
+[Grupo0.0P.30.10.04]
+code = "0P-30-10-04"
+subject = "Incremento de tempo"
+
+[Grupo0.0P.30.10.05]
+code = "0P-30-10-05"
+subject = "Tempo decorrido"
+
+[Grupo0.0P.30.10.06]
+code = "0P-30-10-06"
+subject = "Tempo de vida"
+
+[Grupo0.0P.30.10.07]
+code = "0P-30-10-07"
+subject = "Tempo de vida estimado"
+
+[Grupo0.0P.30.10.08]
+code = "0P-30-10-08"
+subject = "Data da compra"
+
+[Grupo0.0P.30.10.09]
+code = "0P-30-10-09"
+subject = "Data da extração"
+
+[Grupo0.0P.30.10.10]
+code = "0P-30-10-10"
+subject = "Data da colheita"
+
+[Grupo0.0P.30.10.11]
+code = "0P-30-10-11"
+subject = "Data da fabricação"
+
+[Grupo0.0P.30.10.12]
+code = "0P-30-10-12"
+subject = "Data da atualização"
+
+[Grupo0.0P.30.10.13]
+code = "0P-30-10-13"
+subject = "Atributo DayType (padrão gbXML)"
+
+[Grupo0.0P.30.10.14]
+code = "0P-30-10-14"
+subject = "Tempo de aprovisionamento"
+
+[Grupo0.0P.30.10.15]
+code = "0P-30-10-15"
+subject = "Tempo de preparação"
+
+[Grupo0.0P.30.10.16]
+code = "0P-30-10-16"
+subject = "Tempo de execução"
+
+[Grupo0.0P.30.10.17]
+code = "0P-30-10-17"
+subject = "Tempo do processo"
+
+[Grupo0.0P.30.10.18]
+code = "0P-30-10-18"
+subject = "Tempo de espera/ inativo"
+
+[Grupo0.0P.30.10.19]
+code = "0P-30-10-19"
+subject = "Tempo de ciclo"
+
+[Grupo0.0P.30.10.20]
+code = "0P-30-10-20"
+subject = "Tempo de fluxo"
+
+[Grupo0.0P.30.10.21]
+code = "0P-30-10-21"
+subject = "Data de envio"
+
+[Grupo0.0P.30.10.22]
+code = "0P-30-10-22"
+subject = "Horário do envio"
+
+[Grupo0.0P.30.10.23]
+code = "0P-30-10-23"
+subject = "Horário da entrega"
+
+[Grupo0.0P.30.10.24]
+code = "0P-30-10-24"
+subject = "Data da entrega"
+
+[Grupo0.0P.30.10.25]
+code = "0P-30-10-25"
+subject = "Data de início de instalação"
+
+[Grupo0.0P.30.10.26]
+code = "0P-30-10-26"
+subject = "Data de término de instalação"
+
+[Grupo0.0P.30.10.26.01]
+code = "0P-30-10-26-01"
+subject = "Tempo de pega"
+
+[Grupo0.0P.30.10.26.02]
+code = "0P-30-10-26-02"
+subject = "Prazo de consumo"
+
+[Grupo0.0P.30.10.26.03]
+code = "0P-30-10-26-03"
+subject = "Prazo de validade"
+
+[Grupo0.0P.30.10.26.04]
+code = "0P-30-10-26-04"
+subject = "Tempo de secagem ao toque"
+
+[Grupo0.0P.30.10.26.05]
+code = "0P-30-10-26-05"
+subject = "Tempo de recobrimento"
+
+[Grupo0.0P.30.10.26.06]
+code = "0P-30-10-26-06"
+subject = "Tempo de cura"
+
+[Grupo0.0P.30.10.27]
+code = "0P-30-10-27"
+subject = "Data de inspeção no local"
+
+[Grupo0.0P.30.10.28]
+code = "0P-30-10-28"
+subject = "Data de teste no local"
+
+[Grupo0.0P.30.10.29]
+code = "0P-30-10-29"
+subject = "Data do aceite"
+
+[Grupo0.0P.30.10.30]
+code = "0P-30-10-30"
+subject = "Data do comissionamento"
+
+[Grupo0.0P.30.10.31]
+code = "0P-30-10-31"
+subject = "Fase do projeto"
+
+[Grupo0.0P.30.10.31.01]
+code = "0P-30-10-31-01"
+subject = "Fase de criação"
+
+[Grupo0.0P.30.10.31.02]
+code = "0P-30-10-31-02"
+subject = "Fase de demolição"
+
+[Grupo0.0P.30.10.32]
+code = "0P-30-10-32"
+subject = "Tempo de resposta do serviço"
+
+[Grupo0.0P.30.10.33]
+code = "0P-30-10-33"
+subject = "Data de armazenamento"
+
+[Grupo0.0P.30.10.34]
+code = "0P-30-10-34"
+subject = "Tempo máximo de armazenamento"
+
+[Grupo0.0P.30.10.35]
+code = "0P-30-10-35"
+subject = "Operações e manutenção"
+
+[Grupo0.0P.30.10.35.01]
+code = "0P-30-10-35-01"
+subject = "Cronograma de depreciação"
+
+[Grupo0.0P.30.10.35.02]
+code = "0P-30-10-35-02"
+subject = "Cronograma de manutenção"
+
+[Grupo0.0P.30.10.36]
+code = "0P-30-10-36"
+subject = "Data de descomissionamento"
+
+[Grupo0.0P.30.10.37]
+code = "0P-30-10-37"
+subject = "Data de demolição"
+
+[Grupo0.0P.30.10.38]
+code = "0P-30-10-38"
+subject = "Data de descarte"
+
+[Grupo0.0P.30.10.39]
+code = "0P-30-10-39"
+subject = "Data de reciclagem"
+
+[Grupo0.0P.30.10.40]
+code = "0P-30-10-40"
+subject = "Data de remoção"
+
+[Grupo0.0P.30.10.41]
+code = "0P-30-10-41"
+subject = "Propriedades de custo"
+
+[Grupo0.0P.30.10.41.01]
+code = "0P-30-10-41-01"
+subject = "Tipo de moeda"
+
+[Grupo0.0P.30.10.41.02]
+code = "0P-30-10-41-02"
+subject = "Preço unitário"
+
+[Grupo0.0P.30.10.41.03]
+code = "0P-30-10-41-03"
+subject = "Custo de atacado"
+
+[Grupo0.0P.30.10.41.04]
+code = "0P-30-10-41-04"
+subject = "Custo de varejo"
+
+[Grupo0.0P.30.10.41.05]
+code = "0P-30-10-41-05"
+subject = "Preço de venda sugerido pelo fabricante"
+
+[Grupo0.0P.30.10.41.06]
+code = "0P-30-10-41-06"
+subject = "Desconto de custo"
+
+[Grupo0.0P.30.10.41.07]
+code = "0P-30-10-41-07"
+subject = "Custo de frete"
+
+[Grupo0.0P.30.10.41.08]
+code = "0P-30-10-41-08"
+subject = "Custo de Instalação"
+
+[Grupo0.0P.30.10.41.09]
+code = "0P-30-10-41-09"
+subject = "Condições de compra"
+
+[Grupo0.0P.40.00.00]
+code = "0P-40-00-00"
+subject = "Propriedades do fornecimento"
+
+[Grupo0.0P.40.10.00]
+code = "0P-40-10-00"
+subject = "Propriedades do fabricante"
+
+[Grupo0.0P.40.10.01]
+code = "0P-40-10-01"
+subject = "Limitações do fabricante"
+
+[Grupo0.0P.40.10.02]
+code = "0P-40-10-02"
+subject = "Identificação do fabricante"
+
+[Grupo0.0P.40.10.03]
+code = "0P-40-10-03"
+subject = "Experiência do fabricante"
+
+[Grupo0.0P.40.10.04]
+code = "0P-40-10-04"
+subject = "Taxa de produção do fabricante"
+
+[Grupo0.0P.40.10.04.01]
+code = "0P-40-10-04-01"
+subject = "Nível de gerenciamento"
+
+[Grupo0.0P.40.10.04.02]
+code = "0P-40-10-04-02"
+subject = "Nível dos operadores"
+
+[Grupo0.0P.40.10.04.03]
+code = "0P-40-10-04-03"
+subject = "Nível dos controladores"
+
+[Grupo0.0P.40.10.04.04]
+code = "0P-40-10-04-04"
+subject = "Nível de campo"
+
+[Grupo0.0P.40.10.05]
+code = "0P-40-10-05"
+subject = "Nome do projetista"
+
+[Grupo0.0P.40.10.06]
+code = "0P-40-10-06"
+subject = "Método de fabricação"
+
+[Grupo0.0P.40.10.07]
+code = "0P-40-10-07"
+subject = "Certificação do fabricante"
+
+[Grupo0.0P.40.20.00]
+code = "0P-40-20-00"
+subject = "Propriedades do produto"
+
+[Grupo0.0P.40.20.01]
+code = "0P-40-20-01"
+subject = "Nome do produto"
+
+[Grupo0.0P.40.20.02]
+code = "0P-40-20-02"
+subject = "De linha ou customizado"
+
+[Grupo0.0P.40.20.03]
+code = "0P-40-20-03"
+subject = "Em estoque"
+
+[Grupo0.0P.40.20.04]
+code = "0P-40-20-04"
+subject = "Pré-montado"
+
+[Grupo0.0P.40.20.05]
+code = "0P-40-20-05"
+subject = "Certificação de produto"
+
+[Grupo0.0P.40.20.06]
+code = "0P-40-20-06"
+subject = "Embalagem"
+
+[Grupo0.0P.40.20.07]
+code = "0P-40-20-07"
+subject = "Nível de qualidade"
+
+[Grupo0.0P.40.20.08]
+code = "0P-40-20-08"
+subject = "Grau"
+
+[Grupo0.0P.40.20.08.01]
+code = "0P-40-20-08-01"
+subject = "Residencial"
+
+[Grupo0.0P.40.20.08.02]
+code = "0P-40-20-08-02"
+subject = "Comercial"
+
+[Grupo0.0P.40.20.08.03]
+code = "0P-40-20-08-03"
+subject = "Pesado"
+
+[Grupo0.0P.40.20.08.04]
+code = "0P-40-20-08-04"
+subject = "Extra pesado"
+
+[Grupo0.0P.40.20.09]
+code = "0P-40-20-09"
+subject = "Espécie"
+
+[Grupo0.0P.40.20.10]
+code = "0P-40-20-10"
+subject = "Construção do produto"
+
+[Grupo0.0P.40.20.10.01]
+code = "0P-40-20-10-01"
+subject = "Tipo de superfície"
+
+[Grupo0.0P.40.20.10.02]
+code = "0P-40-20-10-02"
+subject = "Tipo de substrato"
+
+[Grupo0.0P.40.20.11]
+code = "0P-40-20-11"
+subject = "Estilo"
+
+[Grupo0.0P.40.20.12]
+code = "0P-40-20-12"
+subject = "Padrão"
+
+[Grupo0.0P.40.20.13]
+code = "0P-40-20-13"
+subject = "Padrão de Relevo"
+
+[Grupo0.0P.40.20.13.01]
+code = "0P-40-20-13-01"
+subject = "Altura do padrão de relevo"
+
+[Grupo0.0P.40.20.13.02]
+code = "0P-40-20-13-02"
+subject = "Escala do padrão de relevo"
+
+[Grupo0.0P.40.20.14]
+code = "0P-40-20-14"
+subject = "Perfurações"
+
+[Grupo0.0P.40.20.15]
+code = "0P-40-20-15"
+subject = "Capa do produto"
+
+[Grupo0.0P.40.20.16]
+code = "0P-40-20-16"
+subject = "Modificações do produto"
+
+[Grupo0.0P.40.20.17]
+code = "0P-40-20-17"
+subject = "Configurações de fábrica"
+
+[Grupo0.0P.40.20.18]
+code = "0P-40-20-18"
+subject = "Acesso para manutenção"
+
+[Grupo0.0P.40.20.19]
+code = "0P-40-20-19"
+subject = "Características do produto"
+
+[Grupo0.0P.40.20.20]
+code = "0P-40-20-20"
+subject = "Acessórios"
+
+[Grupo0.0P.40.20.21]
+code = "0P-40-20-21"
+subject = "Opções"
+
+[Grupo0.0P.40.20.22]
+code = "0P-40-20-22"
+subject = "Cor"
+
+[Grupo0.0P.40.20.22.01]
+code = "0P-40-20-22-01"
+subject = "Cor interna"
+
+[Grupo0.0P.40.20.22.02]
+code = "0P-40-20-22-02"
+subject = "Cor externa"
+
+[Grupo0.0P.40.20.22.03]
+code = "0P-40-20-22-03"
+subject = "Codificação de cores"
+
+[Grupo0.0P.40.20.22.04]
+code = "0P-40-20-22-04"
+subject = "Lote da tinta"
+
+[Grupo0.0P.40.20.22.05]
+code = "0P-40-20-22-05"
+subject = "Cor integral"
+
+[Grupo0.0P.40.20.23]
+code = "0P-40-20-23"
+subject = "Orientação"
+
+[Grupo0.0P.40.20.24]
+code = "0P-40-20-24"
+subject = "Acabamento"
+
+[Grupo0.0P.40.20.24.01]
+code = "0P-40-20-24-01"
+subject = "Acabamento aplicado"
+
+[Grupo0.0P.40.20.24.02]
+code = "0P-40-20-24-02"
+subject = "Acabamento integral"
+
+[Grupo0.0P.40.20.24.03]
+code = "0P-40-20-24-03"
+subject = "Acabamento da face"
+
+[Grupo0.0P.40.20.24.04]
+code = "0P-40-20-24-04"
+subject = "Material de acabamento em campo"
+
+[Grupo0.0P.40.20.24.05]
+code = "0P-40-20-24-05"
+subject = "Método de acabamento em campo"
+
+[Grupo0.0P.40.20.24.06]
+code = "0P-40-20-24-06"
+subject = "Textura"
+
+[Grupo0.0P.40.20.24.07]
+code = "0P-40-20-24-07"
+subject = "Arremate"
+
+[Grupo0.0P.40.20.24.08]
+code = "0P-40-20-24-08"
+subject = "Acabamento de teto"
+
+[Grupo0.0P.40.20.24.09]
+code = "0P-40-20-24-09"
+subject = "Acabamento de parede"
+
+[Grupo0.0P.40.20.24.10]
+code = "0P-40-20-24-10"
+subject = "Acabamento de piso"
+
+[Grupo0.0P.40.20.24.11]
+code = "0P-40-20-24-11"
+subject = "Brilho"
+
+[Grupo0.0P.40.20.24.12]
+code = "0P-40-20-24-12"
+subject = "Polimento"
+
+[Grupo0.0P.40.20.24.13]
+code = "0P-40-20-24-13"
+subject = "Patina"
+
+[Grupo0.0P.40.20.25]
+code = "0P-40-20-25"
+subject = "Tratamento"
+
+[Grupo0.0P.40.20.25.01]
+code = "0P-40-20-25-01"
+subject = "Tratamento anti-microbiano"
+
+[Grupo0.0P.40.20.25.02]
+code = "0P-40-20-25-02"
+subject = "Tratamento de pressão"
+
+[Grupo0.0P.40.20.25.03]
+code = "0P-40-20-25-03"
+subject = "Tratamento fogo-retardante"
+
+[Grupo0.0P.40.20.25.04]
+code = "0P-40-20-25-04"
+subject = "Tratamento com herbicida"
+
+[Grupo0.0P.40.20.25.05]
+code = "0P-40-20-25-05"
+subject = "Tratamento com pesticida"
+
+[Grupo0.0P.40.20.25.06]
+code = "0P-40-20-25-06"
+subject = "Tratamento anti-corrosivo"
+
+[Grupo0.0P.40.30.00]
+code = "0P-40-30-00"
+subject = "Propriedades da garantia"
+
+[Grupo0.0P.40.30.01]
+code = "0P-40-30-01"
+subject = "Tipo de garantia do fabricante"
+
+[Grupo0.0P.40.30.02]
+code = "0P-40-30-02"
+subject = "Termos de garantia do fabricante"
+
+[Grupo0.0P.40.30.03]
+code = "0P-40-30-03"
+subject = "Tipo de garantia dos instaladores"
+
+[Grupo0.0P.40.30.04]
+code = "0P-40-30-04"
+subject = "Termos de garantia dos instaladores"
+
+[Grupo0.0P.40.30.05]
+code = "0P-40-30-05"
+subject = "Localização do serviço de garantia"
+
+[Grupo0.0P.40.30.06]
+code = "0P-40-30-06"
+subject = "Período de garantia"
+
+[Grupo0.0P.40.30.06.01]
+code = "0P-40-30-06-01"
+subject = "Data de início da garantia"
+
+[Grupo0.0P.40.30.06.02]
+code = "0P-40-30-06-02"
+subject = "Data de término da garantia"
+
+[Grupo0.0P.40.40.00]
+code = "0P-40-40-00"
+
+[Grupo0.0P.40.40.01]
+code = "0P-40-40-01"
+subject = "Modo de transporte"
+
+[Grupo0.0P.40.40.02]
+code = "0P-40-40-02"
+subject = "Tipo de transportador"
+
+[Grupo0.0P.40.40.03]
+code = "0P-40-40-03"
+subject = "Embalagem para transporte"
+
+[Grupo0.0P.40.40.04]
+code = "0P-40-40-04"
+subject = "Protocolo de entrega"
+
+[Grupo0.0P.40.40.05]
+code = "0P-40-40-05"
+subject = "Termos de entrega"
+
+[Grupo0.0P.40.50.00]
+code = "0P-40-50-00"
+subject = "Propriedades de instalação"
+
+[Grupo0.0P.40.50.01]
+code = "0P-40-50-01"
+subject = "Configuração de instalação"
+
+[Grupo0.0P.40.50.02]
+code = "0P-40-50-02"
+subject = "Preparação da superfície"
+
+[Grupo0.0P.40.50.03]
+code = "0P-40-50-03"
+subject = "Método de instalação"
+
+[Grupo0.0P.40.50.03.01]
+code = "0P-40-50-03-01"
+subject = "Método mecânico de conexão"
+
+[Grupo0.0P.40.50.03.02]
+code = "0P-40-50-03-02"
+subject = "Método por aderência"
+
+[Grupo0.0P.40.50.03.03]
+code = "0P-40-50-03-03"
+subject = "Método por sobreposição"
+
+[Grupo0.0P.40.50.03.04]
+code = "0P-40-50-03-04"
+subject = "Método por lastro"
+
+[Grupo0.0P.40.50.03.05]
+code = "0P-40-50-03-05"
+subject = "Método por adesivo"
+
+[Grupo0.0P.40.50.04]
+code = "0P-40-50-04"
+subject = "Método de fixação"
+
+[Grupo0.0P.40.50.05]
+code = "0P-40-50-05"
+subject = "Tipo de fixador"
+
+[Grupo0.0P.40.50.06]
+code = "0P-40-50-06"
+subject = "Propriedades do instalador"
+
+[Grupo0.0P.40.50.06.01]
+code = "0P-40-50-06-01"
+subject = "Experiência do instalador"
+
+[Grupo0.0P.40.50.06.02]
+code = "0P-40-50-06-02"
+subject = "Qualificação do instalador"
+
+[Grupo0.0P.40.50.07]
+code = "0P-40-50-07"
+subject = "Taxa de aplicação"
+
+[Grupo0.0P.40.50.07.01]
+code = "0P-40-50-07-01"
+subject = "Taxa de aplicação teórica"
+
+[Grupo0.0P.40.50.07.02]
+code = "0P-40-50-07-02"
+subject = "Taxa de aplicação real"
+
+[Grupo0.0P.40.50.08]
+code = "0P-40-50-08"
+subject = "Cobertura"
+
+[Grupo0.0P.40.50.08.01]
+code = "0P-40-50-08-01"
+subject = "Cobertura teórica"
+
+[Grupo0.0P.40.50.08.02]
+code = "0P-40-50-08-02"
+subject = "Cobertura real"
+
+[Grupo0.0P.40.50.09]
+code = "0P-40-50-09"
+subject = "Método de montagem"
+
+[Grupo0.0P.40.50.10]
+code = "0P-40-50-10"
+subject = "Método de união"
+
+[Grupo0.0P.40.50.10.01]
+code = "0P-40-50-10-01"
+subject = "Tipo Junta/ conexão"
+
+[Grupo0.0P.40.50.10.02]
+code = "0P-40-50-10-02"
+subject = "Tipo Costura"
+
+[Grupo0.0P.40.50.11]
+code = "0P-40-50-11"
+subject = "Temperatura ambiente durante a instalação"
 
