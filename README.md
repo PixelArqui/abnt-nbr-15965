@@ -1,6 +1,6 @@
 # abnt-nbr-15965
 
-Arquivos CSV e TOML contendo a lista da classificação segundo ABNT NBR 15965.
+A ABNT NBR 15965, intitulada "Sistema de Classificação da Informação da Construção", é a primeira norma técnica brasileira dedicada à metodologia BIM (Modelagem da Informação da Construção). Elaborada pela ABNT, ela estrutura e padroniza as informações do setor por meio de um sistema de classificação. A norma institui uma linguagem unificada, baseada em códigos e termos técnicos, assegurando a interoperabilidade e a comunicação precisa entre as diferentes fases e disciplinas de projetos em BIM no território nacional.
 
 ## Sobre
 
