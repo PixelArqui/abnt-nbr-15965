@@ -4066,15 +4066,15 @@ subject = "Coeficiente de desgaste"
 
 [Grupo0.0P.60.50.33]
 code = "0P-60-50-33"
-subject = "Taxadedesgaste"
+subject = "Taxa de desgaste"
 
 [Grupo0.0P.60.60 00]
 code = "0P-60-60 00"
-subject = "Propriedadesdecombustão"
+subject = "Propriedades de combustão"
 
 [Grupo0.0P.60.60 01]
 code = "0P-60-60 01"
-subject = "Fontedecalorartificial"
+subject = "Fonte de calor artificial"
 
 [Grupo0.0P.60.60 02]
 code = "0P-60-60 02"
@@ -4082,27 +4082,27 @@ subject = "Combustibilidade"
 
 [Grupo0.0P.60.60 03]
 code = "0P-60-60 03"
-subject = "Índicederesistênciaaofogo"
+subject = "Índice de resistência ao fogo"
 
 [Grupo0.0P.60.60 04]
 code = "0P-60-60 04"
-subject = "Severidadedofogo"
+subject = "Severidade do fogo"
 
 [Grupo0.0P.60.60 05]
 code = "0P-60-60 05"
-subject = "Fontedofogo"
+subject = "Fonte do fogo"
 
 [Grupo0.0P.60.60 06]
 code = "0P-60-60 06"
-subject = "Tipodefogo"
+subject = "Tipo de fogo"
 
 [Grupo0.0P.60.60 07]
 code = "0P-60-60 07"
-subject = "Propagaçãodachama"
+subject = "Propagação da chama"
 
 [Grupo0.0P.60.60 08]
 code = "0P-60-60 08"
-subject = "Índicedepropagaçãodachama"
+subject = "Índice de propagação da chama"
 
 [Grupo0.0P.60.60 09]
 code = "0P-60-60 09"
@@ -4114,7 +4114,7 @@ subject = "Ignitibilidade"
 
 [Grupo0.0P.60.60 11]
 code = "0P-60-60 11"
-subject = "Taxadeliberaçãodecalor"
+subject = "Taxa de liberação de calor"
 
 [Grupo0.0P.60.60 12]
 code = "0P-60-60 12"
@@ -4122,7 +4122,7 @@ subject = "Densidadedafumaça"
 
 [Grupo0.0P.60.60 13]
 code = "0P-60-60 13"
-subject = "Índicedeemissãodefumaça"
+subject = "Índice de emissão de fumaça"
 
 [Grupo0.0P.60.60 14]
 code = "0P-60-60 14"
@@ -4130,27 +4130,27 @@ subject = "Fumaçaproduzida"
 
 [Grupo0.0P.60.60 15]
 code = "0P-60-60 15"
-subject = "Característicasdequeimadasuperfície"
+subject = "Características de queima da superfície"
 
 [Grupo0.0P.60.60 16]
 code = "0P-60-60 16"
-subject = "Resistênciaàexplosão"
+subject = "Resistência à explosão"
 
 [Grupo0.0P.60.60 17]
 code = "0P-60-60 17"
-subject = "Resistênciaaofogo"
+subject = "Resistência ao fogo"
 
 [Grupo0.0P.60.60 18]
 code = "0P-60-60 18"
-subject = "Resistênciaàignição"
+subject = "Resistência à ignição"
 
 [Grupo0.0P.60.60 19]
 code = "0P-60-60 19"
-subject = "Fluxocríticoradiante"
+subject = "Fluxo crítico radiante"
 
 [Grupo0.0P.60.70.00]
 code = "0P-60-70-00"
-subject = "Propriedadesdaenvoltória"
+subject = "Propriedades da envoltória"
 
 [Grupo0.0P.60.70.01]
 code = "0P-60-70-01"
@@ -4794,111 +4794,111 @@ subject = "Controle de bomba de ar condicionado"
 
 [Grupo0.0P.70.08.08.03]
 code = "0P-70-08-08-03"
-subject = "Controledeválvuladearcondicionado"
+subject = "Controle de válvula de ar condicionado"
 
 [Grupo0.0P.70.08.09]
 code = "0P-70-08-09"
-subject = "CoeficienteK"
+subject = "Coeficiente K"
 
 [Grupo0.0P.70.08.10]
 code = "0P-70-08-10"
-subject = "Resultadoscalculadosdoarcondicionado"
+subject = "Resultados calculados do ar condicionado"
 
 [Grupo0.0P.70.08.10.01]
 code = "0P-70-08-10-01"
-subject = "Cargatotaldepicoderefrigeração"
+subject = "Carga total de pico de refrigeração"
 
 [Grupo0.0P.70.08.10.02]
 code = "0P-70-08-10-02"
-subject = "Mêsehoradepicoderefrigeração"
+subject = "Mês e hora dpicoderefrigeração"
 
 [Grupo0.0P.70.08.10.03]
 code = "0P-70-08-10-03"
-subject = "Cargadepicoderesfriamentosensível"
+subject = "Carga de pico de resfriamento sensível"
 
 [Grupo0.0P.70.08.10.04]
 code = "0P-70-08-10-04"
-subject = "Máximacapacidadederefrigeração"
+subject = "Máxima capacidade de refrigeração"
 
 [Grupo0.0P.70.08.10.05]
 code = "0P-70-08-10-05"
-subject = "Picodofluxodeardearrefecimento"
+subject = "Pico do fluxo de ar de arrefecimento"
 
 [Grupo0.0P.70.08.10.06]
 code = "0P-70-08-10-06"
-subject = "Picodacargadeaquecimento"
+subject = "Pico da carga de aquecimento"
 
 [Grupo0.0P.70.08.10.07]
 code = "0P-70-08-10-07"
-subject = "Picodofluxodeardeaquecimento"
+subject = "Pico do fluxo de ar de aquecimento"
 
 [Grupo0.0P.70.08.11]
 code = "0P-70-08-11"
-subject = "Verificaçãodecálculosdoarcondicionado"
+subject = "Verificação de cálculos do ar condicionado"
 
 [Grupo0.0P.70.08.11.01]
 code = "0P-70-08-11-01"
-subject = "Densidadedecargaderefrigeração"
+subject = "Densidade de carga de refrigeração"
 
 [Grupo0.0P.70.08.11.02]
 code = "0P-70-08-11-02"
-subject = "Densidadedefluxoderefrigeração"
+subject = "Densidade de fluxo de refrigeração"
 
 [Grupo0.0P.70.08.11.03]
 code = "0P-70-08-11-03"
-subject = "Fluxo/cargaderefrigeração"
+subject = "Fluxo/carga de refrigeração"
 
 [Grupo0.0P.70.08.11.04]
 code = "0P-70-08-11-04"
-subject = "Área/cargaderefrigeração"
+subject = "Área/carga de refrigeração"
 
 [Grupo0.0P.70.08.11.05]
 code = "0P-70-08-11-05"
-subject = "Densidadedecargadeaquecimento"
+subject = "Densidade de carga de aquecimento"
 
 [Grupo0.0P.70.08.11.06]
 code = "0P-70-08-11-06"
-subject = "Densidadedefluxodeaquecimento"
+subject = "Densidade de fluxo de aquecimento"
 
 [Grupo0.0P.70.08.12]
 code = "0P-70-08-12"
-subject = "ClasseMERV(MinimumEfficiencyReportingValue)"
+subject = "Classe MERV (Minimum Efficiency Reporting Value)"
 
 [Grupo0.0P.70.08.13]
 code = "0P-70-08-13"
-subject = "Fatorde coilbypassdofabricante"
+subject = "Fator de coil bypass do fabricante"
 
 [Grupo0.0P.70.10.00]
 code = "0P-70-10-00"
-subject = "Propriedadesdossistemasdeautomaçãointegrada"
+subject = "Propriedades dos sistemas de automação integrada"
 
 [Grupo0.0P.70.10.01]
 code = "0P-70-10-01"
-subject = "StandardNetworkVariableType(SNVT)"
+subject = "Standard Network Variable Type (SNVT)"
 
 [Grupo0.0P.70.10.02]
 code = "0P-70-10-02"
-subject = "Atributocontroltype(gbXML)"
+subject = "Atributo control type(gbXML)"
 
 [Grupo0.0P.70.10.03]
 code = "0P-70-10-03"
-subject = "Unidadesdeengenhariaesperadas"
+subject = "Unidades de engenharia esperadas"
 
 [Grupo0.0P.70.10.04]
 code = "0P-70-10-04"
-subject = "Identificaçãodonó"
+subject = "Identificação do nó"
 
 [Grupo0.0P.70.10.05]
 code = "0P-70-10-05"
-subject = "Endereçodedomínio"
+subject = "Endereço de domínio"
 
 [Grupo0.0P.70.10.06]
 code = "0P-70-10-06"
-subject = "Endereçodesub-rede"
+subject = "Endereço de sub-rede"
 
 [Grupo0.0P.70.20.00]
 code = "0P-70-20-00"
-subject = "PropriedadesdosSistemasElétricos"
+subject = "Propriedades dos Sistemas Elétricos"
 
 [Grupo0.0P.70.20.01]
 code = "0P-70-20-01"
@@ -4906,79 +4906,79 @@ subject = "Amperagem"
 
 [Grupo0.0P.70.20.02]
 code = "0P-70-20-02"
-subject = "Tensãoelétrica"
+subject = "Tensão elétrica"
 
 [Grupo0.0P.70.20.03]
 code = "0P-70-20-03"
-subject = "Quedadetensão"
+subject = "Queda de tensão"
 
 [Grupo0.0P.70.20.04]
 code = "0P-70-20-04"
-subject = "Fonteelétrica"
+subject = "Fonte elétrica"
 
 [Grupo0.0P.70.20.05]
 code = "0P-70-20-05"
-subject = "Fatordepotênciaelétrica"
+subject = "Fator de potência elétrica"
 
 [Grupo0.0P.70.20.06]
 code = "0P-70-20-06"
-subject = "Estadodofatordepotênciaelétrica"
+subject = "Estado do fator de potência elétrica"
 
 [Grupo0.0P.70.20.07]
 code = "0P-70-20-07"
-subject = "Propriedadesdecorrenteselétricas"
+subject = "Propriedades de correntes elétricas"
 
 [Grupo0.0P.70.20.07.01]
 code = "0P-70-20-07-01"
-subject = "Consumodecorrente"
+subject = "Consumo de corrente"
 
 [Grupo0.0P.70.20.07.02]
 code = "0P-70-20-07-02"
-subject = "Densidadedecorrenteelétrica"
+subject = "Densidade de corrente elétrica"
 
 [Grupo0.0P.70.20.07.03]
 code = "0P-70-20-07-03"
-subject = "Correnteverdadeira"
+subject = "Corrente verdadeira"
 
 [Grupo0.0P.70.20.07.04]
 code = "0P-70-20-07-04"
-subject = "Faseecorrenteverdadeiras"
+subject = "Fase e corrente verdadeiras"
 
 [Grupo0.0P.70.20.08]
 code = "0P-70-20-08"
-subject = "Propriedadesdecargaselétricas"
+subject = "Propriedades de cargas elétricas"
 
 [Grupo0.0P.70.20.08.01]
 code = "0P-70-20-08-01"
-subject = "Classificaçãodecarga"
+subject = "Classificação de carga"
 
 [Grupo0.0P.70.20.08.02]
 code = "0P-70-20-08-02"
-subject = "Cargaverdadeira"
+subject = "Carga verdadeira"
 
 [Grupo0.0P.70.20.08.03]
 code = "0P-70-20-08-03"
-subject = "Cargaequilibrada"
+subject = "Carga equilibrada"
 
 [Grupo0.0P.70.20.09]
 code = "0P-70-20-09"
-subject = "Propriedadesdepainéiselétricos"
+subject = "Propriedades de painéis elétricos"
 
 [Grupo0.0P.70.20.09.01]
 code = "0P-70-20-09-01"
-subject = "NomedoPainel"
+subject = "Nome do Painel"
 
 [Grupo0.0P.70.20.09.02]
 code = "0P-70-20-09-02"
-subject = "NúmerodoPainel"
+subject = "Número do Painel"
 
 [Grupo0.0P.70.20.09.03]
 code = "0P-70-20-09-03"
-subject = "NúmerodePólos"
+subject = "Número de Pólos"
 
 [Grupo0.0P.70.20.09.04]
 code = "0P-70-20-09-04"
-subject = "Númeromáximodedisjuntores"
+subject = "Número máximo de disjuntores"
 
 [Grupo0.0P.70.20.09.05]
 code = "0P-70-20-09-05"
@@ -4986,27 +4986,27 @@ subject = "Classificações principais"
 
 [Grupo0.0P.70.20.09.06]
 code = "0P-70-20-09-06"
-subject = "Cargaefaseaparentes"
+subject = "Carga e fase aparentes"
 
 [Grupo0.0P.70.20.10]
 code = "0P-70-20-10"
-subject = "Propriedadesdecircuitos"
+subject = "Propriedades de circuitos"
 
 [Grupo0.0P.70.20.10.01]
 code = "0P-70-20-10-01"
-subject = "Nomedocircuito"
+subject = "Nome do circuito"
 
 [Grupo0.0P.70.20.10.02]
 code = "0P-70-20-10-02"
-subject = "Númerodocircuito"
+subject = "Número do circuito"
 
 [Grupo0.0P.70.20.10.03]
 code = "0P-70-20-10-03"
-subject = "Nomedacargadocircuito"
+subject = "Nome da carga do circuito"
 
 [Grupo0.0P.70.20.10.04]
 code = "0P-70-20-10-04"
-subject = "Circuitodedicado"
+subject = "Circuito dedicado"
 
 [Grupo0.0P.70.20.10.05]
 code = "0P-70-20-10-05"
@@ -34774,7 +34774,7 @@ subject = "Salade acesso à internet"
 
 [Grupo0.4U.66.00.00.00.00.00]
 code = "4U-66-00-00-00-00-00"
-subject = "Unidades da administração pública, defesa e seguridade social"
+subject = "Unida0des da administração pública, defesa e seguridade social"
 
 [Grupo0.4U.66.02.00.00.00.00]
 code = "4U-66-02-00-00-00-00"
