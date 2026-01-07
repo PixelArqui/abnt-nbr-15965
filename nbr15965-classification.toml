@@ -4690,7 +4690,7 @@ subject = "Carga de resfriamento da zona"
 
 [Grupo0.0P.70.08.04]
 code = "0P-70-08-04"
-subject = "Fluxo de ar do ar condicionado"
+subject = "Fluxo de ar do ar-condicionado"
 
 [Grupo0.0P.70.08.04.01]
 code = "0P-70-08-04-01"
@@ -4722,7 +4722,7 @@ subject = "Tipo de cálculo de volume de ar"
 
 [Grupo0.0P.70.08.06]
 code = "0P-70-08-06"
-subject = "Capacidade do ar condicionado"
+subject = "Capacidade do ar-condicionado"
 
 [Grupo0.0P.70.08.06.01]
 code = "0P-70-08-06-01"
@@ -4782,19 +4782,19 @@ subject = "Naturalmente ventilado"
 
 [Grupo0.0P.70.08.08]
 code = "0P-70-08-08"
-subject = "Controles do ar condicionado"
+subject = "Controles do ar-condicionado"
 
 [Grupo0.0P.70.08.08.01]
 code = "0P-70-08-08-01"
-subject = "Controle de ventilador de ar condicionado"
+subject = "Controle de ventilador de ar-condicionado"
 
 [Grupo0.0P.70.08.08.02]
 code = "0P-70-08-08-02"
-subject = "Controle de bomba de ar condicionado"
+subject = "Controle de bomba de ar-condicionado"
 
 [Grupo0.0P.70.08.08.03]
 code = "0P-70-08-08-03"
-subject = "Controle de válvula de ar condicionado"
+subject = "Controle de válvula de ar-condicionado"
 
 [Grupo0.0P.70.08.09]
 code = "0P-70-08-09"
@@ -4802,7 +4802,7 @@ subject = "Coeficiente K"
 
 [Grupo0.0P.70.08.10]
 code = "0P-70-08-10"
-subject = "Resultados calculados do ar condicionado"
+subject = "Resultados calculados do ar-condicionado"
 
 [Grupo0.0P.70.08.10.01]
 code = "0P-70-08-10-01"
@@ -4834,7 +4834,7 @@ subject = "Pico do fluxo de ar de aquecimento"
 
 [Grupo0.0P.70.08.11]
 code = "0P-70-08-11"
-subject = "Verificação de cálculos do ar condicionado"
+subject = "Verificação de cálculos do ar-condicionado"
 
 [Grupo0.0P.70.08.11.01]
 code = "0P-70-08-11-01"
@@ -5010,107 +5010,107 @@ subject = "Circuito dedicado"
 
 [Grupo0.0P.70.20.10.05]
 code = "0P-70-20-10-05"
-subject = "Tipodefio"
+subject = "Tipo de fio"
 
 [Grupo0.0P.70.20.10.06]
 code = "0P-70-20-10-06"
-subject = "Bitoladofio"
+subject = "Bitola do fio"
 
 [Grupo0.0P.70.20.10.07]
 code = "0P-70-20-10-07"
-subject = "Númerodecondutores"
+subject = "Número de condutores"
 
 [Grupo0.0P.70.20.10.08]
 code = "0P-70-20-10-08"
-subject = "Númerodecondutoresvivos"
+subject = "Número de condutores vivos"
 
 [Grupo0.0P.70.20.10.09]
 code = "0P-70-20-10-09"
-subject = "Númerodecondutoresneutros"
+subject = "Número de condutores neutros"
 
 [Grupo0.0P.70.20.10.10]
 code = "0P-70-20-10-10"
-subject = "Númerodecondutoresdeaterramento"
+subject = "Número de condutores de aterramento"
 
 [Grupo0.0P.70.20.11]
 code = "0P-70-20-11"
-subject = "Demandasestimadaseconectadas"
+subject = "Demandas estimadas e conectadas"
 
 [Grupo0.0P.70.20.11.01]
 code = "0P-70-20-11-01"
-subject = "Demandaestimadatotaldoarcondicionado"
+subject = "Demanda estimada total do ar-condicionado"
 
 [Grupo0.0P.70.20.11.02]
 code = "0P-70-20-11-02"
-subject = "Potênciadearcondicionadototalconectado"
+subject = "Potência de ar-condicionado total conectado"
 
 [Grupo0.0P.70.20.11.03]
 code = "0P-70-20-11-03"
-subject = "DemandaestimadatotaldeIluminação"
+subject = "Demanda estimada total de Iluminação"
 
 [Grupo0.0P.70.20.11.04]
 code = "0P-70-20-11-04"
-subject = "Potênciatotaldeiluminaçãoconectada"
+subject = "Potência total de iluminação conectada"
 
 [Grupo0.0P.70.20.11.05]
 code = "0P-70-20-11-05"
-subject = "Demandaestimadatotaldepotência"
+subject = "Demanda estimada total de potência"
 
 [Grupo0.0P.70.20.11.06]
 code = "0P-70-20-11-06"
-subject = "Potênciatotalconectada"
+subject = "Potência total conectada"
 
 [Grupo0.0P.70.20.11.07]
 code = "0P-70-20-11-07"
-subject = "Outrasdemandastotaisestimadas"
+subject = "Outras demandas totais estimadas"
 
 [Grupo0.0P.70.20.11.08]
 code = "0P-70-20-11-08"
-subject = "Outrostotaisconectados"
+subject = "Outros totais conectados"
 
 [Grupo0.0P.70.20.11.09]
 code = "0P-70-20-11-09"
-subject = "Demandatotalestimada"
+subject = "Demanda total estimada"
 
 [Grupo0.0P.70.20.11.10]
 code = "0P-70-20-11-10"
-subject = "Totalconectado"
+subject = "Total conectado"
 
 [Grupo0.0P.70.20.12]
 code = "0P-70-20-12"
-subject = "Constantedielétricarelativa"
+subject = "Constante dielétrica relativa"
 
 [Grupo0.0P.70.20.13]
 code = "0P-70-20-13"
-subject = "Resistênciadeaterramento"
+subject = "Resistência de aterramento"
 
 [Grupo0.0P.70.20.14]
 code = "0P-70-20-14"
-subject = "Admitânciaelétrica"
+subject = "Admitância elétrica"
 
 [Grupo0.0P.70.20.15]
 code = "0P-70-20-15"
-subject = "Capacitânciaelétrica"
+subject = "Capacitância elétrica"
 
 [Grupo0.0P.70.20.16]
 code = "0P-70-20-16"
-subject = "Cargaelétrica"
+subject = "Carga elétrica"
 
 [Grupo0.0P.70.20.17]
 code = "0P-70-20-17"
-subject = "Densidadedecargaelétrica"
+subject = "Densidadede carga elétrica"
 
 [Grupo0.0P.70.20.18]
 code = "0P-70-20-18"
-subject = "Condutânciaelétrica"
+subject = "Condutância elétrica"
 
 [Grupo0.0P.70.20.19]
 code = "0P-70-20-19"
-subject = "Condutividadeelétrica"
+subject = "Condutividade elétrica"
 
 [Grupo0.0P.70.20.20]
 code = "0P-70-20-20"
-subject = "Intensidadedecampoelétrico"
+subject = "Intensidadede campo elétrico"
 
 [Grupo0.0P.70.20.21]
 code = "0P-70-20-21"
@@ -5558,643 +5558,643 @@ subject = "Reflectância da energia solar total"
 
 [Grupo0.1F.10.00.00]
 code = "1F-10-00-00"
-subject = "Estágiodeconcepção"
+subject = "Estágio de concepção"
 
 [Grupo0.1F.10.11.00]
 code = "1F-10-11-00"
-subject = "Fasedeidenticaçãodenecessidades"
+subject = "Fase de identificação de necessidades"
 
 [Grupo0.1F.10.11.14]
 code = "1F-10-11-14"
-subject = "Fasededescriçãodoprojeto"
+subject = "Fase de descrição do projeto"
 
 [Grupo0.1F.10.11.17]
 code = "1F-10-11-17"
-subject = "Fasedecriação"
+subject = "Fase de criação"
 
 [Grupo0.1F.10.11.21]
 code = "1F-10-11-21"
-subject = "Fasedeincepção"
+subject = "Fase de incepção"
 
 [Grupo0.1F.10.14.00]
 code = "1F-10-14-00"
-subject = "Fasedeconceituação"
+subject = "Fase de conceituação"
 
 [Grupo0.1F.10.14.14]
 code = "1F-10-14-14"
-subject = "Fasedeanálisedemercado"
+subject = "Fase de análise de mercado"
 
 [Grupo0.1F.10.14.15]
 code = "1F-10-14-15"
-subject = "Fasedepesquisa"
+subject = "Fase de pesquisa"
 
 [Grupo0.1F.10.14.17]
 code = "1F-10-14-17"
-subject = "Fasedeestudodeviabilidadedeprojeto"
+subject = "Fase de estudo de viabilidade de projeto"
 
 [Grupo0.1F.10.14.21]
 code = "1F-10-14-21"
-subject = "Fasedeprogramaçãodeprojeto"
+subject = "Fase de programação de projeto"
 
 [Grupo0.1F.10.27.00]
 code = "1F-10-27-00"
-subject = "Fasedepré-projeto/estudodemassa"
+subject = "Fase de pré-projeto/estudo de massa"
 
 [Grupo0.1F.10.31.00]
 code = "1F-10-31-00"
-subject = "Fasedeestimativadeorçamento"
+subject = "Fase de estimativa de orçamento"
 
 [Grupo0.1F.10.37.00]
 code = "1F-10-37-00"
-subject = "Fasedeestudosconceituais"
+subject = "Fase de estudos conceituais"
 
 [Grupo0.1F.10.37.11]
 code = "1F-10-37-11"
-subject = "Fasedecoletasdedados"
+subject = "Fase de coletas de dados"
 
 [Grupo0.1F.10.37.14]
 code = "1F-10-37-14"
-subject = "Fasedelevantamentotopográco"
+subject = "Fase de levantamento topográfico"
 
 [Grupo0.1F.10.37.21]
 code = "1F-10-37-21"
-subject = "Fasedeinvestigaçãogeotécnica"
+subject = "Fase de investigação geotécnica"
 
 [Grupo0.1F.10.37.25]
 code = "1F-10-37-25"
-subject = "Fasededeniçãodeproduto"
+subject = "Fase de definição de produto"
 
 [Grupo0.1F.10.39.00]
 code = "1F-10-39-00"
-subject = "Fasedeaquisiçãodepropriedade"
+subject = "Fase de aquisição de propriedade"
 
 [Grupo0.1F.10.41.00]
 code = "1F-10-41-00"
-subject = "Fasedeestudopreliminar"
+subject = "Fase de estudo preliminar"
 
 [Grupo0.1F.10.41.11]
 code = "1F-10-41-11"
-subject = "Fasedeprojetoesquemático"
+subject = "Fase de projeto esquemático"
 
 [Grupo0.1F.10.41.21]
 code = "1F-10-41-21"
-subject = "Fasededesenvolvimentodeprojeto"
+subject = "Fase de desenvolvimento de projeto"
 
 [Grupo0.1F.10.41.31]
 code = "1F-10-41-31"
-subject = "Fasedeestimativapreliminardecustos"
+subject = "Fase de estimativa preliminar de custos"
 
 [Grupo0.1F.10.41.34]
 code = "1F-10-41-34"
-subject = "Fasedeestudostécnicos"
+subject = "Fase de estudos técnicos"
 
 [Grupo0.1F.10.41.37]
 code = "1F-10-41-37"
-subject = "Fasedeconsultapública"
+subject = "Fase de consulta pública"
 
 [Grupo0.1F.10.41.41]
 code = "1F-10-41-41"
-subject = "Fasedeanálise"
+subject = "Fase de análise"
 
 [Grupo0.1F.10.41.47]
 code = "1F-10-41-47"
-subject = "Fasedeestudosambientais"
+subject = "Fase de estudos ambientais"
 
 [Grupo0.1F.10.41.51]
 code = "1F-10-41-51"
-subject = "Fasedeinvestigaçãoeaveriguaçãoderiscosde negócio"
+subject = "Fase de investigação e averiguação de riscos de negócio"
 
 [Grupo0.1F.10.41.54]
 code = "1F-10-41-54"
-subject = "Fasedeseleçãodeterreno"
+subject = "Fase de seleção de terreno"
 
 [Grupo0.1F.10.41.61]
 code = "1F-10-41-61"
-subject = "Fasedeplanejamento"
+subject = "Fase de planejamento"
 
 [Grupo0.1F.10.43.00]
 code = "1F-10-43-00"
-subject = "Fasedeprogramação"
+subject = "Fase de programação"
 
 [Grupo0.1F.10.45.00]
 code = "1F-10-45-00"
-subject = "Fasedeorçamentação"
+subject = "Fase de orçamentação"
 
 [Grupo0.1F.15.00.00]
 code = "1F-15-00-00"
-subject = "Estágiodedefniçãodeentregadeprojetos"
+subject = "Estágio de defnição de entrega de projetos"
 
 [Grupo0.1F.15.10.00]
 code = "1F-15-10-00"
-subject = "Fasedeavaliaçãodométododeentregados projetos"
+subject = "Fase de avaliação do métodode entrega dos projetos"
 
 [Grupo0.1F.15.20.00]
 code = "1F-15-20-00"
-subject = "Fasedemontagemdeequipe"
+subject = "Fase de montagem de equipe"
 
 [Grupo0.1F.15.20.11]
 code = "1F-15-20-11"
-subject = "Fasedeseleçãodeequipedeprojeto"
+subject = "Fase de seleção de equipe de projeto"
 
 [Grupo0.1F.15.20.14]
 code = "1F-15-20-14"
-subject = "Fasedeseleçãodeequipedeplanejamento"
+subject = "Fase de seleção de equipe de planejamento"
 
 [Grupo0.1F.15.20.17]
 code = "1F-15-20-17"
-subject = "Fasedeseleçãodeprojetista/construtor"
+subject = "Fase de seleção de projetista/construtor"
 
 [Grupo0.1F.15.20.21]
 code = "1F-15-20-21"
-subject = "Fasedeseleçãodegerentedaconstrução"
+subject = "Fase de seleção de gerente da construção"
 
 [Grupo0.1F.15.20.24]
 code = "1F-15-20-24"
-subject = "Fasederequisiçãoparaqualicação(RFQ)"
+subject = "Fase de requisição para qualificação(RFQ)"
 
 [Grupo0.1F.15.20.27]
 code = "1F-15-20-27"
-subject = "Fasedeavaliaçãoderequisiçãoparaqualicação (RFQ)"
+subject = "Fase de avaliação de requisição para qualificação (RFQ)"
 
 [Grupo0.1F.15.20.31]
 code = "1F-15-20-31"
-subject = "FasedeRequisiçãodeProposta(RFP)"
+subject = "Fase de Requisição de Proposta (RFP)"
 
 [Grupo0.1F.15.20.34]
 code = "1F-15-20-34"
-subject = "FasedeAvaliaçãodeRequisiçãodeProposta(RFP)"
+subject = "Fase de Avaliação de Requisição de Proposta (RFP)"
 
 [Grupo0.1F.15.20.37]
 code = "1F-15-20-37"
-subject = "FasedeEntrevista"
+subject = "Fase de Entrevista"
 
 [Grupo0.1F.15.20.39]
 code = "1F-15-20-39"
-subject = "Fasedecontrataçãodeequipe"
+subject = "Fase de contratação de equipe"
 
 [Grupo0.1F.20.00.00]
 code = "1F-20-00-00"
-subject = "Estágiodeprojeto"
+subject = "Estágio de projeto"
 
 [Grupo0.1F.20.10.00]
 code = "1F-20-10-00"
-subject = "Fasededescriçãopreliminardoprojeto"
+subject = "Fase de descrição preliminar do projeto"
 
 [Grupo0.1F.20.10.11]
 code = "1F-20-10-11"
-subject = "Fasedeengenhariapreliminar"
+subject = "Fase de engenharia preliminar"
 
 [Grupo0.1F.20.10.14]
 code = "1F-20-10-14"
-subject = "Fasedeprojetoconceitual"
+subject = "Fase de projeto conceitual"
 
 [Grupo0.1F.20.10.17]
 code = "1F-20-10-17"
-subject = "Fasedeprojetoesquemático"
+subject = "Fase de projeto esquemático"
 
 [Grupo0.1F.20.10.21]
 code = "1F-20-10-21"
-subject = "Fasedeestudopreliminar"
+subject = "Fase de estudo preliminar"
 
 [Grupo0.1F.20.20.00]
 code = "1F-20-20-00"
-subject = "Fasededesenvolvimentodeprojeto"
+subject = "Fase de desenvolvimento de projeto"
 
 [Grupo0.1F.20.20.11]
 code = "1F-20-20-11"
-subject = "Fasededetalhamentodeprojeto"
+subject = "Fase de detalhamento de projeto"
 
 [Grupo0.1F.20.20.14]
 code = "1F-20-20-14"
-subject = "Fasedeprojetoexecutivo"
+subject = "Fase de projeto executivo"
 
 [Grupo0.1F.20.20.17]
 code = "1F-20-20-17"
-subject = "Fasedeprotótipoetestes"
+subject = "Fase de protótipo e testes"
 
 [Grupo0.1F.20.20.21]
 code = "1F-20-20-21"
-subject = "Fasedeanálisedeengenharia"
+subject = "Fase de análise de engenharia"
 
 [Grupo0.1F.20.20.24]
 code = "1F-20-20-24"
-subject = "Fasedeseleçãodeproduto"
+subject = "Fase de seleção de produto"
 
 [Grupo0.1F.20.20.27]
 code = "1F-20-20-27"
-subject = "Fasedeseleçãodemateriais"
+subject = "Fase de seleção de materiais"
 
 [Grupo0.1F.20.20.31]
 code = "1F-20-20-31"
-subject = "FasedeSeleçãodeequipamentos"
+subject = "Fase de seleção de equipamentos"
 
 [Grupo0.1F.20.20.34]
 code = "1F-20-20-34"
-subject = "Fasedeestimativadevalores"
+subject = "Fase de estimativa de valores"
 
 [Grupo0.1F.20.20.37]
 code = "1F-20-20-37"
-subject = "Fasedeanálisedevalor"
+subject = "Fase de análise de valor"
 
 [Grupo0.1F.25.00.00]
 code = "1F-25-00-00"
-subject = "Estágiodedocumentaçãodeconstrução"
+subject = "Estágio de documentação de construção"
 
 [Grupo0.1F.25.10.00]
 code = "1F-25-10-00"
-subject = "Fasedepreparaçãodadocumentaçãode construção"
+subject = "Fase de preparação d adocumentaçãode construção"
 
 [Grupo0.1F.25.10.11]
 code = "1F-25-10-11"
-subject = "Fasedepreparaçãodedadosdeconstrução"
+subject = "Fase de preparação de dados de construção"
 
 [Grupo0.1F.25.10.14]
 code = "1F-25-10-14"
-subject = "Fasedepreparaçãodedesenhos"
+subject = "Fase de preparação de desenhos"
 
 [Grupo0.1F.25.10.17]
 code = "1F-25-10-17"
-subject = "Fasedepreparaçãodedetalhes"
+subject = "Fase de preparação de detalhes"
 
 [Grupo0.1F.25.10.21]
 code = "1F-25-10-21"
-subject = "Fasedepreparaçãodedesenhosdeabricação"
+subject = "Fase de preparação de desenhosdeabricação"
 
 [Grupo0.1F.25.10.24]
 code = "1F-25-10-24"
-subject = "Fasedepreparaçãodedesenhosdecoordenação"
+subject = "Fase de preparação de desenhosdecoordenação"
 
 [Grupo0.1F.25.10.27]
 code = "1F-25-10-27"
-subject = "Fasedepreparaçãodeespecicações"
+subject = "Fase de preparação de especificações"
 
 [Grupo0.1F.25.10.31]
 code = "1F-25-10-31"
-subject = "Fasedepreparaçãodemanualdeprojeto"
+subject = "Fase de preparação de manualdeprojeto"
 
 [Grupo0.1F.25.20.00]
 code = "1F-25-20-00"
-subject = "Fasedeproduçãodedocumentosdeconstrução"
+subject = "Fase de produção de documentos de construção"
 
 [Grupo0.1F.25.30.00]
 code = "1F-25-30-00"
-subject = "Fasedeestimativasdecustosdeconstrução"
+subject = "Fase de estimativas de custos de construção"
 
 [Grupo0.1F.30.00.00]
 code = "1F-30-00-00"
-subject = "Estágiosdecomprasecontratações"
+subject = "Estágios de compras e contratações"
 
 [Grupo0.1F.30.10.00]
 code = "1F-30-10-00"
-subject = "Fasedesolicitações"
+subject = "Fase de solicitações"
 
 [Grupo0.1F.30.20.00]
 code = "1F-30-20-00"
-subject = "Fasedepré-qualicação"
+subject = "Fase de pré-qualificação"
 
 [Grupo0.1F.30.30.00]
 code = "1F-30-30-00"
-subject = "Fasedeeditaldelicitação"
+subject = "Fase de edital de licitação"
 
 [Grupo0.1F.30.30.11]
 code = "1F-30-30-11"
-subject = "Fasedeescopodeeditaldelicitação"
+subject = "Fase de escopo de edital de licitação"
 
 [Grupo0.1F.30.30.14]
 code = "1F-30-30-14"
-subject = "Fasedeprecicação"
+subject = "Fase de precificação"
 
 [Grupo0.1F.30.30.17]
 code = "1F-30-30-17"
-subject = "Fasedepreparaçãodalicitação"
+subject = "Fase de preparação da licitação"
 
 [Grupo0.1F.30.30.21]
 code = "1F-30-30-21"
-subject = "Fasedepreparaçãodepropostas"
+subject = "Fase de preparação de propostas"
 
 [Grupo0.1F.30.40.00]
 code = "1F-30-40-00"
-subject = "Fasedeseleção"
+subject = "Fase de seleção"
 
 [Grupo0.1F.30.40.11]
 code = "1F-30-40-11"
-subject = "Fasedeseleçãodeconstrutor"
+subject = "Fase de seleção de construtor"
 
 [Grupo0.1F.30.40.14]
 code = "1F-30-40-14"
-subject = "Fasedeavaliaçãodeproposta"
+subject = "Fase de avaliação de proposta"
 
 [Grupo0.1F.30.40.17]
 code = "1F-30-40-17"
-subject = "Fasedeavaliaçãodalicitação"
+subject = "Fase de avaliação da licitação"
 
 [Grupo0.1F.30.50.00]
 code = "1F-30-50-00"
-subject = "Fasedecontratação"
+subject = "Fase de contratação"
 
 [Grupo0.1F.30.50.11]
 code = "1F-30-50-11"
-subject = "Fasedenegociação"
+subject = "Fase de negociação"
 
 [Grupo0.1F.30.50.14]
 code = "1F-30-50-14"
-subject = "Fasedeadjudicaçãodapropostavencedora"
+subject = "Fase de adjudicação da proposta vencedora"
 
 [Grupo0.1F.30.50.17]
 code = "1F-30-50-17"
-subject = "Fasedeexecuçãodecontrato"
+subject = "Fase de execução de contrato"
 
 [Grupo0.1F.40.00.00]
 code = "1F-40-00-00"
-subject = "Estágiodeexecução"
+subject = "Estágio de execução"
 
 [Grupo0.1F.40.10.00]
 code = "1F-40-10-00"
-subject = "Fasedeadministraçãodocontratodeconstrução"
+subject = "Fase de administração do contrato de construção"
 
 [Grupo0.1F.40.20.00]
 code = "1F-40-20-00"
-subject = "Fasedepreparaçãodeconstrução"
+subject = "Fase de preparação de construção"
 
 [Grupo0.1F.40.20.11]
 code = "1F-40-20-11"
-subject = "Fasedemobilização"
+subject = "Fase de mobilização"
 
 [Grupo0.1F.40.20.14]
 code = "1F-40-20-14"
-subject = "Fasedesubcontratação"
+subject = "Fase de subcontratação"
 
 [Grupo0.1F.40.20.17]
 code = "1F-40-20-17"
-subject = "Fasedelicenciamentos"
+subject = "Fase de licenciamentos"
 
 [Grupo0.1F.40.20.21]
 code = "1F-40-20-21"
-subject = "Fasederevisãoderegulamentação"
+subject = "Fase de revisão de regulamentação"
 
 [Grupo0.1F.40.20.24]
 code = "1F-40-20-24"
-subject = "Fasedeaprovaçãoderegulamentação"
+subject = "Fase de aprovação de regulamentação"
 
 [Grupo0.1F.40.20.27]
 code = "1F-40-20-27"
-subject = "Fasedesolicitaçãodelicençaseaprovações"
+subject = "Fase de solicitação de licenças e aprovações"
 
 [Grupo0.1F.40.20.31]
 code = "1F-40-20-31"
-subject = "Fasedeprogramação"
+subject = "Fase de programação"
 
 [Grupo0.1F.40.20.34]
 code = "1F-40-20-34"
-subject = "Fasedecoordenação"
+subject = "Fase de coordenação"
 
 [Grupo0.1F.40.20.37]
 code = "1F-40-20-37"
-subject = "Fasedetransmissãodecontroleeresponsabilidade"
+subject = "Fase de transmissão de controle e responsabilidade"
 
 [Grupo0.1F.40.30.00]
 code = "1F-40-30-00"
-subject = "Fasededesenvolvimentodeproduto"
+subject = "Fase de desenvolvimento de produto"
 
 [Grupo0.1F.40.30.11]
 code = "1F-40-30-11"
-subject = "Fasedeprototipaçãodeproduto"
+subject = "Fase de prototipação de produto"
 
 [Grupo0.1F.40.30.14]
 code = "1F-40-30-14"
-subject = "Fasedeensaiosdeproduto"
+subject = "Fase de ensaios de produto"
 
 [Grupo0.1F.40.30.17]
 code = "1F-40-30-17"
-subject = "Fasedeavaliaçãodeproduto"
+subject = "Fase de avaliação de produto"
 
 [Grupo0.1F.40.30.21]
 code = "1F-40-30-21"
-subject = "Fasedeaquisiçãodeprodutos"
+subject = "Fase de aquisição de produtos"
 
 [Grupo0.1F.40.30.24]
 code = "1F-40-30-24"
-subject = "Fasedepedidosdeprodutos"
+subject = "Fase de pedidos de produtos"
 
 [Grupo0.1F.40.30.27]
 code = "1F-40-30-27"
-subject = "Fasedeentregadeprodutos"
+subject = "Fase de entrega de produtos"
 
 [Grupo0.1F.40.40.00]
 code = "1F-40-40-00"
-subject = "Fasedeconstrução"
+subject = "Fase de construção"
 
 [Grupo0.1F.40.40.11]
 code = "1F-40-40-11"
-subject = "Fasedeinicializaçãodaconstrução"
+subject = "Fase de inicializaçãodaconstrução"
 
 [Grupo0.1F.40.40.11.11]
 code = "1F-40-40-11-11"
-subject = "Fasedevalidaçãodeprocessosdeconstrução"
+subject = "Fase de validaçãodeprocessosdeconstrução"
 
 [Grupo0.1F.40.40.11.14]
 code = "1F-40-40-11-14"
-subject = "Fasedemobilização"
+subject = "Fase de mobilização"
 
 [Grupo0.1F.40.40.11.17]
 code = "1F-40-40-11-17"
-subject = "Fasedeinstalação"
+subject = "Fase de instalação"
 
 [Grupo0.1F.40.40.11.21]
 code = "1F-40-40-11-21"
-subject = "Fasedeaplicação"
+subject = "Fase de aplicação"
 
 [Grupo0.1F.40.40.11.24]
 code = "1F-40-40-11-24"
-subject = "Fasedeprodução"
+subject = "Fase de produção"
 
 [Grupo0.1F.40.40.11.27]
 code = "1F-40-40-11-27"
-subject = "Fasedeequipamentoseerramentas"
+subject = "Fase de equipamentoseerramentas"
 
 [Grupo0.1F.40.40.14]
 code = "1F-40-40-14"
-subject = "Fasedeexecuçãodeprojetos"
+subject = "Fase de execuçãodeprojetos"
 
 [Grupo0.1F.40.40.14.11]
 code = "1F-40-40-14-11"
-subject = "Fasedeereção/elevação"
+subject = "Fase de ereção/elevação"
 
 [Grupo0.1F.40.40.14.14]
 code = "1F-40-40-14-14"
-subject = "Fasedemontagem"
+subject = "Fase de montagem"
 
 [Grupo0.1F.40.40.14.17]
 code = "1F-40-40-14-17"
-subject = "Fasedemanuatura"
+subject = "Fase de manuatura"
 
 [Grupo0.1F.40.40.14.21]
 code = "1F-40-40-14-21"
-subject = "Fasedeabricaçãoexterna"
+subject = "Fase de abricaçãoexterna"
 
 [Grupo0.1F.40.40.14.24]
 code = "1F-40-40-14-24"
-subject = "Fasedeabricação"
+subject = "Fase de abricação"
 
 [Grupo0.1F.40.40.14.27]
 code = "1F-40-40-14-27"
-subject = "Fasededesmobilização"
+subject = "Fase de desmobilização"
 
 [Grupo0.1F.40.40.91]
 code = "1F-40-40-91"
-subject = "Fasedeencerramentodaconstrução"
+subject = "Fase de encerramentodaconstrução"
 
 [Grupo0.1F.40.40.91.11]
 code = "1F-40-40-91-11"
-subject = "Fasedetestesdeedicações/instalações"
+subject = "Fase de testesdeedificações/instalações"
 
 [Grupo0.1F.40.40.91.14]
 code = "1F-40-40-91-14"
-subject = "Fasedeajustesebalanceamento"
+subject = "Fase de ajustesebalanceamento"
 
 [Grupo0.1F.40.40.91.17]
 code = "1F-40-40-91-17"
-subject = "Fasedeavaliação"
+subject = "Fase de avaliação"
 
 [Grupo0.1F.40.40.91.21]
 code = "1F-40-40-91-21"
-subject = "Fasedelimpeza"
+subject = "Fase de limpeza"
 
 [Grupo0.1F.40.40.91.24]
 code = "1F-40-40-91-24"
-subject = "Fasedeencerramentodecontrato"
+subject = "Fase de encerramentodecontrato"
 
 [Grupo0.1F.40.40.91.27]
 code = "1F-40-40-91-27"
-subject = "Fasedeequipação"
+subject = "Fase de equipação"
 
 [Grupo0.1F.40.40.91.31]
 code = "1F-40-40-91-31"
-subject = "Fasedeentrega"
+subject = "Fase de entrega"
 
 [Grupo0.1F.40.50.00]
 code = "1F-40-50-00"
-subject = "Fasedecomissionamento"
+subject = "Fase de comissionamento"
 
 [Grupo0.1F.40.50.11]
 code = "1F-40-50-11"
-subject = "Fasedeinicializaçãodocomissionamento"
+subject = "Fase de inicializaçãodocomissionamento"
 
 [Grupo0.1F.40.50.21]
 code = "1F-40-50-21"
-subject = "Fasedemonitoraçãodocomissionamento"
+subject = "Fase de monitoraçãodocomissionamento"
 
 [Grupo0.1F.40.50.31]
 code = "1F-40-50-31"
-subject = "Fasedecerticaçãodocomissionamento"
+subject = "Fase de certificaçãodocomissionamento"
 
 [Grupo0.1F.40.50.41]
 code = "1F-40-50-41"
-subject = "Fasededemonstraçãodeequipamentosdas edicações/instalações"
+subject = "Fase de demonstraçãodeequipamentosdas edificações/instalações"
 
 [Grupo0.1F.40.50.51]
 code = "1F-40-50-51"
-subject = "Fasedetreinamentonosequipamentosdas edicações/instalações"
+subject = "Fase de treinamentonosequipamentosdas edificações/instalações"
 
 [Grupo0.1F.50.00.00]
 code = "1F-50-00-00"
-subject = "Estágiodeutilização"
+subject = "Estágio de utilização"
 
 [Grupo0.1F.50.10.00]
 code = "1F-50-10-00"
-subject = "Fasedeocupação"
+subject = "Fase de ocupação"
 
 [Grupo0.1F.50.10.11]
 code = "1F-50-10-11"
-subject = "Fasedepré-inauguração"
+subject = "Fase de pré-inauguração"
 
 [Grupo0.1F.50.10.14]
 code = "1F-50-10-14"
-subject = "Fasedeinauguração"
+subject = "Fase de inauguração"
 
 [Grupo0.1F.50.10.17]
 code = "1F-50-10-17"
-subject = "Fasedeutilização"
+subject = "Fase de utilização"
 
 [Grupo0.1F.50.10.19]
 code = "1F-50-10-19"
-subject = "Fasedeimplantação"
+subject = "Fase de implantação"
 
 [Grupo0.1F.50.20.00]
 code = "1F-50-20-00"
-subject = "Fasedegerenciamentodaedicação/instalação"
+subject = "Fase de gerenciamentodaedificação/instalação"
 
 [Grupo0.1F.50.20.11]
 code = "1F-50-20-11"
-subject = "Fasedeoperaçãodaedicação/instalação"
+subject = "Fase de operaçãodaedificação/instalação"
 
 [Grupo0.1F.50.20.21]
 code = "1F-50-20-21"
-subject = "Fasedeinspeçãodaedicação/instalação"
+subject = "Fase de inspeçãodaedificação/instalação"
 
 [Grupo0.1F.50.20.31]
 code = "1F-50-20-31"
-subject = "Fasedemanutençãodaedicação/instalação"
+subject = "Fase de manutençãodaedificação/instalação"
 
 [Grupo0.1F.50.30.00]
 code = "1F-50-30-00"
-subject = "Fasedereutilizaçãodaedicação/instalação"
+subject = "Fase de reutilizaçãodaedificação/instalação"
 
 [Grupo0.1F.50.30.11]
 code = "1F-50-30-11"
-subject = "Fasedereormadaedicação/instalação"
+subject = "Fase de reormadaedificação/instalação"
 
 [Grupo0.1F.50.30.14]
 code = "1F-50-30-14"
-subject = "Fasederemodelagemdaedicação/instalação"
+subject = "Fase de remodelagemdaedificação/instalação"
 
 [Grupo0.1F.50.30.17]
 code = "1F-50-30-17"
-subject = "Fasedeexpansãodaedicação/instalação"
+subject = "Fase de expansãodaedificação/instalação"
 
 [Grupo0.1F.50.30.21]
 code = "1F-50-30-21"
-subject = "Fasederestauraçãodaedicação/instalação"
+subject = "Fase de restauraçãodaedificação/instalação"
 
 [Grupo0.1F.50.70.00]
 code = "1F-50-70-00"
-subject = "Fasedereparaçãodaedicação/instalação"
+subject = "Fase de reparaçãodaedificação/instalação"
 
 [Grupo0.1F.60.00.00]
 code = "1F-60-00-00"
-subject = "Fasedeechamentodaedifcação/instalação"
+subject = "Fase de echamentodaedifcação/instalação"
 
 [Grupo0.1F.60.10.00]
 code = "1F-60-10-00"
-subject = "Fasedeadaptação"
+subject = "Fase de adaptação"
 
 [Grupo0.1F.60.10.11]
 code = "1F-60-10-11"
-subject = "Fasedereequipação"
+subject = "Fase de reequipação"
 
 [Grupo0.1F.60.10.14]
 code = "1F-60-10-14"
-subject = "Fasederecomissionamento"
+subject = "Fase de recomissionamento"
 
 [Grupo0.1F.60.20.00]
 code = "1F-60-20-00"
-subject = "Fasederedesenvolvimento"
+subject = "Fase de redesenvolvimento"
 
 [Grupo0.1F.60.25.00]
 code = "1F-60-25-00"
-subject = "Fasederealocação"
+subject = "Fase de realocação"
 
 [Grupo0.1F.60.30.00]
 code = "1F-60-30-00"
-subject = "Fasededesmontagem/desconstrução"
+subject = "Fase de desmontagem/desconstrução"
 
 [Grupo0.1F.60.35.00]
 code = "1F-60-35-00"
-subject = "Fasedereciclagem"
+subject = "Fase de reciclagem"
 
 [Grupo0.1F.60.40.00]
 code = "1F-60-40-00"
-subject = "Fasededescomissionamento"
+subject = "Fase de descomissionamento"
 
 [Grupo0.1S.10.00.00]
 code = "1S-10-00-00"
@@ -6206,7 +6206,7 @@ subject = "Marketing"
 
 [Grupo0.1S.10.15.00]
 code = "1S-10-15-00"
-subject = "Pré-qualicação"
+subject = "Pré-qualificação"
 
 [Grupo0.1S.10.20.00]
 code = "1S-10-20-00"
@@ -6238,7 +6238,7 @@ subject = "Seleção"
 
 [Grupo0.1S.10.45.00]
 code = "1S-10-45-00"
-subject = "Seleçãodevencedor"
+subject = "seleção de vencedor"
 
 [Grupo0.1S.10.50.00]
 code = "1S-10-50-00"
@@ -6294,7 +6294,7 @@ subject = "Estimativasdecustos"
 
 [Grupo0.1S.10.90.00]
 code = "1S-10-90-00"
-subject = "Precicação"
+subject = "Precificação"
 
 [Grupo0.1S.10.90.01]
 code = "1S-10-90-01"
@@ -6494,11 +6494,11 @@ subject = "Previsão"
 
 [Grupo0.1S.40.20.00]
 code = "1S-40-20-00"
-subject = "Deniçãodeestratégia"
+subject = "Definiçãodeestratégia"
 
 [Grupo0.1S.40.20.01]
 code = "1S-40-20-01"
-subject = "Deniçãodemetas"
+subject = "Definiçãodemetas"
 
 [Grupo0.1S.40.25.00]
 code = "1S-40-25-00"
@@ -6506,7 +6506,7 @@ subject = "Autoria"
 
 [Grupo0.1S.40.30.00]
 code = "1S-40-30-00"
-subject = "Denição"
+subject = "Definição"
 
 [Grupo0.1S.40.35.00]
 code = "1S-40-35-00"
@@ -6534,7 +6534,7 @@ subject = "Formulação"
 
 [Grupo0.1S.40.65.00]
 code = "1S-40-65-00"
-subject = "Deniçãodeescopo"
+subject = "Definiçãodeescopo"
 
 [Grupo0.1S.40.70.00]
 code = "1S-40-70-00"
@@ -6562,7 +6562,7 @@ subject = "Investigação"
 
 [Grupo0.1S.40.70.06]
 code = "1S-40-70-06"
-subject = "Identicação"
+subject = "Identificação"
 
 [Grupo0.1S.40.70.07]
 code = "1S-40-70-07"
@@ -6574,7 +6574,7 @@ subject = "Locação"
 
 [Grupo0.1S.40.75.00]
 code = "1S-40-75-00"
-subject = "Quanticação"
+subject = "Quantificação"
 
 [Grupo0.1S.40.75.01]
 code = "1S-40-75-01"
@@ -6626,7 +6626,7 @@ subject = "Priorização"
 
 [Grupo0.1S.40.80.09]
 code = "1S-40-80-09"
-subject = "Classicaçãodevalores"
+subject = "Classificaçãodevalores"
 
 [Grupo0.1S.40.80.10]
 code = "1S-40-80-10"
@@ -6642,7 +6642,7 @@ subject = "Otimização"
 
 [Grupo0.1S.40.80.13]
 code = "1S-40-80-13"
-subject = "Renamento"
+subject = "Refinamento"
 
 [Grupo0.1S.40.80.14]
 code = "1S-40-80-14"
@@ -6650,7 +6650,7 @@ subject = "Desenvolvimento"
 
 [Grupo0.1S.40.80.15]
 code = "1S-40-80-15"
-subject = "Qualicação"
+subject = "Qualificação"
 
 [Grupo0.1S.40.80.16]
 code = "1S-40-80-16"
@@ -6674,7 +6674,7 @@ subject = "Ordenaçãodevalores"
 
 [Grupo0.1S.40.85.02]
 code = "1S-40-85-02"
-subject = "Classicação"
+subject = "Classificação"
 
 [Grupo0.1S.40.85.03]
 code = "1S-40-85-03"
@@ -6702,7 +6702,7 @@ subject = "Monitoramento"
 
 [Grupo0.1S.40.90.02]
 code = "1S-40-90-02"
-subject = "Vericação"
+subject = "Verificação"
 
 [Grupo0.1S.40.90.03]
 code = "1S-40-90-03"
@@ -6734,7 +6734,7 @@ subject = "Planejamentodeespaços"
 
 [Grupo0.1S.50.30.00]
 code = "1S-50-30-00"
-subject = "Sintetizaçãodoescopodeprojeto"
+subject = "Sintetizaçãodoescopo de projeto"
 
 [Grupo0.1S.50.30.01]
 code = "1S-50-30-01"
@@ -6750,11 +6750,11 @@ subject = "Validaçãodeprojeto"
 
 [Grupo0.1S.50.50.01]
 code = "1S-50-50-01"
-subject = "Vericaçãodeprojeto"
+subject = "Verificaçãodeprojeto"
 
 [Grupo0.1S.50.50.02]
 code = "1S-50-50-02"
-subject = "Conrmaçãodeprojeto"
+subject = "Confirmaçãodeprojeto"
 
 [Grupo0.1S.50.50.03]
 code = "1S-50-50-03"
@@ -6790,7 +6790,7 @@ subject = "CriaçãodevistasBIM"
 
 [Grupo0.1S.60.10.06]
 code = "1S-60-10-06"
-subject = "DeniçãodeolhasBIM"
+subject = "DefiniçãodeolhasBIM"
 
 [Grupo0.1S.60.10.07]
 code = "1S-60-10-07"
@@ -6846,7 +6846,7 @@ subject = "Detalhamento"
 
 [Grupo0.1S.60.40.00]
 code = "1S-60-40-00"
-subject = "Especicação"
+subject = "Especificação"
 
 [Grupo0.1S.60.50.00]
 code = "1S-60-50-00"
@@ -6854,7 +6854,7 @@ subject = "Gravação"
 
 [Grupo0.1S.60.50.01]
 code = "1S-60-50-01"
-subject = "Fotograa"
+subject = "Fotografia"
 
 [Grupo0.1S.60.50.02]
 code = "1S-60-50-02"
@@ -6922,7 +6922,7 @@ subject = "Abastecimento"
 
 [Grupo0.1S.70.20.02]
 code = "1S-70-20-02"
-subject = "Reno"
+subject = "Refino"
 
 [Grupo0.1S.70.20.03]
 code = "1S-70-20-03"
@@ -6938,7 +6938,7 @@ subject = "Pré-abricação"
 
 [Grupo0.1S.70.20.05]
 code = "1S-70-20-05"
-subject = "Deniçãodecomponentes"
+subject = "Definiçãodecomponentes"
 
 [Grupo0.1S.70.25.00]
 code = "1S-70-25-00"
@@ -6994,7 +6994,7 @@ subject = "Digitalização"
 
 [Grupo0.1S.70.30.04.01]
 code = "1S-70-30-04-01"
-subject = "Digitalizaçãodeedicação/instalação"
+subject = "Digitalizaçãodeedificação/instalação"
 
 [Grupo0.1S.70.30.04.02]
 code = "1S-70-30-04-02"
@@ -7014,7 +7014,7 @@ subject = "Construção"
 
 [Grupo0.1S.70.35.01]
 code = "1S-70-35-01"
-subject = "Edicação"
+subject = "Edificação"
 
 [Grupo0.1S.70.35.02]
 code = "1S-70-35-02"
@@ -7102,7 +7102,7 @@ subject = "Fechamento"
 
 [Grupo0.1S.70.45.00]
 code = "1S-70-45-00"
-subject = "Conrmaçãodequalidade"
+subject = "Confirmaçãodequalidade"
 
 [Grupo0.1S.70.45.01]
 code = "1S-70-45-01"
@@ -7114,7 +7114,7 @@ subject = "Inspeção"
 
 [Grupo0.1S.70.45.03]
 code = "1S-70-45-03"
-subject = "Certicação"
+subject = "Certificação"
 
 [Grupo0.1S.70.45.04]
 code = "1S-70-45-04"
@@ -7298,7 +7298,7 @@ subject = "Relaçõespúblicas"
 
 [Grupo0.1S.90.60.00]
 code = "1S-90-60-00"
-subject = "Reproduçãodedocumentos"
+subject = "Reprodução de documentos"
 
 [Grupo0.1S.90.60.01]
 code = "1S-90-60-01"
@@ -7310,7 +7310,7 @@ subject = "Plotagem"
 
 [Grupo0.1S.90.65.00]
 code = "1S-90-65-00"
-subject = "Submissão/solicitaçãodeaprovação"
+subject = "Submissão/solicitação de aprovação"
 
 [Grupo0.1S.90.70.00]
 code = "1S-90-70-00"
@@ -7342,11 +7342,11 @@ subject = "Acreditação"
 
 [Grupo0.1S.92.10.02]
 code = "1S-92-10-02"
-subject = "Certicação"
+subject = "Certificação"
 
 [Grupo0.1S.92.20.00]
 code = "1S-92-20-00"
-subject = "Revisãodeplano"
+subject = "revisão de plano"
 
 [Grupo0.1S.92.30.00]
 code = "1S-92-30-00"
@@ -7390,7 +7390,7 @@ subject = "Devercívico"
 
 [Grupo0.1S.94.60.00]
 code = "1S-94-60-00"
-subject = "Desenvolvimentoprossional"
+subject = "Desenvolvimentoprofissional"
 
 [Grupo0.1S.94.60.01]
 code = "1S-94-60-01"
@@ -7462,7 +7462,7 @@ subject = "Permissões"
 
 [Grupo0.1D.11.99.17]
 code = "1D-11-99-17"
-subject = "Avaliaçãoderiscos"
+subject = "avaliação deriscos"
 
 [Grupo0.1D.21.00.00]
 code = "1D-21-00-00"
@@ -7502,11 +7502,11 @@ subject = "Projetodeinteriores"
 
 [Grupo0.1D.21.25.00]
 code = "1D-21-25-00"
-subject = "Especicações/cadernodeencargos"
+subject = "Especificações/cadernodeencargos"
 
 [Grupo0.1D.21.27.00]
 code = "1D-21-27-00"
-subject = "Projetográco"
+subject = "Projetográfico"
 
 [Grupo0.1D.21.27.11]
 code = "1D-21-27-11"
@@ -7806,15 +7806,15 @@ subject = "Levantamentos"
 
 [Grupo0.1D.31.11.00]
 code = "1D-31-11-00"
-subject = "Levantamentodeedicações"
+subject = "Levantamentodeedificações"
 
 [Grupo0.1D.31.21.00]
 code = "1D-31-21-00"
-subject = "Levantamentotopográco"
+subject = "Levantamentotopográfico"
 
 [Grupo0.1D.31.31.00]
 code = "1D-31-31-00"
-subject = "Sistemadeinormaçõesgeográcas(SIG)"
+subject = "Sistemadeinormaçõesgeográficas(SIG)"
 
 [Grupo0.1D.41.00.00]
 code = "1D-41-00-00"
@@ -7902,7 +7902,7 @@ subject = "Vendasimóveis"
 
 [Grupo0.1D.55.14.14]
 code = "1D-55-14-14"
-subject = "Avaliaçãodeimóveis"
+subject = "avaliação deimóveis"
 
 [Grupo0.1D.55.14.17]
 code = "1D-55-14-17"
@@ -7914,23 +7914,23 @@ subject = "Proprietário"
 
 [Grupo0.1D.55.24.00]
 code = "1D-55-24-00"
-subject = "Operaçãodeedicações/instalações"
+subject = "Operaçãodeedificações/instalações"
 
 [Grupo0.1D.55.24.11]
 code = "1D-55-24-11"
-subject = "Gerenciamentodeespaçosdeedicações/instalações"
+subject = "Gerenciamentodeespaçosdeedificações/instalações"
 
 [Grupo0.1D.55.24.14]
 code = "1D-55-24-14"
-subject = "Gerenciamentodeedicações/instalações"
+subject = "Gerenciamentodeedificações/instalações"
 
 [Grupo0.1D.55.24.17]
 code = "1D-55-24-17"
-subject = "Manutençãodeedicações/instalações"
+subject = "Manutençãodeedificações/instalações"
 
 [Grupo0.1D.55.24.21]
 code = "1D-55-24-21"
-subject = "Serviçosdeedicações/instalações"
+subject = "Serviçosdeedificações/instalações"
 
 [Grupo0.1D.55.24.21.11]
 code = "1D-55-24-21-11"
@@ -7990,15 +7990,15 @@ subject = "Operaçãoemanutençãodesistemasdetecnologia dainormação"
 
 [Grupo0.1D.55.24.21.51]
 code = "1D-55-24-21-51"
-subject = "Operaçãoemanutençãodeblindagemeproteção deedicações/instalações"
+subject = "Operaçãoemanutençãodeblindagemeproteção deedificações/instalações"
 
 [Grupo0.1D.55.24.21.51.11]
 code = "1D-55-24-21-51-11"
-subject = "Operaçãoemanutençãodeisolamentoacústicode edicações/instalações"
+subject = "Operaçãoemanutençãodeisolamentoacústicode edificações/instalações"
 
 [Grupo0.1D.55.36.00]
 code = "1D-55-36-00"
-subject = "Restauraçãodeedicações/instalações"
+subject = "Restauraçãodeedificações/instalações"
 
 [Grupo0.1D.55.36.11]
 code = "1D-55-36-11"
@@ -8086,7 +8086,7 @@ subject = "Artes"
 
 [Grupo0.1D.99.13.11]
 code = "1D-99-13-11"
-subject = "Fotograa"
+subject = "Fotografia"
 
 [Grupo0.1D.99.41.00]
 code = "1D-99-41-00"
@@ -8342,7 +8342,7 @@ subject = "Paisagismo"
 
 [Grupo0.2C.02.34.02.00.00.00]
 code = "2C-02-34-02-00-00-00"
-subject = "Produtosparamanutençãoepreparaçãodeáreasverdes"
+subject = "Produtosparamanutençãoepreparação de áreasverdes"
 
 [Grupo0.2C.02.34.02.02.00.00]
 code = "2C-02-34-02-02-00-00"
@@ -13434,7 +13434,7 @@ subject = "Equipamentosemobiliáriosparaserviçoalimentício"
 
 [Grupo0.2C.68.22.02.00.00.00]
 code = "2C-68-22-02-00-00-00"
-subject = "Gabinetesindustriaisparapreparaçãodealimentos"
+subject = "Gabinetesindustriaisparapreparação de alimentos"
 
 [Grupo0.2C.68.22.02.02.00.00]
 code = "2C-68-22-02-02-00-00"
@@ -13750,7 +13750,7 @@ subject = "Resriadorindustrialparaarmazenamentodealimentos"
 
 [Grupo0.2C.68.22.38.00.00.00]
 code = "2C-68-22-38-00-00-00"
-subject = "Máquinasindustriaisparaproduçãodegelo"
+subject = "Máquinasindustriaisparaprodução de gelo"
 
 [Grupo0.2C.68.22.38.02.00.00]
 code = "2C-68-22-38-02-00-00"
@@ -13778,35 +13778,35 @@ subject = "Máquinadeabricargelocombin"
 
 [Grupo0.2C.68.22.42.00.00.00]
 code = "2C-68-22-42-00-00-00"
-subject = "Equipamentosindustriaisparapreparaçãodealimentos"
+subject = "Equipamentosindustriaisparapreparação de alimentos"
 
 [Grupo0.2C.68.22.42.02.00.00]
 code = "2C-68-22-42-02-00-00"
-subject = "Misturadorindustrialparapreparaçãodealimentos"
+subject = "Misturadorindustrialparapreparação de alimentos"
 
 [Grupo0.2C.68.22.42.06.00.00]
 code = "2C-68-22-42-06-00-00"
-subject = "Descascadorindustrialparapreparaçãodealimentos"
+subject = "Descascadorindustrialparapreparação de alimentos"
 
 [Grupo0.2C.68.22.42.10.00.00]
 code = "2C-68-22-42-10-00-00"
-subject = "Processadorindustrialparapreparaçãodealimentos"
+subject = "Processadorindustrialparapreparação de alimentos"
 
 [Grupo0.2C.68.22.42.14.00.00]
 code = "2C-68-22-42-14-00-00"
-subject = "Postoindustrialparapreparaçãodealimentos"
+subject = "Postoindustrialparapreparação de alimentos"
 
 [Grupo0.2C.68.22.42.18.00.00]
 code = "2C-68-22-42-18-00-00"
-subject = "Raladorindustrialparapreparaçãodealimentos"
+subject = "Raladorindustrialparapreparação de alimentos"
 
 [Grupo0.2C.68.22.42.22.00.00]
 code = "2C-68-22-42-22-00-00"
-subject = "Mesaindustrialparapreparaçãodealimentos"
+subject = "Mesaindustrialparapreparação de alimentos"
 
 [Grupo0.2C.68.22.42.26.00.00]
 code = "2C-68-22-42-26-00-00"
-subject = "Equipamentoindustrialparapreparaçãodebebidas"
+subject = "Equipamentoindustrialparapreparação de bebidas"
 
 [Grupo0.2C.68.22.46.00.00.00]
 code = "2C-68-22-46-00-00-00"
@@ -14134,7 +14134,7 @@ subject = "Máquinadegelo"
 
 [Grupo0.2C.68.26.50.00.00.00]
 code = "2C-68-26-50-00-00-00"
-subject = "Equipamentosparapreparaçãodealimentos"
+subject = "Equipamentosparapreparação de alimentos"
 
 [Grupo0.2C.68.26.50.02.00.00]
 code = "2C-68-26-50-02-00-00"
@@ -14154,7 +14154,7 @@ subject = "Fatiador"
 
 [Grupo0.2C.68.26.50.18.00.00]
 code = "2C-68-26-50-18-00-00"
-subject = "Mesapreparaçãodecomida"
+subject = "Mesapreparação de comida"
 
 [Grupo0.2C.68.26.54.00.00.00]
 code = "2C-68-26-54-00-00-00"
@@ -22174,7 +22174,7 @@ subject = "Fonedeouvido"
 
 [Grupo0.2C.84.10.42.10.00.00]
 code = "2C-84-10-42-10-00-00"
-subject = "Unidadedereproduçãodeáudio"
+subject = "Unidadedereprodução de áudio"
 
 [Grupo0.2C.84.14.00.00.00.00]
 code = "2C-84-14-00-00-00-00"
@@ -24458,7 +24458,7 @@ subject = "Equipamentoparaeletro-osmose"
 
 [Grupo0.2Q.42.14.00.00.00.00]
 code = "2Q-42-14-00-00-00-00"
-subject = "Equipamentosdelimpezaepreparaçãodesuperícies"
+subject = "Equipamentosdelimpezaepreparação de superícies"
 
 [Grupo0.2Q.42.14.02.00.00.00]
 code = "2Q-42-14-02-00-00-00"
@@ -24882,7 +24882,7 @@ subject = "Compactadordesolo"
 
 [Grupo0.2Q.58.10.00.00.00.00]
 code = "2Q-58-10-00-00-00-00"
-subject = "Equipamentosparaaproduçãodeconcreto"
+subject = "Equipamentosparaaprodução de concreto"
 
 [Grupo0.2Q.58.10.02.00.00.00]
 code = "2Q-58-10-02-00-00-00"
@@ -24926,7 +24926,7 @@ subject = "Usinadereciclagemderestosdeconstrução"
 
 [Grupo0.2Q.58.10.06.00.00.00]
 code = "2Q-58-10-06-00-00-00"
-subject = "Equipamentosdebeneciamentodepedrasbritadasparaa produçãodeconcreto"
+subject = "Equipamentosdebeneciamentodepedrasbritadasparaa produção de concreto"
 
 [Grupo0.2Q.58.10.06.02.00.00]
 code = "2Q-58-10-06-02-00-00"
@@ -25214,15 +25214,15 @@ subject = "Máquinascentríugasparalançamentoemoldagemde concreto"
 
 [Grupo0.2Q.58.10.14.02.34.00]
 code = "2Q-58-10-14-02-34-00"
-subject = "Máquinasparaproduçãodemeios-osdeconcreto"
+subject = "Máquinasparaprodução de meios-osdeconcreto"
 
 [Grupo0.2Q.58.10.14.02.38.00]
 code = "2Q-58-10-14-02-38-00"
-subject = "Máquinasparaproduçãodedegrausdeconcreto"
+subject = "Máquinasparaprodução de degrausdeconcreto"
 
 [Grupo0.2Q.58.10.14.02.42.00]
 code = "2Q-58-10-14-02-42-00"
-subject = "Máquinasparaproduçãodetelhasdeconcreto"
+subject = "Máquinasparaprodução de telhasdeconcreto"
 
 [Grupo0.2Q.58.10.14.02.46.00]
 code = "2Q-58-10-14-02-46-00"
@@ -25290,7 +25290,7 @@ subject = "Fábricadetijoloscerâmicos"
 
 [Grupo0.2Q.58.14.00.00.00.00]
 code = "2Q-58-14-00-00-00-00"
-subject = "Equipamentosparaproduçãodeasalto"
+subject = "Equipamentosparaprodução de asalto"
 
 [Grupo0.2Q.58.14.02.00.00.00]
 code = "2Q-58-14-02-00-00-00"
@@ -25506,7 +25506,7 @@ subject = "Máquinasparaestabilizaçãodosolo"
 
 [Grupo0.2Q.62.34.06.00.00.00]
 code = "2Q-62-34-06-00-00-00"
-subject = "Equipamentoparapreparaçãodeasalto,mastiquee alcatrão"
+subject = "Equipamentoparapreparação de asalto,mastiquee alcatrão"
 
 [Grupo0.2Q.62.34.10.00.00.00]
 code = "2Q-62-34-10-00-00-00"
@@ -32250,7 +32250,7 @@ subject = "Unidade de armazenamentode gás para aquecimento"
 
 [Grupo0.4U.22.18.10.00.00.00]
 code = "4U-22-18-10-00-00-00"
-subject = "Unidade de produção de gases pararefrigeração e ar condicionado"
+subject = "Unidade de produção de gases pararefrigeração e ar-condicionado"
 
 [Grupo0.4U.22.18.14.00.00.00]
 code = "4U-22-18-14-00-00-00"
@@ -42474,7 +42474,7 @@ subject = "Revisõespreliminaresdeprojeto"
 
 [Grupo0.5I.80.90.10.18.10.00]
 code = "5I-80-90-10-18-10-00"
-subject = "Revisãodezoneamento"
+subject = "revisão de zoneamento"
 
 [Grupo0.5I.80.90.10.20.00.00]
 code = "5I-80-90-10-20-00-00"
@@ -42842,7 +42842,7 @@ subject = "Dadosdeaquisiçõesecompras"
 
 [Grupo0.5I.80.90.16.10.00.00]
 code = "5I-80-90-16-10-00-00"
-subject = "Solicitaçãodequalicações"
+subject = "solicitação de qualicações"
 
 [Grupo0.5I.80.90.16.12.00.00]
 code = "5I-80-90-16-12-00-00"
