@@ -5978,7 +5978,7 @@ subject = "Fase de pedidos de produtos"
 
 [Grupo0.1F.40.30.27]
 code = "1F-40-30-27"
-subject = "Fase de entr e ga de produtos"
+subject = "Fase de Entrega de produtos"
 
 [Grupo0.1F.40.40.00]
 code = "1F-40-40-00"
@@ -6874,11 +6874,11 @@ subject = "Preparação"
 
 [Grupo0.1S.60.80.00]
 code = "1S-60-80-00"
-subject = "Ind e xação"
+subject = "Indexação"
 
 [Grupo0.1S.60.80.01]
 code = "1S-60-80-01"
-subject = "Listag e m"
+subject = "Listagem"
 
 [Grupo0.1S.60.90.00]
 code = "1S-60-90-00"
@@ -6890,15 +6890,15 @@ subject = "Revisão"
 
 [Grupo0.1S.60.90.02]
 code = "1S-60-90-02"
-subject = "Corr e ção"
+subject = "Correção"
 
 [Grupo0.1S.60.90.03]
 code = "1S-60-90-03"
-subject = "Supl e m e ntação"
+subject = "Suplementação"
 
 [Grupo0.1S.70.00.00]
 code = "1S-70-00-00"
-subject = "Serviços de impl e m e ntação"
+subject = "Serviços de implementação"
 
 [Grupo0.1S.70.10.00]
 code = "1S-70-10-00"
@@ -6906,19 +6906,19 @@ subject = "Execução"
 
 [Grupo0.1S.70.15.00]
 code = "1S-70-15-00"
-subject = "Prototipag e m"
+subject = "Prototipagem"
 
 [Grupo0.1S.70.15.01]
 code = "1S-70-15-01"
-subject = "Prototipag em rápida"
+subject = "Prototipagem rápida"
 
 [Grupo0.1S.70.20.00]
 code = "1S-70-20-00"
-subject = "Forn e cim e nto"
+subject = "Fornecimento"
 
 [Grupo0.1S.70.20.01]
 code = "1S-70-20-01"
-subject = "Abast e cim e nto"
+subject = "Abastecimento"
 
 [Grupo0.1S.70.20.02]
 code = "1S-70-20-02"
@@ -6938,7 +6938,7 @@ subject = "Pré-fabricação"
 
 [Grupo0.1S.70.20.05]
 code = "1S-70-20-05"
-subject = "Definição de com pon e nt e s"
+subject = "Definição de componentes"
 
 [Grupo0.1S.70.25.00]
 code = "1S-70-25-00"
@@ -6954,23 +6954,23 @@ subject = "Frete"
 
 [Grupo0.1S.70.25.03]
 code = "1S-70-25-03"
-subject = "Manus e io"
+subject = "Manuseio"
 
 [Grupo0.1S.70.25.04]
 code = "1S-70-25-04"
-subject = "Entr e ga"
+subject = "Entrega"
 
 [Grupo0.1S.70.25.05]
 code = "1S-70-25-05"
-subject = "Armaz e namento"
+subject = "Armazenamento"
 
 [Grupo0.1S.70.25.06]
 code = "1S-70-25-06"
-subject = "Estruturatemporária"
+subject = "Estrutura temporária"
 
 [Grupo0.1S.70.25.07]
 code = "1S-70-25-07"
-subject = "Inv e ntário"
+subject = "Inventário"
 
 [Grupo0.1S.70.30.00]
 code = "1S-70-30-00"
@@ -6982,7 +6982,7 @@ subject = "Levantamento"
 
 [Grupo0.1S.70.30.02]
 code = "1S-70-30-02"
-subject = "Map e amento"
+subject = "Mapeamento"
 
 [Grupo0.1S.70.30.03]
 code = "1S-70-30-03"
@@ -6994,11 +6994,11 @@ subject = "Digitalização"
 
 [Grupo0.1S.70.30.04.01]
 code = "1S-70-30-04-01"
-subject = "Digitalizaçãode edificação/instalação"
+subject = "Digitalização de edificação/instalação"
 
 [Grupo0.1S.70.30.04.02]
 code = "1S-70-30-04-02"
-subject = "Digitalizaçãode do cum e nto"
+subject = "Digitalização de documento"
 
 [Grupo0.1S.70.30.05]
 code = "1S-70-30-05"
@@ -7022,11 +7022,11 @@ subject = "Forma"
 
 [Grupo0.1S.70.35.03]
 code = "1S-70-35-03"
-subject = "Concr e tag e m"
+subject = "Concretagem"
 
 [Grupo0.1S.70.35.04]
 code = "1S-70-35-04"
-subject = "Montag e m"
+subject = "Montagem"
 
 [Grupo0.1S.70.35.05]
 code = "1S-70-35-05"
@@ -7038,7 +7038,7 @@ subject = "Fixação"
 
 [Grupo0.1S.70.35.06.01]
 code = "1S-70-35-06-01"
-subject = "Fixação com pr e gos"
+subject = "Fixação com pregos"
 
 [Grupo0.1S.70.35.06.02]
 code = "1S-70-35-06-02"
@@ -7046,7 +7046,7 @@ subject = "Aparafusamento"
 
 [Grupo0.1S.70.35.07]
 code = "1S-70-35-07"
-subject = "Colag e m"
+subject = "Colagem"
 
 [Grupo0.1S.70.35.08]
 code = "1S-70-35-08"
@@ -7066,7 +7066,7 @@ subject = "Ereção/elevação"
 
 [Grupo0.1S.70.35.12]
 code = "1S-70-35-12"
-subject = "Enchim e nto"
+subject = "Enchimento"
 
 [Grupo0.1S.70.35.13]
 code = "1S-70-35-13"
@@ -7082,11 +7082,11 @@ subject = "Pós-construção"
 
 [Grupo0.1S.70.40.01]
 code = "1S-70-40-01"
-subject = "Limp e za"
+subject = "Limpeza"
 
 [Grupo0.1S.70.40.02]
 code = "1S-70-40-02"
-subject = "Prot e ção"
+subject = "Proteção"
 
 [Grupo0.1S.70.40.03]
 code = "1S-70-40-03"
@@ -7102,15 +7102,15 @@ subject = "Fechamento"
 
 [Grupo0.1S.70.45.00]
 code = "1S-70-45-00"
-subject = "Confirmação de quali da de"
+subject = "Confirmação de qualidade"
 
 [Grupo0.1S.70.45.01]
 code = "1S-70-45-01"
-subject = "Obs e rvação"
+subject = "Observação"
 
 [Grupo0.1S.70.45.02]
 code = "1S-70-45-02"
-subject = "Insp e ção"
+subject = "Inspeção"
 
 [Grupo0.1S.70.45.03]
 code = "1S-70-45-03"
@@ -7122,7 +7122,7 @@ subject = "Ensaio"
 
 [Grupo0.1S.70.45.05]
 code = "1S-70-45-05"
-subject = "Amostrag e m"
+subject = "Amostragem"
 
 [Grupo0.1S.70.45.06]
 code = "1S-70-45-06"
@@ -7130,7 +7130,7 @@ subject = "Garantia"
 
 [Grupo0.1S.70.45.07]
 code = "1S-70-45-07"
-subject = "Garantiade de s em p e nho"
+subject = "Garantia de desempenho"
 
 [Grupo0.1S.70.45.07]
 code = "1S-70-45-07"
@@ -7142,7 +7142,7 @@ subject = "Desconstrução"
 
 [Grupo0.1S.70.50.01]
 code = "1S-70-50-01"
-subject = "desmontagem"
+subject = "Desmontagem"
 
 [Grupo0.1S.70.50.02]
 code = "1S-70-50-02"
@@ -7166,7 +7166,7 @@ subject = "Recuperação"
 
 [Grupo0.1S.70.50.07]
 code = "1S-70-50-07"
-subject = "reciclagem"
+subject = "Reciclagem"
 
 [Grupo0.1S.80.00.00]
 code = "1S-80-00-00"
@@ -7298,7 +7298,7 @@ subject = "Relaçõ e spúblicas"
 
 [Grupo0.1S.90.60.00]
 code = "1S-90-60-00"
-subject = "Reprodução de docum e ntos"
+subject = "Reprodução de documentos"
 
 [Grupo0.1S.90.60.01]
 code = "1S-90-60-01"
@@ -7362,7 +7362,7 @@ subject = "Obrigação"
 
 [Grupo0.1S.92.60.00]
 code = "1S-92-60-00"
-subject = "Insp e ção"
+subject = "Inspeção"
 
 [Grupo0.1S.94.00.00]
 code = "1S-94-00-00"
@@ -7414,7 +7414,7 @@ subject = "Planejamentor e gional"
 
 [Grupo0.1D.11.21.00]
 code = "1D-11-21-00"
-subject = "Planejamento de de s e nvolvim e nto"
+subject = "Planejamento de de s e nvolvimento"
 
 [Grupo0.1D.11.31.00]
 code = "1D-11-31-00"
@@ -7442,7 +7442,7 @@ subject = "Planejamento de cons e rvaçãode e difícioshistóricos"
 
 [Grupo0.1D.11.61.31]
 code = "1D-11-61-31"
-subject = "Planejamentodecons e rvaçãod em onum e ntos históricos"
+subject = "Planejamentodecons e rvaçãod em onumentos históricos"
 
 [Grupo0.1D.11.61.41]
 code = "1D-11-61-41"
@@ -7562,7 +7562,7 @@ subject = "Engenharia de instalaçõ e shidráulicas"
 
 [Grupo0.1D.21.31.17.21]
 code = "1D-21-31-17-21"
-subject = "Engenharia de prot e çãocontraincêndios"
+subject = "Engenharia de Proteçãocontraincêndios"
 
 [Grupo0.1D.21.31.17.31]
 code = "1D-21-31-17-31"
@@ -7646,7 +7646,7 @@ subject = "Outras e ng e nharias"
 
 [Grupo0.1D.21.31.99.11]
 code = "1D-21-31-99-11"
-subject = "Eng e nharia-acústica/prot e çãocontrairradiaçõ e s"
+subject = "Eng e nharia-acústica/Proteçãocontrairradiaçõ e s"
 
 [Grupo0.1D.21.31.99.14]
 code = "1D-21-31-99-14"
@@ -7794,11 +7794,11 @@ subject = "Aquisição de produtosd e construção"
 
 [Grupo0.1D.25.51.00]
 code = "1D-25-51-00"
-subject = "Garantia de quali da de"
+subject = "Garantia de qualidade"
 
 [Grupo0.1D.25.54.00]
 code = "1D-25-54-00"
-subject = "Control e d e quali da de"
+subject = "Control e d e qualidade"
 
 [Grupo0.1D.31.00.00]
 code = "1D-31-00-00"
@@ -7850,7 +7850,7 @@ subject = "Subcontratação de instalaçõ e shidráulicas"
 
 [Grupo0.1D.41.11.14.24]
 code = "1D-41-11-14-24"
-subject = "Subcontratação de prot e çãocontraincêndios"
+subject = "Subcontratação de Proteçãocontraincêndios"
 
 [Grupo0.1D.41.11.14.27]
 code = "1D-41-11-14-27"
@@ -7878,7 +7878,7 @@ subject = "Subcontratação de pintura"
 
 [Grupo0.1D.41.11.14.64]
 code = "1D-41-11-14-64"
-subject = "Subcontrataçãoderev e stim e ntosc e râmicos"
+subject = "Subcontrataçãoderev e stimentosc e râmicos"
 
 [Grupo0.1D.41.11.14]
 code = "1D-41-11-14"
@@ -7938,7 +7938,7 @@ subject = "Operaçãoemanut e nção de instalaçõ e shidráulicas"
 
 [Grupo0.1D.55.24.21.14]
 code = "1D-55-24-21-14"
-subject = "Operaçãoemanutençãodesist em asd e prot e ção contraincêndios"
+subject = "Operaçãoemanutençãodesist em asd e Proteção contraincêndios"
 
 [Grupo0.1D.55.24.21.17]
 code = "1D-55-24-21-17"
@@ -7958,23 +7958,23 @@ subject = "Operaçãoemanut e nção de sist em ashidrológicos"
 
 [Grupo0.1D.55.24.21.31]
 code = "1D-55-24-21-31"
-subject = "Operaçãoemanutençãodesist em asd e prot e ção contra de scargasatmosférica"
+subject = "Operaçãoemanutençãodesist em asd e Proteção contra de scargasatmosférica"
 
 [Grupo0.1D.55.24.21.34]
 code = "1D-55-24-21-34"
-subject = "Operaçãoemanutençãodesist em asd e prot e çãoà vida"
+subject = "Operaçãoemanutençãodesist em asd e Proteçãoà vida"
 
 [Grupo0.1D.55.24.21.37]
 code = "1D-55-24-21-37"
-subject = "Operaçãoemanutençãodesist em asd e prot e ção contraradiação"
+subject = "Operaçãoemanutençãodesist em asd e Proteção contraradiação"
 
 [Grupo0.1D.55.24.21.41]
 code = "1D-55-24-21-41"
-subject = "Operaçãoemanutençãodesist em asd e prot e ção contraumi da de"
+subject = "Operaçãoemanutençãodesist em asd e Proteção contraumi da de"
 
 [Grupo0.1D.55.24.21.44]
 code = "1D-55-24-21-44"
-subject = "Avaliaçãoequali da de do arint e rno"
+subject = "Avaliaçãoequalidade do arint e rno"
 
 [Grupo0.1D.55.24.21.47]
 code = "1D-55-24-21-47"
@@ -7990,7 +7990,7 @@ subject = "Operaçãoemanutençãodesist em asd e t e cnologia dainformação"
 
 [Grupo0.1D.55.24.21.51]
 code = "1D-55-24-21-51"
-subject = "Operaçãoemanutençãodeblindag e m e prot e ção deedificações/instalações"
+subject = "Operaçãoemanutençãodeblindag e m e Proteção deedificações/instalações"
 
 [Grupo0.1D.55.24.21.51.11]
 code = "1D-55-24-21-51-11"
@@ -8150,7 +8150,7 @@ subject = "Drenog e o com posto"
 
 [Grupo0.2C.02.10.00.00.00.00]
 code = "2C-02-10-00-00-00-00"
-subject = "Mantaserevestim e ntosd e cont e nção"
+subject = "Mantaserevestimentosd e cont e nção"
 
 [Grupo0.2C.02.10.02.00.00.00]
 code = "2C-02-10-02-00-00-00"
@@ -8230,7 +8230,7 @@ subject = "Gabião"
 
 [Grupo0.2C.02.18.00.00.00.00]
 code = "2C-02-18-00-00-00-00"
-subject = "Prot e çãocontra de smoronamentos"
+subject = "Proteçãocontra de smoronamentos"
 
 [Grupo0.2C.02.18.02.00.00.00]
 code = "2C-02-18-02-00-00-00"
@@ -8258,7 +8258,7 @@ subject = "Pavim e ntaçãoint e rtravada-Blocos"
 
 [Grupo0.2C.02.22.18.00.00.00]
 code = "2C-02-22-18-00-00-00"
-subject = "Drenag e m do pavim e nto"
+subject = "Drenag e m do pavimento"
 
 [Grupo0.2C.02.22.18.02.00.00]
 code = "2C-02-22-18-02-00-00"
@@ -8266,7 +8266,7 @@ subject = "Gal e ria"
 
 [Grupo0.2C.02.22.18.06.00.00]
 code = "2C-02-22-18-06-00-00"
-subject = "Poço de visita/caixadeinsp e ção e limp e za"
+subject = "Poço de visita/caixadeInspeção e Limpeza"
 
 [Grupo0.2C.02.26.00.00.00.00]
 code = "2C-02-26-00-00-00-00"
@@ -8426,7 +8426,7 @@ subject = "Muda de grama"
 
 [Grupo0.2C.02.38.14.10.00.00]
 code = "2C-02-38-14-10-00-00"
-subject = "Sementedegramaesupl e m e nto do solo"
+subject = "Sementedegramaesupl e mento do solo"
 
 [Grupo0.2C.02.38.14.14.00.00]
 code = "2C-02-38-14-14-00-00"
@@ -8514,7 +8514,7 @@ subject = "Lix e ira para área e xt e rna"
 
 [Grupo0.2C.02.42.18.00.00.00]
 code = "2C-02-42-18-00-00-00"
-subject = "Elem e nto de corativo para área e xt e rna"
+subject = "Elemento de corativo para área e xt e rna"
 
 [Grupo0.2C.02.42.22.00.00.00]
 code = "2C-02-42-22-00-00-00"
@@ -8530,7 +8530,7 @@ subject = "Estátua e placa"
 
 [Grupo0.2C.02.42.34.00.00.00]
 code = "2C-02-42-34-00-00-00"
-subject = "Monum e nto"
+subject = "Monumento"
 
 [Grupo0.2C.02.42.38.00.00.00]
 code = "2C-02-42-38-00-00-00"
@@ -8622,15 +8622,15 @@ subject = "Argamassa"
 
 [Grupo0.2C.04.02.14.02.00.00]
 code = "2C-04-02-14-02-00-00"
-subject = "Argamassasmistasd e cal e cim e ntoPortland"
+subject = "Argamassasmistasd e cal e cimentoPortland"
 
 [Grupo0.2C.04.02.14.06.00.00]
 code = "2C-04-02-14-06-00-00"
-subject = "Argamassasdecim e nto para alv e naria"
+subject = "Argamassasdecimento para alv e naria"
 
 [Grupo0.2C.04.02.14.10.00.00]
 code = "2C-04-02-14-10-00-00"
-subject = "Argamassasd e cim e nto"
+subject = "Argamassasd e cimento"
 
 [Grupo0.2C.04.02.14.14.00.00]
 code = "2C-04-02-14-14-00-00"
@@ -8686,7 +8686,7 @@ subject = "Bloco de vidro"
 
 [Grupo0.2C.04.06.14.00.00.00]
 code = "2C-04-06-14-00-00-00"
-subject = "Tijolo de solo-cim e nto"
+subject = "Tijolo de solo-cimento"
 
 [Grupo0.2C.04.06.18.00.00.00]
 code = "2C-04-06-18-00-00-00"
@@ -8734,7 +8734,7 @@ subject = "Acessório para alv e naria"
 
 [Grupo0.2C.04.10.00.00.00.00]
 code = "2C-04-10-00-00-00-00"
-subject = "Produtoparaaprot e çãotérmica e contraumi da de"
+subject = "ProdutoparaaProteçãotérmica e contraumi da de"
 
 [Grupo0.2C.04.10.02.00.00.00]
 code = "2C-04-10-02-00-00-00"
@@ -8750,7 +8750,7 @@ subject = "Mantaàprovadeogo"
 
 [Grupo0.2C.04.10.02.10.00.00]
 code = "2C-04-10-02-10-00-00"
-subject = "Rev e stim e ntoàprovadeogo"
+subject = "Rev e stimentoàprovadeogo"
 
 [Grupo0.2C.04.10.06.00.00.00]
 code = "2C-04-10-06-00-00-00"
@@ -8762,7 +8762,7 @@ subject = "Membranaimp e rm e ável"
 
 [Grupo0.2C.04.10.06.06.00.00]
 code = "2C-04-10-06-06-00-00"
-subject = "Revestim e ntoimp e rm e ável"
+subject = "Revestimentoimp e rm e ável"
 
 [Grupo0.2C.04.10.10.00.00.00]
 code = "2C-04-10-10-00-00-00"
@@ -8794,7 +8794,7 @@ subject = "Manta de isolamentotérmico"
 
 [Grupo0.2C.04.10.14.10.00.00]
 code = "2C-04-10-14-10-00-00"
-subject = "Revestim e nto para isolamentotérmico"
+subject = "Revestimento para isolamentotérmico"
 
 [Grupo0.2C.04.10.14.14.00.00]
 code = "2C-04-10-14-14-00-00"
@@ -8814,7 +8814,7 @@ subject = "Manta de isolamentoacústico"
 
 [Grupo0.2C.04.10.18.10.00.00]
 code = "2C-04-10-18-10-00-00"
-subject = "Revestim e nto para isolamentoacústico"
+subject = "Revestimento para isolamentoacústico"
 
 [Grupo0.2C.04.14.00.00.00.00]
 code = "2C-04-14-00-00-00-00"
@@ -8822,7 +8822,7 @@ subject = "Produtosquímicos para amanut e nçãode e struturas"
 
 [Grupo0.2C.04.14.02.00.00.00]
 code = "2C-04-14-02-00-00-00"
-subject = "Produtodelimp e za em anut e nção"
+subject = "ProdutodeLimpeza em anut e nção"
 
 [Grupo0.2C.04.14.06.00.00.00]
 code = "2C-04-14-06-00-00-00"
@@ -9046,7 +9046,7 @@ subject = "Telha de m e tal"
 
 [Grupo0.2C.06.06.06.14.00.00]
 code = "2C-06-06-06-14-00-00"
-subject = "Telhadebrocim e nto"
+subject = "Telhadebrocimento"
 
 [Grupo0.2C.06.06.06.18.00.00]
 code = "2C-06-06-06-18-00-00"
@@ -9074,11 +9074,11 @@ subject = "Revestimentos para t e lha do s"
 
 [Grupo0.2C.06.06.10.02.00.00]
 code = "2C-06-06-10-02-00-00"
-subject = "Revestim e nto de acabamento/prot e ção do t e lhado"
+subject = "Revestimento de acabamento/Proteção do t e lhado"
 
 [Grupo0.2C.06.06.10.06.00.00]
 code = "2C-06-06-10-06-00-00"
-subject = "Produto para r e novação/prot e ção de t e lhas"
+subject = "Produto para r e novação/Proteção de t e lhas"
 
 [Grupo0.2C.06.06.14.00.00.00]
 code = "2C-06-06-14-00-00-00"
@@ -9186,7 +9186,7 @@ subject = "Pared em odulard e g e sso"
 
 [Grupo0.2C.08.10.18.00.00.00]
 code = "2C-08-10-18-00-00-00"
-subject = "Par e d em odulardebrocim e nto"
+subject = "Par e d em odulardebrocimento"
 
 [Grupo0.2C.10.00.00.00.00.00]
 code = "2C-10-00-00-00-00-00"
@@ -9202,19 +9202,19 @@ subject = "Reboco"
 
 [Grupo0.2C.10.06.00.00.00.00]
 code = "2C-10-06-00-00-00-00"
-subject = "Revestim e nto de par e de"
+subject = "Revestimento de par e de"
 
 [Grupo0.2C.10.06.02.00.00.00]
 code = "2C-10-06-02-00-00-00"
-subject = "Rev e stim e nto de ladrilho"
+subject = "Rev e stimento de ladrilho"
 
 [Grupo0.2C.10.06.06.00.00.00]
 code = "2C-10-06-06-00-00-00"
-subject = "Painelderevestim e nto para par e de"
+subject = "Painelderevestimento para par e de"
 
 [Grupo0.2C.10.06.10.00.00.00]
 code = "2C-10-06-10-00-00-00"
-subject = "Placaderevestim e nto de par e de"
+subject = "Placaderevestimento de par e de"
 
 [Grupo0.2C.10.06.14.00.00.00]
 code = "2C-10-06-14-00-00-00"
@@ -9238,11 +9238,11 @@ subject = "Produtodeproteçãoes e gurança para par e de"
 
 [Grupo0.2C.10.10.00.00.00.00]
 code = "2C-10-10-00-00-00-00"
-subject = "Rev e stim e nto de piso"
+subject = "Rev e stimento de piso"
 
 [Grupo0.2C.10.10.02.00.00.00]
 code = "2C-10-10-02-00-00-00"
-subject = "Rev e stim e nto de piso,ladrilho e sol e ira"
+subject = "Rev e stimento de piso,ladrilho e sol e ira"
 
 [Grupo0.2C.10.10.02.02.00.00]
 code = "2C-10-10-02-02-00-00"
@@ -9310,7 +9310,7 @@ subject = "Piso de ginásticaou da nça"
 
 [Grupo0.2C.10.14.00.00.00.00]
 code = "2C-10-14-00-00-00-00"
-subject = "Forroerevestim e nto de t e to"
+subject = "Forroerevestimento de t e to"
 
 [Grupo0.2C.10.14.02.00.00.00]
 code = "2C-10-14-02-00-00-00"
@@ -9686,7 +9686,7 @@ subject = "Porta de ambi e nt e controlado"
 
 [Grupo0.2C.12.02.46.02.00.00]
 code = "2C-12-02-46-02-00-00"
-subject = "Porta de armaz e namentoario"
+subject = "Porta de Armazenamentoario"
 
 [Grupo0.2C.12.02.46.06.00.00]
 code = "2C-12-02-46-06-00-00"
@@ -9694,7 +9694,7 @@ subject = "Porta de controle do som"
 
 [Grupo0.2C.12.02.46.10.00.00]
 code = "2C-12-02-46-10-00-00"
-subject = "Porta de prot e çãocontraradiação"
+subject = "Porta de Proteçãocontraradiação"
 
 [Grupo0.2C.12.02.50.00.00.00]
 code = "2C-12-02-50-00-00-00"
@@ -10146,7 +10146,7 @@ subject = "Película de control e solar"
 
 [Grupo0.2C.12.10.30.06.00.00]
 code = "2C-12-10-30-06-00-00"
-subject = "Película de prot e ção"
+subject = "Película de Proteção"
 
 [Grupo0.2C.12.10.30.10.00.00]
 code = "2C-12-10-30-10-00-00"
@@ -10170,7 +10170,7 @@ subject = "Ferrag e m para jan e la"
 
 [Grupo0.2C.12.18.00.00.00.00]
 code = "2C-12-18-00-00-00-00"
-subject = "Prot e ção de ab e rtura"
+subject = "Proteção de ab e rtura"
 
 [Grupo0.2C.12.18.02.00.00.00]
 code = "2C-12-18-02-00-00-00"
@@ -10246,7 +10246,7 @@ subject = "Ca de irade e vacuação"
 
 [Grupo0.2C.12.26.00.00.00.00]
 code = "2C-12-26-00-00-00-00"
-subject = "Componentesparaprot e ção de passant e s"
+subject = "ComponentesparaProteção de passant e s"
 
 [Grupo0.2C.12.26.02.00.00.00]
 code = "2C-12-26-02-00-00-00"
@@ -10274,7 +10274,7 @@ subject = "Corrimão de corr e nte"
 
 [Grupo0.2C.12.26.10.00.00.00]
 code = "2C-12-26-10-00-00-00"
-subject = "Produto de prot e ção de impacto"
+subject = "Produto de Proteção de impacto"
 
 [Grupo0.2C.12.26.10.02.00.00]
 code = "2C-12-26-10-02-00-00"
@@ -10298,7 +10298,7 @@ subject = "Produtosparaserviçosd em anut e nçãopr e dial"
 
 [Grupo0.2C.14.02.00.00.00.00]
 code = "2C-14-02-00-00-00-00"
-subject = "Controleseinstrum e ntosd e usog e ral"
+subject = "Controleseinstrumentosd e usog e ral"
 
 [Grupo0.2C.14.02.02.00.00.00]
 code = "2C-14-02-02-00-00-00"
@@ -10450,15 +10450,15 @@ subject = "Det e ctord e calor"
 
 [Grupo0.2C.14.02.18.06.00.00]
 code = "2C-14-02-18-06-00-00"
-subject = "Controladord e aqu e cim e nto"
+subject = "Controladord e aqu e cimento"
 
 [Grupo0.2C.14.02.18.10.00.00]
 code = "2C-14-02-18-10-00-00"
-subject = "Programadord e aqu e cim e nto"
+subject = "Programadord e aqu e cimento"
 
 [Grupo0.2C.14.02.18.14.00.00]
 code = "2C-14-02-18-14-00-00"
-subject = "Otimizadord e aqu e cim e nto"
+subject = "Otimizadord e aqu e cimento"
 
 [Grupo0.2C.14.02.22.00.00.00]
 code = "2C-14-02-22-00-00-00"
@@ -10966,7 +10966,7 @@ subject = "Tanque do tiposião"
 
 [Grupo0.2C.14.38.14.00.00.00]
 code = "2C-14-38-14-00-00-00"
-subject = "Construção de armaz e namento"
+subject = "Construção de Armazenamento"
 
 [Grupo0.2C.14.38.14.02.00.00]
 code = "2C-14-38-14-02-00-00"
@@ -10978,7 +10978,7 @@ subject = "Silo"
 
 [Grupo0.2C.14.38.14.10.00.00]
 code = "2C-14-38-14-10-00-00"
-subject = "Obstáculo para armaz e namento"
+subject = "Obstáculo para Armazenamento"
 
 [Grupo0.2C.14.38.18.00.00.00]
 code = "2C-14-38-18-00-00-00"
@@ -11006,7 +11006,7 @@ subject = "Contentordetanqu e subt e rrân e o"
 
 [Grupo0.2C.14.38.26.00.00.00]
 code = "2C-14-38-26-00-00-00"
-subject = "Rev e stim e nto de tanque"
+subject = "Rev e stimento de tanque"
 
 [Grupo0.2C.14.38.26.02.00.00]
 code = "2C-14-38-26-02-00-00"
@@ -11022,7 +11022,7 @@ subject = "Compon e nt e d e tanque"
 
 [Grupo0.2C.14.38.30.02.00.00]
 code = "2C-14-38-30-02-00-00"
-subject = "Reguladord e transbor da m e nto"
+subject = "Reguladord e transbor da mento"
 
 [Grupo0.2C.14.38.30.06.00.00]
 code = "2C-14-38-30-06-00-00"
@@ -11038,7 +11038,7 @@ subject = "Válvulas"
 
 [Grupo0.2C.14.42.02.00.00.00]
 code = "2C-14-42-02-00-00-00"
-subject = "Impedim e nto de r e fuxo"
+subject = "Impedimento de r e fuxo"
 
 [Grupo0.2C.14.42.06.00.00.00]
 code = "2C-14-42-06-00-00-00"
@@ -11826,7 +11826,7 @@ subject = "Puricadord e cama de ar em balada"
 
 [Grupo0.2C.14.78.22.00.00.00]
 code = "2C-14-78-22-00-00-00"
-subject = "Tratamentodeorn e cim e nto de gás"
+subject = "Tratamentodeorn e cimento de gás"
 
 [Grupo0.2C.14.78.22.02.00.00]
 code = "2C-14-78-22-02-00-00"
@@ -11970,11 +11970,11 @@ subject = "Incin e ra do rd e lixo"
 
 [Grupo0.2C.14.86.06.00.00.00]
 code = "2C-14-86-06-00-00-00"
-subject = "Incinera do rde do cum e nto"
+subject = "Incinera do rde documento"
 
 [Grupo0.2C.14.88.00.00.00.00]
 code = "2C-14-88-00-00-00-00"
-subject = "Equipamentosparaisolamentoerev e stim e ntom e cânico"
+subject = "Equipamentosparaisolamentoerev e stimentom e cânico"
 
 [Grupo0.2C.14.88.02.00.00.00]
 code = "2C-14-88-02-00-00-00"
@@ -11990,11 +11990,11 @@ subject = "Equipamentos para isolamentoacústico"
 
 [Grupo0.2C.14.90.02.00.00.00]
 code = "2C-14-90-02-00-00-00"
-subject = "Montagemequipamentodeamort e cim e nto do som"
+subject = "Montagemequipamentodeamort e cimento do som"
 
 [Grupo0.2C.14.92.00.00.00.00]
 code = "2C-14-92-00-00-00-00"
-subject = "Equipamentosd e prot e çãoàcorrosão"
+subject = "Equipamentosd e Proteçãoàcorrosão"
 
 [Grupo0.2C.14.92.02.00.00.00]
 code = "2C-14-92-02-00-00-00"
@@ -12254,7 +12254,7 @@ subject = "Fragmenta do rd e pn e upassivo"
 
 [Grupo0.2C.30.02.18.00.00.00]
 code = "2C-30-02-18-00-00-00"
-subject = "Dispositivosdelimitadores e d e prot e ção"
+subject = "Dispositivosdelimitadores e d e Proteção"
 
 [Grupo0.2C.30.02.18.02.00.00]
 code = "2C-30-02-18-02-00-00"
@@ -12282,11 +12282,11 @@ subject = "Eixo de tún e l"
 
 [Grupo0.2C.30.06.02.06.00.00]
 code = "2C-30-06-02-06-00-00"
-subject = "Segm e nto de tún e l"
+subject = "Segmento de tún e l"
 
 [Grupo0.2C.30.06.02.10.00.00]
 code = "2C-30-06-02-10-00-00"
-subject = "Revestim e nto de tún e l"
+subject = "Revestimento de tún e l"
 
 [Grupo0.2C.30.06.02.14.00.00]
 code = "2C-30-06-02-14-00-00"
@@ -12886,7 +12886,7 @@ subject = "Coberturadepassagemdep e d e str e s"
 
 [Grupo0.2C.60.06.14.00.00.00]
 code = "2C-60-06-14-00-00-00"
-subject = "Abrigo para aprot e çãocivil"
+subject = "Abrigo para aProteçãocivil"
 
 [Grupo0.2C.60.06.18.00.00.00]
 code = "2C-60-06-18-00-00-00"
@@ -13014,7 +13014,7 @@ subject = "Módulo de lavabo"
 
 [Grupo0.2C.60.38.00.00.00.00]
 code = "2C-60-38-00-00-00-00"
-subject = "Módulospara com partim e ntoscontrola do s"
+subject = "Módulospara com partimentoscontrola do s"
 
 [Grupo0.2C.60.38.02.00.00.00]
 code = "2C-60-38-02-00-00-00"
@@ -13022,15 +13022,15 @@ subject = "Salalimpa"
 
 [Grupo0.2C.60.38.06.00.00.00]
 code = "2C-60-38-06-00-00-00"
-subject = "Compartim e ntoisolado"
+subject = "Compartimentoisolado"
 
 [Grupo0.2C.60.38.10.00.00.00]
 code = "2C-60-38-10-00-00-00"
-subject = "Compartim e ntocondiciona do d e som"
+subject = "Compartimentocondiciona do d e som"
 
 [Grupo0.2C.60.38.14.00.00.00]
 code = "2C-60-38-14-00-00-00"
-subject = "Compartim e ntohip e rbárico"
+subject = "Compartimentohip e rbárico"
 
 [Grupo0.2C.60.38.18.00.00.00]
 code = "2C-60-38-18-00-00-00"
@@ -13150,7 +13150,7 @@ subject = "Mobiliáriocom e rcial(armazéns,depósitos)"
 
 [Grupo0.2C.68.02.02.00.00.00]
 code = "2C-68-02-02-00-00-00"
-subject = "Unidadesd e armaz e namento"
+subject = "Unidadesd e Armazenamento"
 
 [Grupo0.2C.68.02.06.00.00.00]
 code = "2C-68-02-06-00-00-00"
@@ -13162,7 +13162,7 @@ subject = "Suporte"
 
 [Grupo0.2C.68.02.14.00.00.00]
 code = "2C-68-02-14-00-00-00"
-subject = "Rack para armaz e namentomultiuso"
+subject = "Rack para Armazenamentomultiuso"
 
 [Grupo0.2C.68.02.18.00.00.00]
 code = "2C-68-02-18-00-00-00"
@@ -13434,19 +13434,19 @@ subject = "Equipamentos em obiliários para s e rviçoalim e ntício"
 
 [Grupo0.2C.68.22.02.00.00.00]
 code = "2C-68-22-02-00-00-00"
-subject = "Gabinet e sindustriais para Preparação de alim e ntos"
+subject = "Gabinet e sindustriais para Preparação de alimentos"
 
 [Grupo0.2C.68.22.02.02.00.00]
 code = "2C-68-22-02-02-00-00"
-subject = "Gabineteindustrialparaalim e ntosqu e nt e s"
+subject = "Gabineteindustrialparaalimentosqu e nt e s"
 
 [Grupo0.2C.68.22.02.06.00.00]
 code = "2C-68-22-02-06-00-00"
-subject = "Gabinet e industrial para alim e ntosrios"
+subject = "Gabinet e industrial para alimentosrios"
 
 [Grupo0.2C.68.22.02.10.00.00]
 code = "2C-68-22-02-10-00-00"
-subject = "Gabineteindustrialparaalim e ntosqu e nt e serios"
+subject = "Gabineteindustrialparaalimentosqu e nt e serios"
 
 [Grupo0.2C.68.22.02.14.00.00]
 code = "2C-68-22-02-14-00-00"
@@ -13454,7 +13454,7 @@ subject = "Gabinet e industrial para massas e pastéis"
 
 [Grupo0.2C.68.22.02.18.00.00]
 code = "2C-68-22-02-18-00-00"
-subject = "Gabineteindustrialparamanut e nção de alim e ntos aqu e ci do s"
+subject = "Gabineteindustrialparamanut e nção de alimentos aqu e ci do s"
 
 [Grupo0.2C.68.22.02.22.00.00]
 code = "2C-68-22-02-22-00-00"
@@ -13462,11 +13462,11 @@ subject = "Gabinet e industrial para ap e ritivos"
 
 [Grupo0.2C.68.22.06.00.00.00]
 code = "2C-68-22-06-00-00-00"
-subject = "Equipamentosindustriais para cocção de alim e ntos"
+subject = "Equipamentosindustriais para cocção de alimentos"
 
 [Grupo0.2C.68.22.06.02.00.00]
 code = "2C-68-22-06-02-00-00"
-subject = "Aquecedord e alim e ntos em banho-maria"
+subject = "Aquecedord e alimentos em banho-maria"
 
 [Grupo0.2C.68.22.06.06.00.00]
 code = "2C-68-22-06-06-00-00"
@@ -13546,15 +13546,15 @@ subject = "Equipamentop e qu e no de cocçãoindustrial"
 
 [Grupo0.2C.68.22.10.00.00.00]
 code = "2C-68-22-10-00-00-00"
-subject = "Equipamentosindustriaisparaaquecim e nto de alim e ntos"
+subject = "Equipamentosindustriaisparaaquecimento de alimentos"
 
 [Grupo0.2C.68.22.10.02.00.00]
 code = "2C-68-22-10-02-00-00"
-subject = "Aquece do rindustriald e alim e ntos"
+subject = "Aquece do rindustriald e alimentos"
 
 [Grupo0.2C.68.22.10.06.00.00]
 code = "2C-68-22-10-06-00-00"
-subject = "Estaçãoindustrialdeaquecim e nto de alim e ntos"
+subject = "Estaçãoindustrialdeaquecimento de alimentos"
 
 [Grupo0.2C.68.22.10.10.00.00]
 code = "2C-68-22-10-10-00-00"
@@ -13566,7 +13566,7 @@ subject = "Mesa de vaporindustrial"
 
 [Grupo0.2C.68.22.14.00.00.00]
 code = "2C-68-22-14-00-00-00"
-subject = "Equipamentosindustriaisd e rerig e ração de alim e ntos"
+subject = "Equipamentosindustriaisd e rerig e ração de alimentos"
 
 [Grupo0.2C.68.22.14.02.00.00]
 code = "2C-68-22-14-02-00-00"
@@ -13582,7 +13582,7 @@ subject = "Lava-louçaindustrial"
 
 [Grupo0.2C.68.22.22.00.00.00]
 code = "2C-68-22-22-00-00-00"
-subject = "Equipamentosindustriaisparadescart e d e alim e ntos"
+subject = "Equipamentosindustriaisparadescart e d e alimentos"
 
 [Grupo0.2C.68.22.22.02.00.00]
 code = "2C-68-22-22-02-00-00"
@@ -13598,19 +13598,19 @@ subject = "Tritura do rindustriald e lixo"
 
 [Grupo0.2C.68.22.26.00.00.00]
 code = "2C-68-22-26-00-00-00"
-subject = "Equipamentosexpositor e sd e alim e ntos"
+subject = "Equipamentosexpositor e sd e alimentos"
 
 [Grupo0.2C.68.22.26.02.00.00]
 code = "2C-68-22-26-02-00-00"
-subject = "Caixaindustrial e xpositora de alim e ntos"
+subject = "Caixaindustrial e xpositora de alimentos"
 
 [Grupo0.2C.68.22.26.06.00.00]
 code = "2C-68-22-26-06-00-00"
-subject = "Prot e torindustriald e alim e ntos"
+subject = "Prot e torindustriald e alimentos"
 
 [Grupo0.2C.68.22.30.00.00.00]
 code = "2C-68-22-30-00-00-00"
-subject = "Equipamentocomerciald e distribuição de alim e ntose bebi da s"
+subject = "Equipamentocomerciald e distribuição de alimentose bebi da s"
 
 [Grupo0.2C.68.22.30.02.00.00]
 code = "2C-68-22-30-02-00-00"
@@ -13642,7 +13642,7 @@ subject = "Disp e nsa do rindustriald e caé"
 
 [Grupo0.2C.68.22.30.16.00.00]
 code = "2C-68-22-30-16-00-00"
-subject = "Dispensa do rindustriald e condim e ntos"
+subject = "Dispensa do rindustriald e condimentos"
 
 [Grupo0.2C.68.22.30.18.00.00]
 code = "2C-68-22-30-18-00-00"
@@ -13746,7 +13746,7 @@ subject = "Cong e la do r e rerig e ra do rindustrial"
 
 [Grupo0.2C.68.22.34.18.00.00]
 code = "2C-68-22-34-18-00-00"
-subject = "Resriadorindustrialparaarmazenamento de alim e ntos"
+subject = "Resriadorindustrialparaarmazenamento de alimentos"
 
 [Grupo0.2C.68.22.38.00.00.00]
 code = "2C-68-22-38-00-00-00"
@@ -13778,31 +13778,31 @@ subject = "Máquinadeabricarg e lo com bin"
 
 [Grupo0.2C.68.22.42.00.00.00]
 code = "2C-68-22-42-00-00-00"
-subject = "Equipamentosindustriais para Preparação de alim e ntos"
+subject = "Equipamentosindustriais para Preparação de alimentos"
 
 [Grupo0.2C.68.22.42.02.00.00]
 code = "2C-68-22-42-02-00-00"
-subject = "Mistura do rindustrial para Preparação de alim e ntos"
+subject = "Mistura do rindustrial para Preparação de alimentos"
 
 [Grupo0.2C.68.22.42.06.00.00]
 code = "2C-68-22-42-06-00-00"
-subject = "Descasca do rindustrial para Preparação de alim e ntos"
+subject = "Descasca do rindustrial para Preparação de alimentos"
 
 [Grupo0.2C.68.22.42.10.00.00]
 code = "2C-68-22-42-10-00-00"
-subject = "Processa do rindustrial para Preparação de alim e ntos"
+subject = "Processa do rindustrial para Preparação de alimentos"
 
 [Grupo0.2C.68.22.42.14.00.00]
 code = "2C-68-22-42-14-00-00"
-subject = "Postoindustrial para Preparação de alim e ntos"
+subject = "Postoindustrial para Preparação de alimentos"
 
 [Grupo0.2C.68.22.42.18.00.00]
 code = "2C-68-22-42-18-00-00"
-subject = "Rala do rindustrial para Preparação de alim e ntos"
+subject = "Rala do rindustrial para Preparação de alimentos"
 
 [Grupo0.2C.68.22.42.22.00.00]
 code = "2C-68-22-42-22-00-00"
-subject = "Mesaindustrial para Preparação de alim e ntos"
+subject = "Mesaindustrial para Preparação de alimentos"
 
 [Grupo0.2C.68.22.42.26.00.00]
 code = "2C-68-22-42-26-00-00"
@@ -13810,7 +13810,7 @@ subject = "Equipamentoindustrial para Preparação de bebi da s"
 
 [Grupo0.2C.68.22.46.00.00.00]
 code = "2C-68-22-46-00-00-00"
-subject = "Mobiliárioparaatendim e ntoaopúblico do s e torde alim e ntaçãocom e rcial"
+subject = "Mobiliárioparaatendimentoaopúblico do s e torde alim e ntaçãocom e rcial"
 
 [Grupo0.2C.68.22.46.02.00.00]
 code = "2C-68-22-46-02-00-00"
@@ -13834,11 +13834,11 @@ subject = "Mesa para r e staurante"
 
 [Grupo0.2C.68.22.50.00.00.00]
 code = "2C-68-22-50-00-00-00"
-subject = "Equipamentosparaatendim e ntoaopúblico do s e torde alim e ntaçãocom e rcial"
+subject = "Equipamentosparaatendimentoaopúblico do s e torde alim e ntaçãocom e rcial"
 
 [Grupo0.2C.68.22.50.02.00.00]
 code = "2C-68-22-50-02-00-00"
-subject = "Balcãoaltoparaat e ndim e ntoaocli e nte"
+subject = "Balcãoaltoparaat e ndimentoaocli e nte"
 
 [Grupo0.2C.68.22.50.06.00.00]
 code = "2C-68-22-50-06-00-00"
@@ -13850,7 +13850,7 @@ subject = "Buetparaautoatendimentoparar e staurant e sd e grande porte"
 
 [Grupo0.2C.68.22.54.00.00.00]
 code = "2C-68-22-54-00-00-00"
-subject = "Equipamentodearmazenamento de alim e ntos"
+subject = "Equipamentodearmazenamento de alimentos"
 
 [Grupo0.2C.68.22.54.02.00.00]
 code = "2C-68-22-54-02-00-00"
@@ -13858,15 +13858,15 @@ subject = "Armário de garraaindustrial"
 
 [Grupo0.2C.68.22.58.00.00.00]
 code = "2C-68-22-58-00-00-00"
-subject = "Equipamento de distribuição de alim e ntos"
+subject = "Equipamento de distribuição de alimentos"
 
 [Grupo0.2C.68.22.58.02.00.00]
 code = "2C-68-22-58-02-00-00"
-subject = "Esteira de distribuição de alim e ntosindustrial"
+subject = "Esteira de distribuição de alimentosindustrial"
 
 [Grupo0.2C.68.22.58.06.00.00]
 code = "2C-68-22-58-06-00-00"
-subject = "Carrinhodeentr e ga de alim e ntosindustrial"
+subject = "CarrinhodeEntrega de alimentosindustrial"
 
 [Grupo0.2C.68.22.58.10.00.00]
 code = "2C-68-22-58-10-00-00"
@@ -13886,15 +13886,15 @@ subject = "Equipamento para v e ntilação em cozinhasindustriais"
 
 [Grupo0.2C.68.22.66.00.00.00]
 code = "2C-68-22-66-00-00-00"
-subject = "Equipamentoindustrialparaprocessamento de alim e ntos"
+subject = "Equipamentoindustrialparaprocessamento de alimentos"
 
 [Grupo0.2C.68.22.70.00.00.00]
 code = "2C-68-22-70-00-00-00"
-subject = "Equipamentoindustrialparapesag em d e alim e ntos"
+subject = "Equipamentoindustrialparapesag em d e alimentos"
 
 [Grupo0.2C.68.22.74.00.00.00]
 code = "2C-68-22-74-00-00-00"
-subject = "Equipamentoindustrialparaembalag em d e alim e ntos"
+subject = "Equipamentoindustrialparaembalag em d e alimentos"
 
 [Grupo0.2C.68.26.00.00.00.00]
 code = "2C-68-26-00-00-00-00"
@@ -14078,7 +14078,7 @@ subject = "Máquina de lavarlouçaagás"
 
 [Grupo0.2C.68.26.34.00.00.00]
 code = "2C-68-26-34-00-00-00"
-subject = "Tritura do rd e alim e ntos"
+subject = "Tritura do rd e alimentos"
 
 [Grupo0.2C.68.26.38.00.00.00]
 code = "2C-68-26-38-00-00-00"
@@ -14134,7 +14134,7 @@ subject = "Máquina de g e lo"
 
 [Grupo0.2C.68.26.50.00.00.00]
 code = "2C-68-26-50-00-00-00"
-subject = "Equipamentos para Preparação de alim e ntos"
+subject = "Equipamentos para Preparação de alimentos"
 
 [Grupo0.2C.68.26.50.02.00.00]
 code = "2C-68-26-50-02-00-00"
@@ -14362,7 +14362,7 @@ subject = "Depósito de livros"
 
 [Grupo0.2C.68.30.22.10.00.00]
 code = "2C-68-30-22-10-00-00"
-subject = "Equipamento para aprot e ção de livroscontraroubo"
+subject = "Equipamento para aProteção de livroscontraroubo"
 
 [Grupo0.2C.68.30.22.14.00.00]
 code = "2C-68-30-22-14-00-00"
@@ -14578,7 +14578,7 @@ subject = "Banca da d e trabalho para ocinaseábricas"
 
 [Grupo0.2C.68.38.22.06.00.00]
 code = "2C-68-38-22-06-00-00"
-subject = "Estanteparaarmaz e namentode e stoque"
+subject = "EstanteparaArmazenamentode e stoque"
 
 [Grupo0.2C.68.42.00.00.00.00]
 code = "2C-68-42-00-00-00-00"
@@ -14706,7 +14706,7 @@ subject = "Máquina de hidratação"
 
 [Grupo0.2C.68.42.22.30.00.00]
 code = "2C-68-42-22-30-00-00"
-subject = "Equipamentodelimp e za de r e síduo"
+subject = "EquipamentodeLimpeza de r e síduo"
 
 [Grupo0.2C.68.42.26.00.00.00]
 code = "2C-68-42-26-00-00-00"
@@ -14830,7 +14830,7 @@ subject = "Disp e nsa do rindustriald e papéis-toalha"
 
 [Grupo0.2C.68.54.20.00.00.00]
 code = "2C-68-54-20-00-00-00"
-subject = "Máquinaindustrial para limp e zaas e co"
+subject = "Máquinaindustrial para Limpezaas e co"
 
 [Grupo0.2C.68.54.24.00.00.00]
 code = "2C-68-54-24-00-00-00"
@@ -14926,7 +14926,7 @@ subject = "Lava do ra de tún e l"
 
 [Grupo0.2C.68.58.00.00.00.00]
 code = "2C-68-58-00-00-00-00"
-subject = "Equipamentos para limp e za"
+subject = "Equipamentos para Limpeza"
 
 [Grupo0.2C.68.58.02.00.00.00]
 code = "2C-68-58-02-00-00-00"
@@ -15006,11 +15006,11 @@ subject = "Dispensa do rd e ac e ssóriomictório"
 
 [Grupo0.2C.68.58.14.00.00.00]
 code = "2C-68-58-14-00-00-00"
-subject = "Máquinas para limp e za de dutos"
+subject = "Máquinas para Limpeza de dutos"
 
 [Grupo0.2C.68.58.18.00.00.00]
 code = "2C-68-58-18-00-00-00"
-subject = "Equipamentos para limp e za de pisos"
+subject = "Equipamentos para Limpeza de pisos"
 
 [Grupo0.2C.68.58.18.02.00.00]
 code = "2C-68-58-18-02-00-00"
@@ -15042,7 +15042,7 @@ subject = "Equipamentosparalimpeza de ambi e nt e s"
 
 [Grupo0.2C.68.58.22.02.00.00]
 code = "2C-68-58-22-02-00-00"
-subject = "Equipamento de limp e zaavácuo"
+subject = "Equipamento de Limpezaavácuo"
 
 [Grupo0.2C.68.58.22.06.00.00]
 code = "2C-68-58-22-06-00-00"
@@ -15050,7 +15050,7 @@ subject = "Limpeza de piso e par e de"
 
 [Grupo0.2C.68.58.22.10.00.00]
 code = "2C-68-58-22-10-00-00"
-subject = "Carrinho de limp e za"
+subject = "Carrinho de Limpeza"
 
 [Grupo0.2C.68.58.26.00.00.00]
 code = "2C-68-58-26-00-00-00"
@@ -15102,11 +15102,11 @@ subject = "Art e quadridim e nsional"
 
 [Grupo0.2C.68.62.06.00.00.00]
 code = "2C-68-62-06-00-00-00"
-subject = "Docum e ntoshistóricos"
+subject = "Documentoshistóricos"
 
 [Grupo0.2C.68.62.06.02.00.00]
 code = "2C-68-62-06-02-00-00"
-subject = "Docum e ntohistórico em pap e l"
+subject = "Documentohistórico em pap e l"
 
 [Grupo0.2C.68.62.06.06.00.00]
 code = "2C-68-62-06-06-00-00"
@@ -15154,7 +15154,7 @@ subject = "Plataorma para ma e stro"
 
 [Grupo0.2C.68.66.06.00.00.00]
 code = "2C-68-66-06-00-00-00"
-subject = "Instrum e ntomusical"
+subject = "Instrumentomusical"
 
 [Grupo0.2C.70.00.00.00.00.00]
 code = "2C-70-00-00-00-00-00"
@@ -15166,11 +15166,11 @@ subject = "Equipamentosdesportivose para r e cr e ação"
 
 [Grupo0.2C.70.02.02.00.00.00]
 code = "2C-70-02-02-00-00-00"
-subject = "Telasdeprot e çãopara equipamentosatléticosou recr e ativos"
+subject = "TelasdeProteçãopara equipamentosatléticosou recr e ativos"
 
 [Grupo0.2C.70.02.02.02.00.00]
 code = "2C-70-02-02-02-00-00"
-subject = "Teladeprot e ção para quadra de tênis"
+subject = "TeladeProteção para quadra de tênis"
 
 [Grupo0.2C.70.02.06.00.00.00]
 code = "2C-70-02-06-00-00-00"
@@ -15534,7 +15534,7 @@ subject = "Exercício de poliatipotripl e x"
 
 [Grupo0.2C.72.00.00.00.00.00]
 code = "2C-72-00-00-00-00-00"
-subject = "Produtosparatransporteemanus e iod em at e riais"
+subject = "ProdutosparatransporteeManuseiod em at e riais"
 
 [Grupo0.2C.72.02.00.00.00.00]
 code = "2C-72-02-00-00-00-00"
@@ -15674,7 +15674,7 @@ subject = "Transport e d em at e rial"
 
 [Grupo0.2C.72.14.06.02.00.00]
 code = "2C-72-14-06-02-00-00"
-subject = "Sistemaautomatizadodearquivamento e r e cup e raçãode docum e ntos"
+subject = "Sistemaautomatizadodearquivamento e r e cup e raçãode documentos"
 
 [Grupo0.2C.72.14.06.06.00.00]
 code = "2C-72-14-06-06-00-00"
@@ -15694,7 +15694,7 @@ subject = "Esteiradetransport e d em at e riais"
 
 [Grupo0.2C.72.14.10.10.00.00]
 code = "2C-72-14-10-10-00-00"
-subject = "Est e irade com partim e nto"
+subject = "Est e irade com partimento"
 
 [Grupo0.2C.72.14.10.14.00.00]
 code = "2C-72-14-10-14-00-00"
@@ -15774,7 +15774,7 @@ subject = "Alim e nta do r"
 
 [Grupo0.2C.72.14.18.06.00.00]
 code = "2C-72-14-18-06-00-00"
-subject = "Alimentadordeplacasd em ovim e ntoalt e rnado"
+subject = "Alimentadordeplacasd em ovimentoalt e rnado"
 
 [Grupo0.2C.72.14.18.10.00.00]
 code = "2C-72-14-18-10-00-00"
@@ -15806,7 +15806,7 @@ subject = "Caixa de vácuo de tubopn e umático"
 
 [Grupo0.2C.72.14.22.14.00.00]
 code = "2C-72-14-22-14-00-00"
-subject = "Sistemade do cum e nto de transporte"
+subject = "Sistemade documento de transporte"
 
 [Grupo0.2C.72.14.26.00.00.00]
 code = "2C-72-14-26-00-00-00"
@@ -16266,7 +16266,7 @@ subject = "Exaustor e sp e cialo do ntológico"
 
 [Grupo0.2C.74.08.06.10.00.00]
 code = "2C-74-08-06-10-00-00"
-subject = "Equipamentoparaproc e dim e ntoo do ntológico"
+subject = "Equipamentoparaproc e dimentoo do ntológico"
 
 [Grupo0.2C.74.08.06.14.00.00]
 code = "2C-74-08-06-14-00-00"
@@ -16274,7 +16274,7 @@ subject = "Tanqu e o do ntológico"
 
 [Grupo0.2C.74.08.06.18.00.00]
 code = "2C-74-08-06-18-00-00"
-subject = "Máquinadepolim e nto e r e ticação de ntal"
+subject = "Máquinadepolimento e r e ticação de ntal"
 
 [Grupo0.2C.74.08.06.22.00.00]
 code = "2C-74-08-06-22-00-00"
@@ -16290,7 +16290,7 @@ subject = "Equipamentoo do ntológico de laboratório"
 
 [Grupo0.2C.74.08.10.00.00.00]
 code = "2C-74-08-10-00-00-00"
-subject = "Estruturaspré-abricadas para proc e dim e ntos odontológicos"
+subject = "Estruturaspré-abricadas para proc e dimentos odontológicos"
 
 [Grupo0.2C.74.08.10.02.00.00]
 code = "2C-74-08-10-02-00-00"
@@ -16326,7 +16326,7 @@ subject = "Cabinedetratamentoultraviol e ta para mãos e pés"
 
 [Grupo0.2C.74.10.14.00.00.00]
 code = "2C-74-10-14-00-00-00"
-subject = "Instrum e ntosd e rmatológicos"
+subject = "Instrumentosd e rmatológicos"
 
 [Grupo0.2C.74.12.00.00.00.00]
 code = "2C-74-12-00-00-00-00"
@@ -16430,7 +16430,7 @@ subject = "Mesade e xam e d e proctologia"
 
 [Grupo0.2C.74.16.02.06.00.00]
 code = "2C-74-16-02-06-00-00"
-subject = "Mesadeproc e dim e nto de urologia"
+subject = "Mesadeproc e dimento de urologia"
 
 [Grupo0.2C.74.16.06.00.00.00]
 code = "2C-74-16-06-00-00-00"
@@ -16442,7 +16442,7 @@ subject = "Estruturaspré-abricadasd e gastro e nt e rologia"
 
 [Grupo0.2C.74.16.14.00.00.00]
 code = "2C-74-16-14-00-00-00"
-subject = "Instrumentosparaprocedim e ntosgastro e nt e rológicos"
+subject = "Instrumentosparaprocedimentosgastro e nt e rológicos"
 
 [Grupo0.2C.74.18.00.00.00.00]
 code = "2C-74-18-00-00-00-00"
@@ -16490,7 +16490,7 @@ subject = "Equipamento de colonoscopia"
 
 [Grupo0.2C.74.18.10.00.00.00]
 code = "2C-74-18-10-00-00-00"
-subject = "Estruturaspré-abricadasparaat e ndim e ntoaclínicag e ral"
+subject = "Estruturaspré-abricadasparaat e ndimentoaclínicag e ral"
 
 [Grupo0.2C.74.20.00.00.00.00]
 code = "2C-74-20-00-00-00-00"
@@ -17142,7 +17142,7 @@ subject = "Est e riliza do rd e agulha"
 
 [Grupo0.2C.74.48.02.30.00.00]
 code = "2C-74-48-02-30-00-00"
-subject = "Dispositivodelimpezadeinstrum e ntoabast e ci do por energia"
+subject = "Dispositivodelimpezadeinstrumentoabast e ci do por energia"
 
 [Grupo0.2C.74.48.02.34.00.00]
 code = "2C-74-48-02-34-00-00"
@@ -17182,39 +17182,39 @@ subject = "Limpa do rd e câmaraúnicaultrassônico"
 
 [Grupo0.2C.74.50.00.00.00.00]
 code = "2C-74-50-00-00-00-00"
-subject = "Produtos para proc e dim e ntoscirúrgicos"
+subject = "Produtos para proc e dimentoscirúrgicos"
 
 [Grupo0.2C.74.50.02.00.00.00]
 code = "2C-74-50-02-00-00-00"
-subject = "Mobiliário para proc e dim e ntoscirúrgicos"
+subject = "Mobiliário para proc e dimentoscirúrgicos"
 
 [Grupo0.2C.74.50.02.02.00.00]
 code = "2C-74-50-02-02-00-00"
-subject = "Cama para proc e dim e ntoscirúrgicos"
+subject = "Cama para proc e dimentoscirúrgicos"
 
 [Grupo0.2C.74.50.02.06.00.00]
 code = "2C-74-50-02-06-00-00"
-subject = "Pia para proc e dim e ntoscirúrgicos"
+subject = "Pia para proc e dimentoscirúrgicos"
 
 [Grupo0.2C.74.50.02.10.00.00]
 code = "2C-74-50-02-10-00-00"
-subject = "Mesa para proc e dim e ntoscirúrgicos"
+subject = "Mesa para proc e dimentoscirúrgicos"
 
 [Grupo0.2C.74.50.02.14.00.00]
 code = "2C-74-50-02-14-00-00"
-subject = "Cadeira para proc e dim e ntoscirúrgicos"
+subject = "Cadeira para proc e dimentoscirúrgicos"
 
 [Grupo0.2C.74.50.02.18.00.00]
 code = "2C-74-50-02-18-00-00"
-subject = "Armário para proc e dim e ntoscirúrgicos"
+subject = "Armário para proc e dimentoscirúrgicos"
 
 [Grupo0.2C.74.50.06.00.00.00]
 code = "2C-74-50-06-00-00-00"
-subject = "Equipamentos para proc e dim e ntoscirúrgicos"
+subject = "Equipamentos para proc e dimentoscirúrgicos"
 
 [Grupo0.2C.74.50.06.02.00.00]
 code = "2C-74-50-06-02-00-00"
-subject = "Carrinho para proc e dim e ntoscirúrgicos"
+subject = "Carrinho para proc e dimentoscirúrgicos"
 
 [Grupo0.2C.74.50.06.06.00.00]
 code = "2C-74-50-06-06-00-00"
@@ -17234,7 +17234,7 @@ subject = "Equipamento de suport e cirúrgico"
 
 [Grupo0.2C.74.50.10.00.00.00]
 code = "2C-74-50-10-00-00-00"
-subject = "Estruturaspré-abricadas para proc e dim e ntoscirúrgicos"
+subject = "Estruturaspré-abricadas para proc e dimentoscirúrgicos"
 
 [Grupo0.2C.74.50.10.02.00.00]
 code = "2C-74-50-10-02-00-00"
@@ -17310,7 +17310,7 @@ subject = "Pia para radiologia e diagnósticoporimag e ns"
 
 [Grupo0.2C.74.54.02.06.00.00]
 code = "2C-74-54-02-06-00-00"
-subject = "Barreiradeprot e ção para radiologia e diagnósticopor imagens"
+subject = "BarreiradeProteção para radiologia e diagnósticopor imagens"
 
 [Grupo0.2C.74.54.02.10.00.00]
 code = "2C-74-54-02-10-00-00"
@@ -17538,11 +17538,11 @@ subject = "Equipamentoótico"
 
 [Grupo0.2C.74.60.06.10.00.00]
 code = "2C-74-60-06-10-00-00"
-subject = "Equipamento de rompim e nto de laboratório"
+subject = "Equipamento de rompimento de laboratório"
 
 [Grupo0.2C.74.60.06.14.00.00]
 code = "2C-74-60-06-14-00-00"
-subject = "Equipamentodesecagemeaqu e cim e nto de laboratório"
+subject = "Equipamentodesecagemeaqu e cimento de laboratório"
 
 [Grupo0.2C.74.60.06.18.00.00]
 code = "2C-74-60-06-18-00-00"
@@ -17570,7 +17570,7 @@ subject = "Destila do rd e laboratório"
 
 [Grupo0.2C.76.00.00.00.00.00]
 code = "2C-76-00-00-00-00-00"
-subject = "Produtosparas e gurança e prot e ção"
+subject = "Produtosparas e gurança e Proteção"
 
 [Grupo0.2C.76.02.00.00.00.00]
 code = "2C-76-02-00-00-00-00"
@@ -17646,15 +17646,15 @@ subject = "Det e ctord e m e taismanual"
 
 [Grupo0.2C.76.02.18.00.00.00]
 code = "2C-76-02-18-00-00-00"
-subject = "Equipamentosd e insp e çãoporraiosX"
+subject = "Equipamentosd e InspeçãoporraiosX"
 
 [Grupo0.2C.76.02.18.02.00.00]
 code = "2C-76-02-18-02-00-00"
-subject = "Máquina de insp e çãoporraiosX"
+subject = "Máquina de InspeçãoporraiosX"
 
 [Grupo0.2C.76.02.18.06.00.00]
 code = "2C-76-02-18-06-00-00"
-subject = "Máquina de insp e çãocorporalporraiosX"
+subject = "Máquina de InspeçãocorporalporraiosX"
 
 [Grupo0.2C.76.02.22.00.00.00]
 code = "2C-76-02-22-00-00-00"
@@ -17722,7 +17722,7 @@ subject = "Detecção de qu e bra de vidro"
 
 [Grupo0.2C.76.02.26.38.00.00]
 code = "2C-76-02-26-38-00-00"
-subject = "Sensord em ovim e ntoporvibração"
+subject = "Sensord em ovimentoporvibração"
 
 [Grupo0.2C.76.02.26.42.00.00]
 code = "2C-76-02-26-42-00-00"
@@ -17774,11 +17774,11 @@ subject = "Teclado para s e gurança"
 
 [Grupo0.2C.76.02.38.00.00.00]
 code = "2C-76-02-38-00-00-00"
-subject = "Dispositivosparainsp e ção de v e ículos"
+subject = "DispositivosparaInspeção de v e ículos"
 
 [Grupo0.2C.76.02.38.02.00.00]
 code = "2C-76-02-38-02-00-00"
-subject = "Iluminaçãoparainsp e ção da part e ineriord e v e ículos"
+subject = "IluminaçãoparaInspeção da part e ineriord e v e ículos"
 
 [Grupo0.2C.76.06.00.00.00.00]
 code = "2C-76-06-00-00-00-00"
@@ -17806,7 +17806,7 @@ subject = "Escân e rd e r e tina"
 
 [Grupo0.2C.76.06.02.18.00.00]
 code = "2C-76-06-02-18-00-00"
-subject = "Leitordereconhecim e nto de v e ias"
+subject = "Leitordereconhecimento de v e ias"
 
 [Grupo0.2C.76.06.06.00.00.00]
 code = "2C-76-06-06-00-00-00"
@@ -17934,7 +17934,7 @@ subject = "Cadeado de chav e d e pino"
 
 [Grupo0.2C.76.18.00.00.00.00]
 code = "2C-76-18-00-00-00-00"
-subject = "Prot e çãoradiológica,química e biológica"
+subject = "Proteçãoradiológica,química e biológica"
 
 [Grupo0.2C.76.18.02.00.00.00]
 code = "2C-76-18-02-00-00-00"
@@ -17954,7 +17954,7 @@ subject = "Equipamentosdel e itura de códigoc e ntralizado"
 
 [Grupo0.2C.76.26.00.00.00.00]
 code = "2C-76-26-00-00-00-00"
-subject = "Component e sd e prot e çãoaogo"
+subject = "Component e sd e Proteçãoaogo"
 
 [Grupo0.2C.76.26.02.00.00.00]
 code = "2C-76-26-02-00-00-00"
@@ -18298,7 +18298,7 @@ subject = "Equipamentosd e supr e ssãoqu e nãosãoàbas e d e água"
 
 [Grupo0.2C.76.46.06.02.00.00]
 code = "2C-76-46-06-02-00-00"
-subject = "Equipamentodesupressãodeagent e d e limp e zagasoso"
+subject = "Equipamentodesupressãodeagent e d e Limpezagasoso"
 
 [Grupo0.2C.76.46.06.06.00.00]
 code = "2C-76-46-06-06-00-00"
@@ -18986,23 +18986,23 @@ subject = "Aqu e ce do rd e águaagás"
 
 [Grupo0.2C.78.38.06.00.00.00]
 code = "2C-78-38-06-00-00-00"
-subject = "Tanquesparaarmaz e namento de águaaqu e cida"
+subject = "TanquesparaArmazenamento de águaaqu e cida"
 
 [Grupo0.2C.78.38.06.02.00.00]
 code = "2C-78-38-06-02-00-00"
-subject = "Tanqueparaarmaz e namento de águaaqu e ci da por eletrici da de"
+subject = "TanqueparaArmazenamento de águaaqu e ci da por eletrici da de"
 
 [Grupo0.2C.78.38.06.06.00.00]
 code = "2C-78-38-06-06-00-00"
-subject = "Tanqueparaarmaz e namento de águaaqu e ci da agás"
+subject = "TanqueparaArmazenamento de águaaqu e ci da agás"
 
 [Grupo0.2C.78.38.06.10.00.00]
 code = "2C-78-38-06-10-00-00"
-subject = "Tanqueparaarmaz e namento de águaaqu e ci da avapor"
+subject = "TanqueparaArmazenamento de águaaqu e ci da avapor"
 
 [Grupo0.2C.78.38.06.14.00.00]
 code = "2C-78-38-06-14-00-00"
-subject = "Tanqueparaarmaz e namento de águaaqu e ci da aól e o combustív e l"
+subject = "TanqueparaArmazenamento de águaaqu e ci da aól e o combustív e l"
 
 [Grupo0.2C.78.42.00.00.00.00]
 code = "2C-78-42-00-00-00-00"
@@ -19050,7 +19050,7 @@ subject = "Con e xõ e s do tipotê"
 
 [Grupo0.2C.80.00.00.00.00.00]
 code = "2C-80-00-00-00-00-00"
-subject = "Produtosparainstalaçõesd e aqu e cim e nto,ventilaçãoe ar-condicionado(AVAC)"
+subject = "Produtosparainstalaçõesd e aqu e cimento,ventilaçãoe ar-condicionado(AVAC)"
 
 [Grupo0.2C.80.02.00.00.00.00]
 code = "2C-80-02-00-00-00-00"
@@ -19250,7 +19250,7 @@ subject = "DispositivodeRecuperação de calord e gáscombustív e l deorno"
 
 [Grupo0.2C.80.10.00.00.00.00]
 code = "2C-80-10-00-00-00-00"
-subject = "Equipamentosd e aqu e cim e nto(AVAC)"
+subject = "Equipamentosd e aqu e cimento(AVAC)"
 
 [Grupo0.2C.80.10.02.00.00.00]
 code = "2C-80-10-02-00-00-00"
@@ -19266,43 +19266,43 @@ subject = "Aquece do r e xt e rnoapropano"
 
 [Grupo0.2C.80.10.06.00.00.00]
 code = "2C-80-10-06-00-00-00"
-subject = "Fogõesd e aqu e cim e nto"
+subject = "Fogõesd e aqu e cimento"
 
 [Grupo0.2C.80.10.06.02.00.00]
 code = "2C-80-10-06-02-00-00"
-subject = "Fogão de aqu e cim e ntoaerroundido"
+subject = "Fogão de aqu e cimentoaerroundido"
 
 [Grupo0.2C.80.10.06.06.00.00]
 code = "2C-80-10-06-06-00-00"
-subject = "Fogãodeaquecim e nto de p e dra"
+subject = "Fogãodeaquecimento de p e dra"
 
 [Grupo0.2C.80.10.06.10.00.00]
 code = "2C-80-10-06-10-00-00"
-subject = "Fogãodeaquecim e nto de açosol da do"
+subject = "Fogãodeaquecimento de açosol da do"
 
 [Grupo0.2C.80.10.06.14.00.00]
 code = "2C-80-10-06-14-00-00"
-subject = "Compon e nt e deogão de aqu e cim e nto"
+subject = "Compon e nt e deogão de aqu e cimento"
 
 [Grupo0.2C.80.10.10.00.00.00]
 code = "2C-80-10-10-00-00-00"
-subject = "Equipamentosparamontag em d e sup e ríci e sde aqu e cim e nto"
+subject = "Equipamentosparamontag em d e sup e ríci e sde aqu e cimento"
 
 [Grupo0.2C.80.10.10.02.00.00]
 code = "2C-80-10-10-02-00-00"
-subject = "Chapa de aqu e cim e nto"
+subject = "Chapa de aqu e cimento"
 
 [Grupo0.2C.80.10.10.06.00.00]
 code = "2C-80-10-10-06-00-00"
-subject = "Cabo de aqu e cim e nto"
+subject = "Cabo de aqu e cimento"
 
 [Grupo0.2C.80.10.10.10.00.00]
 code = "2C-80-10-10-10-00-00"
-subject = "Fitadeaqu e cim e nto de tubo"
+subject = "Fitadeaqu e cimento de tubo"
 
 [Grupo0.2C.80.10.10.14.00.00]
 code = "2C-80-10-10-14-00-00"
-subject = "Marcadeaqu e cim e nto do cabo"
+subject = "Marcadeaqu e cimento do cabo"
 
 [Grupo0.2C.80.10.10.18.00.00]
 code = "2C-80-10-10-18-00-00"
@@ -19370,7 +19370,7 @@ subject = "Radia do rd e placa"
 
 [Grupo0.2C.80.10.22.14.00.00]
 code = "2C-80-10-22-14-00-00"
-subject = "Paineldeaqu e cim e nto de radiação"
+subject = "Paineldeaqu e cimento de radiação"
 
 [Grupo0.2C.80.10.26.00.00.00]
 code = "2C-80-10-26-00-00-00"
@@ -19390,7 +19390,7 @@ subject = "Radia do rd e placa de arorçado"
 
 [Grupo0.2C.80.10.26.14.00.00]
 code = "2C-80-10-26-14-00-00"
-subject = "Paineldeaquecim e nto de radiação de arorçado"
+subject = "Paineldeaquecimento de radiação de arorçado"
 
 [Grupo0.2C.80.10.30.00.00.00]
 code = "2C-80-10-30-00-00-00"
@@ -19638,15 +19638,15 @@ subject = "Diusor e sportrêscaminhos"
 
 [Grupo0.2C.80.38.06.00.00.00]
 code = "2C-80-38-06-00-00-00"
-subject = "Diusor e sporamort e cim e nto"
+subject = "Diusor e sporamort e cimento"
 
 [Grupo0.2C.80.38.06.02.00.00]
 code = "2C-80-38-06-02-00-00"
-subject = "Diusor e sporamort e cim e ntoporlâminasopostas"
+subject = "Diusor e sporamort e cimentoporlâminasopostas"
 
 [Grupo0.2C.80.38.06.06.00.00]
 code = "2C-80-38-06-06-00-00"
-subject = "Diusoresporamortecim e ntoporlâminas para l e las"
+subject = "Diusoresporamortecimentoporlâminas para l e las"
 
 [Grupo0.2C.80.38.10.00.00.00]
 code = "2C-80-38-10-00-00-00"
@@ -19854,11 +19854,11 @@ subject = "Unidadedev e ntilação para r e sriamento"
 
 [Grupo0.2C.80.46.02.06.00.00]
 code = "2C-80-46-02-06-00-00"
-subject = "Unidadedeventilação para aqu e cim e nto"
+subject = "Unidadedeventilação para aqu e cimento"
 
 [Grupo0.2C.80.46.02.10.00.00]
 code = "2C-80-46-02-10-00-00"
-subject = "Unidadedev e ntilação para r e sriamento e aqu e cim e nto"
+subject = "Unidadedev e ntilação para r e sriamento e aqu e cimento"
 
 [Grupo0.2C.80.50.00.00.00.00]
 code = "2C-80-50-00-00-00-00"
@@ -20110,7 +20110,7 @@ subject = "Mantas para isolamento de dutos"
 
 [Grupo0.2C.80.78.14.02.00.00]
 code = "2C-80-78-14-02-00-00"
-subject = "Mantaparaisolamento de cobrim e nto do duto"
+subject = "Mantaparaisolamento de cobrimento do duto"
 
 [Grupo0.2C.80.78.14.06.00.00]
 code = "2C-80-78-14-06-00-00"
@@ -20238,59 +20238,59 @@ subject = "Luzesultraviol e tas para d e sinecção"
 
 [Grupo0.2C.80.86.00.00.00.00]
 code = "2C-80-86-00-00-00-00"
-subject = "Equipamentosdeaqu e cim e ntosolard e água"
+subject = "Equipamentosdeaqu e cimentosolard e água"
 
 [Grupo0.2C.80.86.02.00.00.00]
 code = "2C-80-86-02-00-00-00"
-subject = "Unidadespackageddeaqu e cim e ntosolar da água"
+subject = "Unidadespackageddeaqu e cimentosolar da água"
 
 [Grupo0.2C.80.86.06.00.00.00]
 code = "2C-80-86-06-00-00-00"
-subject = "Componentesparacoletoresd e aqu e cim e ntosolarda água"
+subject = "Componentesparacoletoresd e aqu e cimentosolarda água"
 
 [Grupo0.2C.80.86.06.02.00.00]
 code = "2C-80-86-06-02-00-00"
-subject = "Placadeabsorçãodeaquecim e nto de solar da água"
+subject = "Placadeabsorçãodeaquecimento de solar da água"
 
 [Grupo0.2C.80.86.06.06.00.00]
 code = "2C-80-86-06-06-00-00"
-subject = "Tubulaçãodeabsorçãodeaquecim e nto de solar da água"
+subject = "Tubulaçãodeabsorçãodeaquecimento de solar da água"
 
 [Grupo0.2C.80.86.06.10.00.00]
 code = "2C-80-86-06-10-00-00"
-subject = "Revestimentoetratamento de sup e ríciesd e aqu e cim e nto solar da água"
+subject = "Revestimentoetratamento de sup e ríciesd e aqu e cimento solar da água"
 
 [Grupo0.2C.80.86.06.14.00.00]
 code = "2C-80-86-06-14-00-00"
-subject = "Isolamentodecoletordeaqu e cim e ntosolar da água"
+subject = "Isolamentodecoletordeaqu e cimentosolar da água"
 
 [Grupo0.2C.80.86.06.18.00.00]
 code = "2C-80-86-06-18-00-00"
-subject = "Vidrodeaqu e cim e ntosolar da água"
+subject = "Vidrodeaqu e cimentosolar da água"
 
 [Grupo0.2C.80.86.06.22.00.00]
 code = "2C-80-86-06-22-00-00"
-subject = "Localizaçãoeestruturadeaqu e cim e ntosolar da água"
+subject = "Localizaçãoeestruturadeaqu e cimentosolar da água"
 
 [Grupo0.2C.80.86.06.26.00.00]
 code = "2C-80-86-06-26-00-00"
-subject = "Refetordeaqu e cim e ntosolard e água"
+subject = "Refetordeaqu e cimentosolard e água"
 
 [Grupo0.2C.80.86.10.00.00.00]
 code = "2C-80-86-10-00-00-00"
-subject = "Unidadescoletorasdeaqu e cim e ntosolar da água"
+subject = "Unidadescoletorasdeaqu e cimentosolar da água"
 
 [Grupo0.2C.80.86.10.02.00.00]
 code = "2C-80-86-10-02-00-00"
-subject = "Coletordeplacalisadeaqu e cim e ntosolar da água"
+subject = "Coletordeplacalisadeaqu e cimentosolar da água"
 
 [Grupo0.2C.80.86.10.06.00.00]
 code = "2C-80-86-10-06-00-00"
-subject = "Coletordeconcentraçãodeaqu e cim e ntosolar da água"
+subject = "Coletordeconcentraçãodeaqu e cimentosolar da água"
 
 [Grupo0.2C.80.86.10.10.00.00]
 code = "2C-80-86-10-10-00-00"
-subject = "Col e tord e tuboavácuodeaqu e cim e ntosolard e água"
+subject = "Col e tord e tuboavácuodeaqu e cimentosolard e água"
 
 [Grupo0.2C.80.90.00.00.00.00]
 code = "2C-80-90-00-00-00-00"
@@ -20430,19 +20430,19 @@ subject = "Transormador e sd e corr e nte"
 
 [Grupo0.2C.82.06.06.00.00.00]
 code = "2C-82-06-06-00-00-00"
-subject = "Transormador e sd e instrum e ntos"
+subject = "Transormador e sd e instrumentos"
 
 [Grupo0.2C.82.06.06.02.00.00]
 code = "2C-82-06-06-02-00-00"
-subject = "Transormadorparainstrum e nto de corr e nte"
+subject = "Transormadorparainstrumento de corr e nte"
 
 [Grupo0.2C.82.06.06.06.00.00]
 code = "2C-82-06-06-06-00-00"
-subject = "Transormador para instrum e nto de pulso"
+subject = "Transormador para instrumento de pulso"
 
 [Grupo0.2C.82.06.06.10.00.00]
 code = "2C-82-06-06-10-00-00"
-subject = "Transormadorparainstrum e nto de t e nsão"
+subject = "Transormadorparainstrumento de t e nsão"
 
 [Grupo0.2C.82.06.10.00.00.00]
 code = "2C-82-06-10-00-00-00"
@@ -20766,19 +20766,19 @@ subject = "Inv e rsorde e sta do sólido"
 
 [Grupo0.2C.82.26.18.00.00.00]
 code = "2C-82-26-18-00-00-00"
-subject = "Dispositivosd e corr e çãodeatord e potência"
+subject = "Dispositivosd e Correçãodeatord e potência"
 
 [Grupo0.2C.82.26.18.02.00.00]
 code = "2C-82-26-18-02-00-00"
-subject = "Dispositivodecorr e ção de potênciacapacitiva e indutiva"
+subject = "DispositivodeCorreção de potênciacapacitiva e indutiva"
 
 [Grupo0.2C.82.26.18.06.00.00]
 code = "2C-82-26-18-06-00-00"
-subject = "Dispositivo de corr e ção de potênciacapacitiva"
+subject = "Dispositivo de Correção de potênciacapacitiva"
 
 [Grupo0.2C.82.26.18.10.00.00]
 code = "2C-82-26-18-10-00-00"
-subject = "Dispositivo de corr e ção de potênciaindutiva"
+subject = "Dispositivo de Correção de potênciaindutiva"
 
 [Grupo0.2C.82.26.18.14.00.00]
 code = "2C-82-26-18-14-00-00"
@@ -21366,7 +21366,7 @@ subject = "Interruptoresd e v e loci da de"
 
 [Grupo0.2C.82.52.82.00.00.00]
 code = "2C-82-52-82-00-00-00"
-subject = "Interruptor e sd e prot e ção"
+subject = "Interruptor e sd e Proteção"
 
 [Grupo0.2C.82.52.84.00.00.00]
 code = "2C-82-52-84-00-00-00"
@@ -21398,7 +21398,7 @@ subject = "Hastedeat e rramento e létrico"
 
 [Grupo0.2C.82.56.10.00.00.00]
 code = "2C-82-56-10-00-00-00"
-subject = "Dispositivosd e prot e çãocontraraios"
+subject = "Dispositivosd e Proteçãocontraraios"
 
 [Grupo0.2C.82.56.10.02.00.00]
 code = "2C-82-56-10-02-00-00"
@@ -21410,7 +21410,7 @@ subject = "Hast e d e para-raios"
 
 [Grupo0.2C.82.56.14.00.00.00]
 code = "2C-82-56-14-00-00-00"
-subject = "Dispositivosd e prot e çãocontrasurtos"
+subject = "Dispositivosd e Proteçãocontrasurtos"
 
 [Grupo0.2C.82.60.00.00.00.00]
 code = "2C-82-60-00-00-00-00"
@@ -21430,7 +21430,7 @@ subject = "Relés e létricos"
 
 [Grupo0.2C.82.64.02.00.00.00]
 code = "2C-82-64-02-00-00-00"
-subject = "Relésd e prot e çãoauxiliar"
+subject = "Relésd e Proteçãoauxiliar"
 
 [Grupo0.2C.82.64.06.00.00.00]
 code = "2C-82-64-06-00-00-00"
@@ -21466,11 +21466,11 @@ subject = "Relésd e bloqu e io"
 
 [Grupo0.2C.82.64.30.02.00.00]
 code = "2C-82-64-30-02-00-00"
-subject = "Relédebloqueioderestab e l e cim e ntoautomático"
+subject = "Relédebloqueioderestab e l e cimentoautomático"
 
 [Grupo0.2C.82.64.34.06.00.00]
 code = "2C-82-64-34-06-00-00"
-subject = "Relédebloqueioderestab e l e cim e ntomanual"
+subject = "Relédebloqueioderestab e l e cimentomanual"
 
 [Grupo0.2C.82.64.38.00.00.00]
 code = "2C-82-64-38-00-00-00"
@@ -21866,7 +21866,7 @@ subject = "Dispositivodedetecção de intrusãode com puta do r"
 
 [Grupo0.2C.84.06.06.10.00.00]
 code = "2C-84-06-06-10-00-00"
-subject = "Dispositivodeprot e çãoaintrusãode com puta do r"
+subject = "DispositivodeProteçãoaintrusãode com puta do r"
 
 [Grupo0.2C.84.06.10.00.00.00]
 code = "2C-84-06-10-00-00-00"
@@ -22046,11 +22046,11 @@ subject = "Câmera de gravação de víd e o"
 
 [Grupo0.2C.84.10.06.02.00.00]
 code = "2C-84-10-06-02-00-00"
-subject = "Câmeradegravaçãodevídeo com armaz e namento digital"
+subject = "Câmeradegravaçãodevídeo com Armazenamento digital"
 
 [Grupo0.2C.84.10.06.06.00.00]
 code = "2C-84-10-06-06-00-00"
-subject = "Câmeradegravaçãodevídeocomarmaz e namento e m ta"
+subject = "CâmeradegravaçãodevídeocomArmazenamento e m ta"
 
 [Grupo0.2C.84.10.10.00.00.00]
 code = "2C-84-10-10-00-00-00"
@@ -22646,7 +22646,7 @@ subject = "Aglom e rant e s"
 
 [Grupo0.2C.92.10.02.02.00.00]
 code = "2C-92-10-02-02-00-00"
-subject = "Cim e nto"
+subject = "Cimento"
 
 [Grupo0.2C.92.10.02.06.00.00]
 code = "2C-92-10-02-06-00-00"
@@ -22714,7 +22714,7 @@ subject = "Aditivocim e ntícioa de sivo"
 
 [Grupo0.2C.92.10.06.46.00.00]
 code = "2C-92-10-06-46-00-00"
-subject = "Aditivosubstitutivoaocim e nto"
+subject = "Aditivosubstitutivoaocimento"
 
 [Grupo0.2C.92.10.06.50.00.00]
 code = "2C-92-10-06-50-00-00"
@@ -23358,7 +23358,7 @@ subject = "Port e iro"
 
 [Grupo0.2N.26.08.14.00.00.00]
 code = "2N-26-08-14-00-00-00"
-subject = "Auxiliard e limp e za"
+subject = "Auxiliard e Limpeza"
 
 [Grupo0.2N.26.14.00.00.00.00]
 code = "2N-26-14-00-00-00-00"
@@ -23654,7 +23654,7 @@ subject = "Serviçosocial"
 
 [Grupo0.2Q.02.00.00.00.00.00]
 code = "2Q-02-00-00-00-00-00"
-subject = "Ferramentasparaacriaçãoeg e stãode do cum e ntosísicos"
+subject = "Ferramentasparaacriaçãoeg e stãode documentosísicos"
 
 [Grupo0.2Q.02.02.00.00.00.00]
 code = "2Q-02-02-00-00-00-00"
@@ -23690,7 +23690,7 @@ subject = "Suprimentose equipamentospara e scritório"
 
 [Grupo0.2Q.02.14.00.00.00.00]
 code = "2Q-02-14-00-00-00-00"
-subject = "Suprim e ntospara e scritório"
+subject = "Suprimentospara e scritório"
 
 [Grupo0.2Q.02.18.00.00.00.00]
 code = "2Q-02-18-00-00-00-00"
@@ -23726,7 +23726,7 @@ subject = "Proc e ssa do r"
 
 [Grupo0.2Q.06.02.02.10.00.00]
 code = "2Q-06-02-02-10-00-00"
-subject = "Memóriadearmaz e namentotemporário(RAM)"
+subject = "MemóriadeArmazenamentotemporário(RAM)"
 
 [Grupo0.2Q.06.02.02.14.00.00]
 code = "2Q-06-02-02-14-00-00"
@@ -24118,7 +24118,7 @@ subject = "Medidor e sd e atrito de pista"
 
 [Grupo0.2Q.26.26.02.00.00.00]
 code = "2Q-26-26-02-00-00-00"
-subject = "Medidordeatritodepistaparamontag e m em v e ículo"
+subject = "MedidordeatritodepistaparaMontagem em v e ículo"
 
 [Grupo0.2Q.26.26.06.00.00.00]
 code = "2Q-26-26-06-00-00-00"
@@ -24458,7 +24458,7 @@ subject = "Equipamentopara e l e tro-osmose"
 
 [Grupo0.2Q.42.14.00.00.00.00]
 code = "2Q-42-14-00-00-00-00"
-subject = "Equipamentosdelimp e za e Preparação de sup e ríci e s"
+subject = "EquipamentosdeLimpeza e Preparação de sup e ríci e s"
 
 [Grupo0.2Q.42.14.02.00.00.00]
 code = "2Q-42-14-02-00-00-00"
@@ -24470,11 +24470,11 @@ subject = "Limpador e sd e jatosd e vapor"
 
 [Grupo0.2Q.42.14.10.00.00.00]
 code = "2Q-42-14-10-00-00-00"
-subject = "Máquinasdelimp e za de baixapr e ssão"
+subject = "MáquinasdeLimpeza de baixapr e ssão"
 
 [Grupo0.2Q.42.14.14.00.00.00]
 code = "2Q-42-14-14-00-00-00"
-subject = "Equipamentosd e limp e zasubaquática"
+subject = "Equipamentosd e Limpezasubaquática"
 
 [Grupo0.2Q.42.14.18.00.00.00]
 code = "2Q-42-14-18-00-00-00"
@@ -24486,7 +24486,7 @@ subject = "Desumidicador e s"
 
 [Grupo0.2Q.42.22.00.00.00.00]
 code = "2Q-42-22-00-00-00-00"
-subject = "Equipamentosd e prot e çãoindividual(EPI)"
+subject = "Equipamentosd e Proteçãoindividual(EPI)"
 
 [Grupo0.2Q.42.22.02.00.00.00]
 code = "2Q-42-22-02-00-00-00"
@@ -24502,7 +24502,7 @@ subject = "Luvas"
 
 [Grupo0.2Q.42.22.14.00.00.00]
 code = "2Q-42-22-14-00-00-00"
-subject = "Óculosd e prot e ção"
+subject = "Óculosd e Proteção"
 
 [Grupo0.2Q.42.22.18.00.00.00]
 code = "2Q-42-22-18-00-00-00"
@@ -24590,7 +24590,7 @@ subject = "Brocas"
 
 [Grupo0.2Q.42.30.06.00.00.00]
 code = "2Q-42-30-06-00-00-00"
-subject = "Discos para ranhuras em pavim e ntos(grooving)"
+subject = "Discos para ranhuras em pavimentos(grooving)"
 
 [Grupo0.2Q.50.00.00.00.00.00]
 code = "2Q-50-00-00-00-00-00"
@@ -24734,11 +24734,11 @@ subject = "Lastro"
 
 [Grupo0.2Q.54.06.18.18.00.00]
 code = "2Q-54-06-18-18-00-00"
-subject = "Telasd e prot e ção"
+subject = "Telasd e Proteção"
 
 [Grupo0.2Q.54.06.18.18.02.00]
 code = "2Q-54-06-18-18-02-00"
-subject = "Prot e çãopormantas"
+subject = "Proteçãopormantas"
 
 [Grupo0.2Q.54.06.18.22.00.00]
 code = "2Q-54-06-18-22-00-00"
@@ -24826,7 +24826,7 @@ subject = "Equipamentosparaventilaçãoe e xtração de po e ira"
 
 [Grupo0.2Q.58.06.02.22.00.00]
 code = "2Q-58-06-02-22-00-00"
-subject = "Sistemaspararevestim e nto de tún e is"
+subject = "Sistemaspararevestimento de tún e is"
 
 [Grupo0.2Q.58.06.02.26.00.00]
 code = "2Q-58-06-02-26-00-00"
@@ -24858,7 +24858,7 @@ subject = "Ferramentasparaestaqu e amentoe e xtração"
 
 [Grupo0.2Q.58.06.06.10.00.00]
 code = "2Q-58-06-06-10-00-00"
-subject = "Equipamentospararev e stim e nto de canais"
+subject = "Equipamentospararev e stimento de canais"
 
 [Grupo0.2Q.58.06.06.14.00.00]
 code = "2Q-58-06-06-14-00-00"
@@ -25098,7 +25098,7 @@ subject = "Lixa de iras"
 
 [Grupo0.2Q.58.10.06.38.00.00]
 code = "2Q-58-10-06-38-00-00"
-subject = "Equipamentosparamediçãodaqualidade da concr e tag e m"
+subject = "Equipamentosparamediçãodaqualidade da Concretagem"
 
 [Grupo0.2Q.58.10.10.00.00.00]
 code = "2Q-58-10-10-00-00-00"
@@ -25162,7 +25162,7 @@ subject = "Máquinaspararesag em d e p e dras"
 
 [Grupo0.2Q.58.10.10.18.00.00]
 code = "2Q-58-10-10-18-00-00"
-subject = "Máquinaselinhasdearenagemepolim e nto de p e dras"
+subject = "Máquinaselinhasdearenagemepolimento de p e dras"
 
 [Grupo0.2Q.58.10.10.22.00.00]
 code = "2Q-58-10-10-22-00-00"
@@ -25174,7 +25174,7 @@ subject = "Ferram e ntasdiamanta da s"
 
 [Grupo0.2Q.58.10.14.00.00.00]
 code = "2Q-58-10-14-00-00-00"
-subject = "Equipamentosparaabricaçãode e l e m e ntospré-molda do s deconcr e to"
+subject = "Equipamentosparaabricaçãode e l e mentospré-molda do s deconcr e to"
 
 [Grupo0.2Q.58.10.14.02.00.00]
 code = "2Q-58-10-14-02-00-00"
@@ -25230,19 +25230,19 @@ subject = "Máquinasparamoldagemdeconcr e to com r e sinasintética"
 
 [Grupo0.2Q.58.10.14.02.50.00]
 code = "2Q-58-10-14-02-50-00"
-subject = "Plantaparacurade e l e m e ntospré-molda do sd e concr e to"
+subject = "Plantaparacurade e l e mentospré-molda do sd e concr e to"
 
 [Grupo0.2Q.58.10.14.06.00.00]
 code = "2Q-58-10-14-06-00-00"
-subject = "Equipamentos para aabricaçãodeel e m e ntosd e grande port e d e concr e topré-mol da do"
+subject = "Equipamentos para aabricaçãodeel e mentosd e grande port e d e concr e topré-mol da do"
 
 [Grupo0.2Q.58.10.14.06.02.00]
 code = "2Q-58-10-14-06-02-00"
-subject = "Equipamentos para aabricaçãode e l e m e ntospré- moldadosdeconcreto em grand e quanti da de"
+subject = "Equipamentos para aabricaçãode e l e mentospré- moldadosdeconcreto em grand e quanti da de"
 
 [Grupo0.2Q.58.10.14.06.06.00]
 code = "2Q-58-10-14-06-06-00"
-subject = "Mesasbasculant e s para pré-abricaçãode com pon e nt e sde concr e to"
+subject = "Mesasbasculant e s para pré-abricaçãode componentesde concr e to"
 
 [Grupo0.2Q.58.10.14.06.10.00]
 code = "2Q-58-10-14-06-10-00"
@@ -25258,31 +25258,31 @@ subject = "Sist em as para aabricaçãodep e çasd e acabamentode coberturase
 
 [Grupo0.2Q.58.10.14.10.00.00]
 code = "2Q-58-10-14-10-00-00"
-subject = "Equipamentosparatransportede e l e m e ntospré-molda do s deconcr e to"
+subject = "Equipamentosparatransportede e l e mentospré-molda do s deconcr e to"
 
 [Grupo0.2Q.58.10.14.10.02.00]
 code = "2Q-58-10-14-10-02-00"
-subject = "Sistemasautomatizadosdetransportede e l e m e ntospré- molda do sd e concr e to"
+subject = "Sistemasautomatizadosdetransportede e l e mentospré- molda do sd e concr e to"
 
 [Grupo0.2Q.58.10.14.10.06.00]
 code = "2Q-58-10-14-10-06-00"
-subject = "Equipamentosdecarregamentoeiçamentode e l e m e ntos pré-molda do sd e concr e to"
+subject = "Equipamentosdecarregamentoeiçamentode e l e mentos pré-molda do sd e concr e to"
 
 [Grupo0.2Q.58.10.14.10.10.00]
 code = "2Q-58-10-14-10-10-00"
-subject = "Veículos com máquinasalimentadorasde e l e m e ntospré- molda do sd e concr e to"
+subject = "Veículos com máquinasalimentadorasde e l e mentospré- molda do sd e concr e to"
 
 [Grupo0.2Q.58.10.14.10.14.00]
 code = "2Q-58-10-14-10-14-00"
-subject = "Equipamentosparaempilhamentode e l e m e ntospré- moldadosparalaj e sd e concr e to"
+subject = "Equipamentosparaempilhamentode e l e mentospré- moldadosparalaj e sd e concr e to"
 
 [Grupo0.2Q.58.10.14.10.18.00]
 code = "2Q-58-10-14-10-18-00"
-subject = "Plantaparaoempacotamentode e l e m e ntospré-molda do s deconcr e to"
+subject = "Plantaparaoempacotamentode e l e mentospré-molda do s deconcr e to"
 
 [Grupo0.2Q.58.10.14.10.22.00]
 code = "2Q-58-10-14-10-22-00"
-subject = "Paletesparaoacomodamentode e l e m e ntospré-molda do s deconcr e to"
+subject = "Paletesparaoacomodamentode e l e mentospré-molda do s deconcr e to"
 
 [Grupo0.2Q.58.10.14.14.00.00]
 code = "2Q-58-10-14-14-00-00"
@@ -25298,7 +25298,7 @@ subject = "Usinasd e asalto"
 
 [Grupo0.2Q.58.14.06.00.00.00]
 code = "2Q-58-14-06-00-00-00"
-subject = "Tanquesdearmaz e namento de asalto"
+subject = "TanquesdeArmazenamento de asalto"
 
 [Grupo0.2Q.58.18.00.00.00.00]
 code = "2Q-58-18-00-00-00-00"
@@ -25430,7 +25430,7 @@ subject = "Dragasfutuant e s"
 
 [Grupo0.2Q.62.22.00.00.00.00]
 code = "2Q-62-22-00-00-00-00"
-subject = "Complementoseimplem e ntospara equipamentossobre est e iras"
+subject = "Complementoseimplementospara equipamentossobre est e iras"
 
 [Grupo0.2Q.62.26.00.00.00.00]
 code = "2Q-62-26-00-00-00-00"
@@ -25522,7 +25522,7 @@ subject = "Corta do rasd e asalto e concr e to"
 
 [Grupo0.2Q.62.34.22.00.00.00]
 code = "2Q-62-34-22-00-00-00"
-subject = "Fresa do rasd e pavim e ntos"
+subject = "Fresa do rasd e pavimentos"
 
 [Grupo0.2Q.62.34.26.00.00.00]
 code = "2Q-62-34-26-00-00-00"
@@ -25634,7 +25634,7 @@ subject = "Roça de iras para talu de s"
 
 [Grupo0.2Q.62.34.58.26.00.00]
 code = "2Q-62-34-58-26-00-00"
-subject = "Máquinasdevarrição e limp e za de pistas"
+subject = "Máquinasdevarrição e Limpeza de pistas"
 
 [Grupo0.2Q.62.34.58.30.00.00]
 code = "2Q-62-34-58-30-00-00"
@@ -25646,7 +25646,7 @@ subject = "Equipamentosd e sinalizaçãoro do viária"
 
 [Grupo0.2Q.62.34.66.00.00.00]
 code = "2Q-62-34-66-00-00-00"
-subject = "Equipamentosparar e volvim e nto do solo"
+subject = "Equipamentosparar e volvimento do solo"
 
 [Grupo0.2Q.62.34.66.02.00.00]
 code = "2Q-62-34-66-02-00-00"
@@ -25666,7 +25666,7 @@ subject = "Máquinasparacompactaçãona e x e cução de canais"
 
 [Grupo0.2Q.62.38.10.00.00.00]
 code = "2Q-62-38-10-00-00-00"
-subject = "Máquinasparaconcr e tag e m e asaltamentona e x e cução decanais"
+subject = "MáquinasparaConcretagem e asaltamentona e x e cução decanais"
 
 [Grupo0.2Q.62.38.14.00.00.00]
 code = "2Q-62-38-14-00-00-00"
@@ -25694,11 +25694,11 @@ subject = "Trator e s com caçamba"
 
 [Grupo0.2Q.62.50.00.00.00.00]
 code = "2Q-62-50-00-00-00-00"
-subject = "Implem e ntos para trator e s,dragas,escava de irase carr e ga de iras"
+subject = "Implementos para trator e s,dragas,escava de irase carr e ga de iras"
 
 [Grupo0.2Q.62.50.02.00.00.00]
 code = "2Q-62-50-02-00-00-00"
-subject = "Implem e ntospara e scava de iras"
+subject = "Implementospara e scava de iras"
 
 [Grupo0.2Q.62.50.06.00.00.00]
 code = "2Q-62-50-06-00-00-00"
@@ -25714,11 +25714,11 @@ subject = "Implementos para carr e ga de iras"
 
 [Grupo0.2Q.62.50.18.00.00.00]
 code = "2Q-62-50-18-00-00-00"
-subject = "Implem e ntos para roça de iras"
+subject = "Implementos para roça de iras"
 
 [Grupo0.2Q.62.50.22.00.00.00]
 code = "2Q-62-50-22-00-00-00"
-subject = "Impl e m e ntos para páscarr e ga de iras"
+subject = "Impl e mentos para páscarr e ga de iras"
 
 [Grupo0.2Q.62.50.26.00.00.00]
 code = "2Q-62-50-26-00-00-00"
@@ -26026,7 +26026,7 @@ subject = "Roça de irasd e jardim"
 
 [Grupo0.2Q.92.02.06.00.00.00]
 code = "2Q-92-02-06-00-00-00"
-subject = "Equipamentosparalimp e za em anut e nçãodeacha da sde edicaçõ e s"
+subject = "EquipamentosparaLimpeza em anut e nçãodeacha da sde edicaçõ e s"
 
 [Grupo0.2Q.92.02.06.02.00.00]
 code = "2Q-92-02-06-02-00-00"
@@ -26086,11 +26086,11 @@ subject = "Produtosquímicosparamanut e nção de instalaçõ e s"
 
 [Grupo0.3E.02.00.00.00.00.00]
 code = "3E-02-00-00-00-00-00"
-subject = "Elem e ntos de man e jodo terr e no"
+subject = "Elementos de man e jodo terr e no"
 
 [Grupo0.3E.02.02.00.00.00.00]
 code = "3E-02-02-00-00-00-00"
-subject = "Elem e ntos de terrapl e no"
+subject = "Elementos de terrapl e no"
 
 [Grupo0.3E.02.02.02.00.00.00]
 code = "3E-02-02-02-00-00-00"
@@ -26110,7 +26110,7 @@ subject = "Faixa terraplanada"
 
 [Grupo0.3E.02.04.00.00.00.00]
 code = "3E-02-04-00-00-00-00"
-subject = "Elem e ntos de cont e nção"
+subject = "Elementos de cont e nção"
 
 [Grupo0.3E.02.04.02.00.00.00]
 code = "3E-02-04-02-00-00-00"
@@ -26166,7 +26166,7 @@ subject = "Cortina de cont e nção compar e de diaragma"
 
 [Grupo0.3E.02.06.00.00.00.00]
 code = "3E-02-06-00-00-00-00"
-subject = "Elem e ntos de talude"
+subject = "Elementos de talude"
 
 [Grupo0.3E.02.06.02.00.00.00]
 code = "3E-02-06-02-00-00-00"
@@ -26182,7 +26182,7 @@ subject = "Pé do talude"
 
 [Grupo0.3E.02.08.00.00.00.00]
 code = "3E-02-08-00-00-00-00"
-subject = "Elem e ntos de aterro"
+subject = "Elementos de aterro"
 
 [Grupo0.3E.02.08.02.00.00.00]
 code = "3E-02-08-02-00-00-00"
@@ -26218,7 +26218,7 @@ subject = "Corpo do aterro"
 
 [Grupo0.3E.02.10.00.00.00.00]
 code = "3E-02-10-00-00-00-00"
-subject = "Elem e ntos para delimitação de implantação"
+subject = "Elementos para delimitação de implantação"
 
 [Grupo0.3E.02.10.02.00.00.00]
 code = "3E-02-10-02-00-00-00"
@@ -26234,7 +26234,7 @@ subject = "Mur e tapara delimitação de implantação"
 
 [Grupo0.3E.02.12.00.00.00.00]
 code = "3E-02-12-00-00-00-00"
-subject = "Elem e ntos de plantio"
+subject = "Elementos de plantio"
 
 [Grupo0.3E.02.12.02.00.00.00]
 code = "3E-02-12-02-00-00-00"
@@ -26258,39 +26258,39 @@ subject = "Veg e tação de grande porte"
 
 [Grupo0.3E.04.00.00.00.00.00]
 code = "3E-04-00-00-00-00-00"
-subject = "Elem e ntos de cant e iro de obra"
+subject = "Elementos de cant e iro de obra"
 
 [Grupo0.3E.04.02.00.00.00.00]
 code = "3E-04-02-00-00-00-00"
-subject = "Elem e ntos de ancorag em temporária"
+subject = "Elementos de ancorag em temporária"
 
 [Grupo0.3E.04.04.00.00.00.00]
 code = "3E-04-04-00-00-00-00"
-subject = "Elem e ntos de cimbramento"
+subject = "Elementos de cimbramento"
 
 [Grupo0.3E.04.06.00.00.00.00]
 code = "3E-04-06-00-00-00-00"
-subject = "Elem e ntos de escoramento"
+subject = "Elementos de escoramento"
 
 [Grupo0.3E.04.08.00.00.00.00]
 code = "3E-04-08-00-00-00-00"
-subject = "Elem e ntos de marcação"
+subject = "Elementos de marcação"
 
 [Grupo0.3E.04.10.00.00.00.00]
 code = "3E-04-10-00-00-00-00"
-subject = "Elem e ntos de man e jode resíduos"
+subject = "Elementos de man e jode resíduos"
 
 [Grupo0.3E.04.10.02.00.00.00]
 code = "3E-04-10-02-00-00-00"
-subject = "Elem e ntos de acondicionamentode resíduos"
+subject = "Elementos de acondicionamentode resíduos"
 
 [Grupo0.3E.06.00.00.00.00.00]
 code = "3E-06-00-00-00-00-00"
-subject = "Elem e ntos de drenag e m"
+subject = "Elementos de drenag e m"
 
 [Grupo0.3E.06.02.00.00.00.00]
 code = "3E-06-02-00-00-00-00"
-subject = "Elem e ntos de drenag em de transposição de talv e gu e s"
+subject = "Elementos de drenag em de transposição de talv e gu e s"
 
 [Grupo0.3E.06.02.02.00.00.00]
 code = "3E-06-02-02-00-00-00"
@@ -26306,15 +26306,15 @@ subject = "Pont e para transposição de talv e gu e s"
 
 [Grupo0.3E.06.04.00.00.00.00]
 code = "3E-06-04-00-00-00-00"
-subject = "Elem e ntos de drenag em sup e rcial"
+subject = "Elementos de drenag em sup e rcial"
 
 [Grupo0.3E.06.04.02.00.00.00]
 code = "3E-06-04-02-00-00-00"
-subject = "Val e tade prot e ção de corte"
+subject = "Val e tade Proteção de corte"
 
 [Grupo0.3E.06.04.04.00.00.00]
 code = "3E-06-04-04-00-00-00"
-subject = "Val e tade prot e ção de aterro"
+subject = "Val e tade Proteção de aterro"
 
 [Grupo0.3E.06.04.06.00.00.00]
 code = "3E-06-04-06-00-00-00"
@@ -26350,7 +26350,7 @@ subject = "Dissipa do r de energiade drenag em sup e rcial"
 
 [Grupo0.3E.06.04.20.02.00.00]
 code = "3E-06-04-20-02-00-00"
-subject = "Baciade amort e cim e nto"
+subject = "Baciade amort e cimento"
 
 [Grupo0.3E.06.04.20.04.00.00]
 code = "3E-06-04-20-04-00-00"
@@ -26366,7 +26366,7 @@ subject = "Dreno de alíviode muros de arrimo"
 
 [Grupo0.3E.06.06.00.00.00.00]
 code = "3E-06-06-00-00-00-00"
-subject = "Elem e ntos de drenag em do pavim e nto"
+subject = "Elementos de drenag em do pavimento"
 
 [Grupo0.3E.06.06.02.00.00.00]
 code = "3E-06-06-02-00-00-00"
@@ -26386,7 +26386,7 @@ subject = "Dreno transv e rsal"
 
 [Grupo0.3E.06.08.00.00.00.00]
 code = "3E-06-08-00-00-00-00"
-subject = "Elem e ntos de drenag em subt e rrân e a ou prounda"
+subject = "Elementos de drenag em subt e rrân e a ou prounda"
 
 [Grupo0.3E.06.08.02.00.00.00]
 code = "3E-06-08-02-00-00-00"
@@ -26422,7 +26422,7 @@ subject = "Dreno vertical"
 
 [Grupo0.3E.06.10.00.00.00.00]
 code = "3E-06-10-00-00-00-00"
-subject = "Elem e ntos de drenag em de trav e ssiaurbana"
+subject = "Elementos de drenag em de trav e ssiaurbana"
 
 [Grupo0.3E.06.10.02.00.00.00]
 code = "3E-06-10-02-00-00-00"
@@ -26438,7 +26438,7 @@ subject = "Poço-de-visita de drenag em de trav e ssiaurbana"
 
 [Grupo0.3E.06.12.00.00.00.00]
 code = "3E-06-12-00-00-00-00"
-subject = "Elem e ntos geotêxt e is"
+subject = "Elementos geotêxt e is"
 
 [Grupo0.3E.06.12.02.00.00.00]
 code = "3E-06-12-02-00-00-00"
@@ -26450,31 +26450,31 @@ subject = "Geotêxtil do tipo não tecido"
 
 [Grupo0.3E.08.00.00.00.00.00]
 code = "3E-08-00-00-00-00-00"
-subject = "Elem e ntos de tráego"
+subject = "Elementos de tráego"
 
 [Grupo0.3E.08.02.00.00.00.00]
 code = "3E-08-02-00-00-00-00"
-subject = "Elem e ntos de pavim e ntação"
+subject = "Elementos de pavim e ntação"
 
 [Grupo0.3E.08.02.02.00.00.00]
 code = "3E-08-02-02-00-00-00"
-subject = "Subl e ito de pavim e nto"
+subject = "Subl e ito de pavimento"
 
 [Grupo0.3E.08.02.04.00.00.00]
 code = "3E-08-02-04-00-00-00"
-subject = "Sub-base de pavim e nto"
+subject = "Sub-base de pavimento"
 
 [Grupo0.3E.08.02.06.00.00.00]
 code = "3E-08-02-06-00-00-00"
-subject = "Base de pavim e nto"
+subject = "Base de pavimento"
 
 [Grupo0.3E.08.02.08.00.00.00]
 code = "3E-08-02-08-00-00-00"
-subject = "Rolamentodo pavim e nto"
+subject = "Rolamentodo pavimento"
 
 [Grupo0.3E.08.04.00.00.00.00]
 code = "3E-08-04-00-00-00-00"
-subject = "Elem e ntos de balizamentode tráego"
+subject = "Elementos de balizamentode tráego"
 
 [Grupo0.3E.08.04.02.00.00.00]
 code = "3E-08-04-02-00-00-00"
@@ -26530,7 +26530,7 @@ subject = "Piso tátil alerta"
 
 [Grupo0.3E.08.06.00.00.00.00]
 code = "3E-08-06-00-00-00-00"
-subject = "Elem e ntos de con e xão de tráego"
+subject = "Elementos de con e xão de tráego"
 
 [Grupo0.3E.08.06.02.00.00.00]
 code = "3E-08-06-02-00-00-00"
@@ -26582,7 +26582,7 @@ subject = "Plataorma giratória"
 
 [Grupo0.3E.08.08.00.00.00.00]
 code = "3E-08-08-00-00-00-00"
-subject = "Elem e ntos de sinalização"
+subject = "Elementos de sinalização"
 
 [Grupo0.3E.08.08.02.00.00.00]
 code = "3E-08-08-02-00-00-00"
@@ -26618,11 +26618,11 @@ subject = "Sinalização futuante"
 
 [Grupo0.3E.10.00.00.00.00.00]
 code = "3E-10-00-00-00-00-00"
-subject = "Elem e ntos de undaçõ e s"
+subject = "Elementos de undaçõ e s"
 
 [Grupo0.3E.10.02.00.00.00.00]
 code = "3E-10-02-00-00-00-00"
-subject = "Elem e ntos de undaçõ e s dir e tas"
+subject = "Elementos de undaçõ e s dir e tas"
 
 [Grupo0.3E.10.02.02.00.00.00]
 code = "3E-10-02-02-00-00-00"
@@ -26642,7 +26642,7 @@ subject = "Radi e r"
 
 [Grupo0.3E.10.04.00.00.00.00]
 code = "3E-10-04-00-00-00-00"
-subject = "Elem e ntos de undaçõ e s proundas"
+subject = "Elementos de undaçõ e s proundas"
 
 [Grupo0.3E.10.04.02.00.00.00]
 code = "3E-10-04-02-00-00-00"
@@ -26694,11 +26694,11 @@ subject = "Caixão de undação"
 
 [Grupo0.3E.12.00.00.00.00.00]
 code = "3E-12-00-00-00-00-00"
-subject = "Elem e ntos de estruturas"
+subject = "Elementos de estruturas"
 
 [Grupo0.3E.12.02.00.00.00.00]
 code = "3E-12-02-00-00-00-00"
-subject = "Elem e ntos estruturaisde orma ativa"
+subject = "Elementos estruturaisde orma ativa"
 
 [Grupo0.3E.12.02.02.00.00.00]
 code = "3E-12-02-02-00-00-00"
@@ -26786,7 +26786,7 @@ subject = "Estrutura de retículas abobada da s"
 
 [Grupo0.3E.12.04.00.00.00.00]
 code = "3E-12-04-00-00-00-00"
-subject = "Elem e ntos estruturaisde vetor ativo"
+subject = "Elementos estruturaisde vetor ativo"
 
 [Grupo0.3E.12.04.02.00.00.00]
 code = "3E-12-04-02-00-00-00"
@@ -26806,7 +26806,7 @@ subject = "Treliça espacial"
 
 [Grupo0.3E.12.06.00.00.00.00]
 code = "3E-12-06-00-00-00-00"
-subject = "Elem e ntos estruturaisde seção ativa"
+subject = "Elementos estruturaisde seção ativa"
 
 [Grupo0.3E.12.06.02.00.00.00]
 code = "3E-12-06-02-00-00-00"
@@ -26834,7 +26834,7 @@ subject = "Laje"
 
 [Grupo0.3E.12.08.00.00.00.00]
 code = "3E-12-08-00-00-00-00"
-subject = "Elem e ntos estruturaisde sup e rície-ativa"
+subject = "Elementos estruturaisde sup e rície-ativa"
 
 [Grupo0.3E.12.08.02.00.00.00]
 code = "3E-12-08-02-00-00-00"
@@ -26862,7 +26862,7 @@ subject = "Casca ems e la"
 
 [Grupo0.3E.12.10.00.00.00.00]
 code = "3E-12-10-00-00-00-00"
-subject = "Elem e ntos estruturaisde altura-ativa"
+subject = "Elementos estruturaisde altura-ativa"
 
 [Grupo0.3E.12.10.02.00.00.00]
 code = "3E-12-10-02-00-00-00"
@@ -26874,7 +26874,7 @@ subject = "Pilar"
 
 [Grupo0.3E.12.12.00.00.00.00]
 code = "3E-12-12-00-00-00-00"
-subject = "Elem e ntos de acoplamento estrutural"
+subject = "Elementos de acoplamento estrutural"
 
 [Grupo0.3E.12.12.02.00.00.00]
 code = "3E-12-12-02-00-00-00"
@@ -26898,7 +26898,7 @@ subject = "Ancorag e m"
 
 [Grupo0.3E.14.00.00.00.00.00]
 code = "3E-14-00-00-00-00-00"
-subject = "Elem e ntos de vedaçõ e s"
+subject = "Elementos de vedaçõ e s"
 
 [Grupo0.3E.14.02.00.00.00.00]
 code = "3E-14-02-00-00-00-00"
@@ -26950,7 +26950,7 @@ subject = "Pontal e te"
 
 [Grupo0.3E.16.00.00.00.00.00]
 code = "3E-16-00-00-00-00-00"
-subject = "Elem e ntos de acabamentos"
+subject = "Elementos de acabamentos"
 
 [Grupo0.3E.16.02.00.00.00.00]
 code = "3E-16-02-00-00-00-00"
@@ -26962,7 +26962,7 @@ subject = "Contrapiso"
 
 [Grupo0.3E.16.02.04.00.00.00]
 code = "3E-16-02-04-00-00-00"
-subject = "Rev e stim e ntode piso"
+subject = "Rev e stimentode piso"
 
 [Grupo0.3E.16.02.06.00.00.00]
 code = "3E-16-02-06-00-00-00"
@@ -27018,31 +27018,31 @@ subject = "Sanca"
 
 [Grupo0.3E.18.00.00.00.00.00]
 code = "3E-18-00-00-00-00-00"
-subject = "Elem e ntos de imp e rm e abilização"
+subject = "Elementos de imp e rm e abilização"
 
 [Grupo0.3E.18.02.00.00.00.00]
 code = "3E-18-02-00-00-00-00"
-subject = "Elem e ntos de regularização da imp e rm e abilização"
+subject = "Elementos de regularização da imp e rm e abilização"
 
 [Grupo0.3E.18.04.00.00.00.00]
 code = "3E-18-04-00-00-00-00"
-subject = "Elem e ntos imp e rm e abilizante"
+subject = "Elementos imp e rm e abilizante"
 
 [Grupo0.3E.18.06.00.00.00.00]
 code = "3E-18-06-00-00-00-00"
-subject = "Elem e ntos de isolamento térmico da imp e rm e abilização"
+subject = "Elementos de isolamento térmico da imp e rm e abilização"
 
 [Grupo0.3E.18.08.00.00.00.00]
 code = "3E-18-08-00-00-00-00"
-subject = "Elem e ntos de prot e ção mecânica da imp e rm e abilização"
+subject = "Elementos de Proteção mecânica da imp e rm e abilização"
 
 [Grupo0.3E.20.00.00.00.00.00]
 code = "3E-20-00-00-00-00-00"
-subject = "Elem e ntos de aberturas"
+subject = "Elementos de aberturas"
 
 [Grupo0.3E.20.02.00.00.00.00]
 code = "3E-20-02-00-00-00-00"
-subject = "Elem e ntos de aberturas para circulação"
+subject = "Elementos de aberturas para circulação"
 
 [Grupo0.3E.20.02.02.00.00.00]
 code = "3E-20-02-02-00-00-00"
@@ -27078,7 +27078,7 @@ subject = "Alçapõ e s"
 
 [Grupo0.3E.20.04.00.00.00.00]
 code = "3E-20-04-00-00-00-00"
-subject = "Elem e ntos de aberturas para ventilação e iluminação natural"
+subject = "Elementos de aberturas para ventilação e iluminação natural"
 
 [Grupo0.3E.20.04.02.00.00.00]
 code = "3E-20-04-02-00-00-00"
@@ -27130,27 +27130,27 @@ subject = "Shed"
 
 [Grupo0.3E.22.00.00.00.00.00]
 code = "3E-22-00-00-00-00-00"
-subject = "Elem e ntos acústicos"
+subject = "Elementos acústicos"
 
 [Grupo0.3E.22.02.00.00.00.00]
 code = "3E-22-02-00-00-00-00"
-subject = "Elem e ntos absorve do r e s"
+subject = "Elementos absorve do r e s"
 
 [Grupo0.3E.22.04.00.00.00.00]
 code = "3E-22-04-00-00-00-00"
-subject = "Elem e ntos de barr e ira"
+subject = "Elementos de barr e ira"
 
 [Grupo0.3E.22.06.00.00.00.00]
 code = "3E-22-06-00-00-00-00"
-subject = "Elem e ntos atenua do r e s"
+subject = "Elementos atenua do r e s"
 
 [Grupo0.3E.22.08.00.00.00.00]
 code = "3E-22-08-00-00-00-00"
-subject = "Elem e ntos de enclausuramento"
+subject = "Elementos de enclausuramento"
 
 [Grupo0.3E.24.00.00.00.00.00]
 code = "3E-24-00-00-00-00-00"
-subject = "Elem e ntos de re de s de transmissão de eletrici da de"
+subject = "Elementos de re de s de transmissão de eletrici da de"
 
 [Grupo0.3E.24.02.00.00.00.00]
 code = "3E-24-02-00-00-00-00"
@@ -27170,11 +27170,11 @@ subject = "Transorma do r de distribuição"
 
 [Grupo0.3E.26.00.00.00.00.00]
 code = "3E-26-00-00-00-00-00"
-subject = "Elem e ntos de instalaçõ e s prediaisde eletrici da de"
+subject = "Elementos de instalaçõ e s prediaisde eletrici da de"
 
 [Grupo0.3E.26.02.00.00.00.00]
 code = "3E-26-02-00-00-00-00"
-subject = "Ramaisde orn e cim e nto de corr e nte"
+subject = "Ramaisde orn e cimento de corr e nte"
 
 [Grupo0.3E.26.02.02.00.00.00]
 code = "3E-26-02-02-00-00-00"
@@ -27190,7 +27190,7 @@ subject = "Ramal alim e nta do r"
 
 [Grupo0.3E.26.04.00.00.00.00]
 code = "3E-26-04-00-00-00-00"
-subject = "Elem e ntos para a int e rrupção de corr e nte"
+subject = "Elementos para a int e rrupção de corr e nte"
 
 [Grupo0.3E.26.04.02.00.00.00]
 code = "3E-26-04-02-00-00-00"
@@ -27198,7 +27198,7 @@ subject = "Fusív e is"
 
 [Grupo0.3E.26.04.02.02.00.00]
 code = "3E-26-04-02-02-00-00"
-subject = "Fusív e l paraprot e ção de uso geral"
+subject = "Fusív e l paraProteção de uso geral"
 
 [Grupo0.3E.26.04.02.04.00.00]
 code = "3E-26-04-02-04-00-00"
@@ -27206,7 +27206,7 @@ subject = "Fusív e l de circuitos motor e s"
 
 [Grupo0.3E.26.04.02.06.00.00]
 code = "3E-26-04-02-06-00-00"
-subject = "Fusív e l paraprot e ção de semicondutor e s"
+subject = "Fusív e l paraProteção de semicondutor e s"
 
 [Grupo0.3E.26.04.04.00.00.00]
 code = "3E-26-04-04-00-00-00"
@@ -27218,7 +27218,7 @@ subject = "Dispositivo dierencial-residual (DR)"
 
 [Grupo0.3E.26.06.00.00.00.00]
 code = "3E-26-06-00-00-00-00"
-subject = "Elem e ntos para o isolamento de corr e nte"
+subject = "Elementos para o isolamento de corr e nte"
 
 [Grupo0.3E.26.06.02.00.00.00]
 code = "3E-26-06-02-00-00-00"
@@ -27242,15 +27242,15 @@ subject = "Limita do r de sobr e t e nsõ e s"
 
 [Grupo0.3E.26.08.00.00.00.00]
 code = "3E-26-08-00-00-00-00"
-subject = "Elem e ntos para a estabilização de corr e nte"
+subject = "Elementos para a estabilização de corr e nte"
 
 [Grupo0.3E.26.08.02.00.00.00]
 code = "3E-26-08-02-00-00-00"
-subject = "Dispositivo de prot e ção contra sobr e t e nsõ e s elétricas (DPS-e)"
+subject = "Dispositivo de Proteção contra sobr e t e nsõ e s elétricas (DPS-e)"
 
 [Grupo0.3E.26.08.04.00.00.00]
 code = "3E-26-08-04-00-00-00"
-subject = "Dispositivo de prot e ção contra surtos"
+subject = "Dispositivo de Proteção contra surtos"
 
 [Grupo0.3E.26.08.06.00.00.00]
 code = "3E-26-08-06-00-00-00"
@@ -27258,7 +27258,7 @@ subject = "Barramentode equipot e ncialização principal (BEP)"
 
 [Grupo0.3E.26.10.00.00.00.00]
 code = "3E-26-10-00-00-00-00"
-subject = "Elem e ntos para disp e rsão de descargas elétricas"
+subject = "Elementos para disp e rsão de descargas elétricas"
 
 [Grupo0.3E.26.10.02.00.00.00]
 code = "3E-26-10-02-00-00-00"
@@ -27266,7 +27266,7 @@ subject = "Aterramentouncional"
 
 [Grupo0.3E.26.10.04.00.00.00]
 code = "3E-26-10-04-00-00-00"
-subject = "Aterramentode prot e ção"
+subject = "Aterramentode Proteção"
 
 [Grupo0.3E.26.10.06.00.00.00]
 code = "3E-26-10-06-00-00-00"
@@ -27314,7 +27314,7 @@ subject = "Caixa de equalização"
 
 [Grupo0.3E.26.12.00.00.00.00]
 code = "3E-26-12-00-00-00-00"
-subject = "Elem e ntos para a distribuição de corr e nte"
+subject = "Elementos para a distribuição de corr e nte"
 
 [Grupo0.3E.26.12.02.00.00.00]
 code = "3E-26-12-02-00-00-00"
@@ -27358,7 +27358,7 @@ subject = "Pain e l geral de baixa tensão"
 
 [Grupo0.3E.26.14.00.00.00.00]
 code = "3E-26-14-00-00-00-00"
-subject = "Elem e ntos para a transormação de corr e nte"
+subject = "Elementos para a transormação de corr e nte"
 
 [Grupo0.3E.26.14.02.00.00.00]
 code = "3E-26-14-02-00-00-00"
@@ -27374,7 +27374,7 @@ subject = "Transorma do r de potência"
 
 [Grupo0.3E.26.16.00.00.00.00]
 code = "3E-26-16-00-00-00-00"
-subject = "Elem e ntos para o acionamento de corr e nte"
+subject = "Elementos para o acionamento de corr e nte"
 
 [Grupo0.3E.26.16.02.00.00.00]
 code = "3E-26-16-02-00-00-00"
@@ -27386,11 +27386,11 @@ subject = "Controla do r e s de int e nsi da de - dimm e r"
 
 [Grupo0.3E.26.18.00.00.00.00]
 code = "3E-26-18-00-00-00-00"
-subject = "Elem e ntos para o orn e cim e ntode corr e nte"
+subject = "Elementos para o orn e cimentode corr e nte"
 
 [Grupo0.3E.26.20.00.00.00.00]
 code = "3E-26-20-00-00-00-00"
-subject = "Elem e ntos condutor e s de corr e nte"
+subject = "Elementos condutor e s de corr e nte"
 
 [Grupo0.3E.26.20.02.00.00.00]
 code = "3E-26-20-02-00-00-00"
@@ -27426,7 +27426,7 @@ subject = "Condutor pen"
 
 [Grupo0.3E.26.22.00.00.00.00]
 code = "3E-26-22-00-00-00-00"
-subject = "Elem e ntos para a prot e ção de condutor e s"
+subject = "Elementos para a Proteção de condutor e s"
 
 [Grupo0.3E.26.22.02.00.00.00]
 code = "3E-26-22-02-00-00-00"
@@ -27462,11 +27462,11 @@ subject = "Terminais"
 
 [Grupo0.3E.28.00.00.00.00.00]
 code = "3E-28-00-00-00-00-00"
-subject = "Elem e ntos de iluminação"
+subject = "Elementos de iluminação"
 
 [Grupo0.3E.28.02.00.00.00.00]
 code = "3E-28-02-00-00-00-00"
-subject = "Elem e ntos de iluminação de uso geral"
+subject = "Elementos de iluminação de uso geral"
 
 [Grupo0.3E.28.02.02.00.00.00]
 code = "3E-28-02-02-00-00-00"
@@ -27490,7 +27490,7 @@ subject = "Fluxo luminoso geral-diuso"
 
 [Grupo0.3E.28.04.00.00.00.00]
 code = "3E-28-04-00-00-00-00"
-subject = "Elem e ntos para modicar fuxos luminosos"
+subject = "Elementos para modicar fuxos luminosos"
 
 [Grupo0.3E.28.04.02.00.00.00]
 code = "3E-28-04-02-00-00-00"
@@ -27514,15 +27514,15 @@ subject = "Sup e ríci e louv e r"
 
 [Grupo0.3E.28.06.00.00.00.00]
 code = "3E-28-06-00-00-00-00"
-subject = "Elem e ntos de iluminação de emergência"
+subject = "Elementos de iluminação de emergência"
 
 [Grupo0.3E.30.00.00.00.00.00]
 code = "3E-30-00-00-00-00-00"
-subject = "Elem e ntos de ventilação e exaustão"
+subject = "Elementos de ventilação e exaustão"
 
 [Grupo0.3E.30.02.00.00.00.00]
 code = "3E-30-02-00-00-00-00"
-subject = "Elem e ntos de ventilação"
+subject = "Elementos de ventilação"
 
 [Grupo0.3E.30.02.02.00.00.00]
 code = "3E-30-02-02-00-00-00"
@@ -27534,7 +27534,7 @@ subject = "Ventila do r axial ou tipo hélice"
 
 [Grupo0.3E.30.04.00.00.00.00]
 code = "3E-30-04-00-00-00-00"
-subject = "Elem e ntos de exaustão"
+subject = "Elementos de exaustão"
 
 [Grupo0.3E.30.04.02.00.00.00]
 code = "3E-30-04-02-00-00-00"
@@ -27554,127 +27554,127 @@ subject = "Chaminé de exaustão"
 
 [Grupo0.3E.32.00.00.00.00.00]
 code = "3E-32-00-00-00-00-00"
-subject = "Elem e ntos de rede de distribuição de tele com unicaçõ e s"
+subject = "Elementos de rede de distribuição de tele com unicaçõ e s"
 
 [Grupo0.3E.32.02.00.00.00.00]
 code = "3E-32-02-00-00-00-00"
-subject = "Elem e ntos de rede de distribuição de teleonia"
+subject = "Elementos de rede de distribuição de teleonia"
 
 [Grupo0.3E.32.02.02.00.00.00]
 code = "3E-32-02-02-00-00-00"
-subject = "Elem e ntos da rede primáriade distribuição de teleonia"
+subject = "Elementos da rede primáriade distribuição de teleonia"
 
 [Grupo0.3E.32.02.04.00.00.00]
 code = "3E-32-02-04-00-00-00"
-subject = "Elem e ntos da rede secundáriade distribuição de teleonia"
+subject = "Elementos da rede secundáriade distribuição de teleonia"
 
 [Grupo0.3E.32.04.00.00.00.00]
 code = "3E-32-04-00-00-00-00"
-subject = "Elem e ntos para re de s de rádio"
+subject = "Elementos para re de s de rádio"
 
 [Grupo0.3E.32.06.00.00.00.00]
 code = "3E-32-06-00-00-00-00"
-subject = "Elem e ntos para re de s de tv"
+subject = "Elementos para re de s de tv"
 
 [Grupo0.3E.32.08.00.00.00.00]
 code = "3E-32-08-00-00-00-00"
-subject = "Elem e ntos para distribuição de int e rn e t"
+subject = "Elementos para distribuição de int e rn e t"
 
 [Grupo0.3E.34.00.00.00.00.00]
 code = "3E-34-00-00-00-00-00"
-subject = "Elem e ntos de instalaçõ e s prediaisde tele com unicaçõ e s"
+subject = "Elementos de instalaçõ e s prediaisde tele com unicaçõ e s"
 
 [Grupo0.3E.34.02.00.00.00.00]
 code = "3E-34-02-00-00-00-00"
-subject = "Elem e ntos de instalaçõ e s de teleonia"
+subject = "Elementos de instalaçõ e s de teleonia"
 
 [Grupo0.3E.34.02.02.00.00.00]
 code = "3E-34-02-02-00-00-00"
-subject = "Elem e ntos de entrada teleônica"
+subject = "Elementos de entrada teleônica"
 
 [Grupo0.3E.34.02.04.00.00.00]
 code = "3E-34-02-04-00-00-00"
-subject = "Elem e ntos de ramaisde entrada teleônica"
+subject = "Elementos de ramaisde entrada teleônica"
 
 [Grupo0.3E.34.02.06.00.00.00]
 code = "3E-34-02-06-00-00-00"
-subject = "Elem e ntos para distribuição int e rna de teleonia"
+subject = "Elementos para distribuição int e rna de teleonia"
 
 [Grupo0.3E.34.04.00.00.00.00]
 code = "3E-34-04-00-00-00-00"
-subject = "Elem e ntos para instalaçõ e s de int e rn e t"
+subject = "Elementos para instalaçõ e s de int e rn e t"
 
 [Grupo0.3E.34.06.00.00.00.00]
 code = "3E-34-06-00-00-00-00"
-subject = "Elem e ntos para instalaçõ e s de rec e pção de sinal de rádio"
+subject = "Elementos para instalaçõ e s de rec e pção de sinal de rádio"
 
 [Grupo0.3E.34.08.00.00.00.00]
 code = "3E-34-08-00-00-00-00"
-subject = "Elem e ntos para instalaçõ e s de rec e pção de sinal de tv"
+subject = "Elementos para instalaçõ e s de rec e pção de sinal de tv"
 
 [Grupo0.3E.36.00.00.00.00.00]
 code = "3E-36-00-00-00-00-00"
-subject = "Elem e ntos para sist em as de abast e cim e ntode água"
+subject = "Elementos para sist em as de abast e cimentode água"
 
 [Grupo0.3E.36.02.00.00.00.00]
 code = "3E-36-02-00-00-00-00"
-subject = "Elem e ntos para captação de água bruta"
+subject = "Elementos para captação de água bruta"
 
 [Grupo0.3E.36.04.00.00.00.00]
 code = "3E-36-04-00-00-00-00"
-subject = "Elem e ntos para adução de água bruta"
+subject = "Elementos para adução de água bruta"
 
 [Grupo0.3E.36.06.00.00.00.00]
 code = "3E-36-06-00-00-00-00"
-subject = "Elem e ntos para res e rvação de água bruta"
+subject = "Elementos para res e rvação de água bruta"
 
 [Grupo0.3E.36.08.00.00.00.00]
 code = "3E-36-08-00-00-00-00"
-subject = "Elem e ntos para tratamento de água bruta"
+subject = "Elementos para tratamento de água bruta"
 
 [Grupo0.3E.36.10.00.00.00.00]
 code = "3E-36-10-00-00-00-00"
-subject = "Elem e ntos para adução de água potável"
+subject = "Elementos para adução de água potável"
 
 [Grupo0.3E.36.12.00.00.00.00]
 code = "3E-36-12-00-00-00-00"
-subject = "Elem e ntos para res e rvação de água potável"
+subject = "Elementos para res e rvação de água potável"
 
 [Grupo0.3E.36.14.00.00.00.00]
 code = "3E-36-14-00-00-00-00"
-subject = "Elem e ntos para distribuição de água potável"
+subject = "Elementos para distribuição de água potável"
 
 [Grupo0.3E.36.14.02.00.00.00]
 code = "3E-36-14-02-00-00-00"
-subject = "Elem e ntos para distribuição dir e tade água potável"
+subject = "Elementos para distribuição dir e tade água potável"
 
 [Grupo0.3E.36.14.04.00.00.00]
 code = "3E-36-14-04-00-00-00"
-subject = "Elem e ntos para distribuição indir e tade água potável"
+subject = "Elementos para distribuição indir e tade água potável"
 
 [Grupo0.3E.36.14.04.02.00.00]
 code = "3E-36-14-04-02-00-00"
-subject = "Elem e ntos para distribuição indir e tade água potável sem bomb e amento"
+subject = "Elementos para distribuição indir e tade água potável sem bomb e amento"
 
 [Grupo0.3E.36.14.04.04.00.00]
 code = "3E-36-14-04-04-00-00"
-subject = "Elem e ntos para distribuição indir e tade água potável com bomb e amento"
+subject = "Elementos para distribuição indir e tade água potável com bomb e amento"
 
 [Grupo0.3E.36.14.06.00.00.00]
 code = "3E-36-14-06-00-00-00"
-subject = "Elem e ntos para distribuição mistade água potável"
+subject = "Elementos para distribuição mistade água potável"
 
 [Grupo0.3E.36.14.08.00.00.00]
 code = "3E-36-14-08-00-00-00"
-subject = "Elem e ntos para distribuição hidropn e umática de água potável"
+subject = "Elementos para distribuição hidropn e umática de água potável"
 
 [Grupo0.3E.38.00.00.00.00.00]
 code = "3E-38-00-00-00-00-00"
-subject = "Elem e ntos de instalaçõ e s hidráulicas"
+subject = "Elementos de instalaçõ e s hidráulicas"
 
 [Grupo0.3E.38.02.00.00.00.00]
 code = "3E-38-02-00-00-00-00"
-subject = "Elem e ntos alim e nta do r e s eminstalaçõ e s hidráulicas"
+subject = "Elementos alim e nta do r e s eminstalaçõ e s hidráulicas"
 
 [Grupo0.3E.38.02.02.00.00.00]
 code = "3E-38-02-02-00-00-00"
@@ -27706,7 +27706,7 @@ subject = "Dispositivo para ventilação de água"
 
 [Grupo0.3E.38.04.00.00.00.00]
 code = "3E-38-04-00-00-00-00"
-subject = "Elem e ntos extravasor e s eminstalaçõ e s hidráulicas"
+subject = "Elementos extravasor e s eminstalaçõ e s hidráulicas"
 
 [Grupo0.3E.38.04.02.00.00.00]
 code = "3E-38-04-02-00-00-00"
@@ -27714,11 +27714,11 @@ subject = "Tubulação para e xtravasão de água"
 
 [Grupo0.3E.38.04.04.00.00.00]
 code = "3E-38-04-04-00-00-00"
-subject = "Tubulação paralimp e za de água"
+subject = "Tubulação paraLimpeza de água"
 
 [Grupo0.3E.38.06.00.00.00.00]
 code = "3E-38-06-00-00-00-00"
-subject = "Elem e ntos distribui do r e s eminstalaçõ e s hidráulicas"
+subject = "Elementos distribui do r e s eminstalaçõ e s hidráulicas"
 
 [Grupo0.3E.38.06.02.00.00.00]
 code = "3E-38-06-02-00-00-00"
@@ -27750,11 +27750,11 @@ subject = "Sub-ramal de distribuição de água"
 
 [Grupo0.3E.38.08.00.00.00.00]
 code = "3E-38-08-00-00-00-00"
-subject = "Elem e ntos con e ctor e s eminstalaçõ e s hidráulicas"
+subject = "Elementos con e ctor e s eminstalaçõ e s hidráulicas"
 
 [Grupo0.3E.38.10.00.00.00.00]
 code = "3E-38-10-00-00-00-00"
-subject = "Elem e ntos aqu e ce do r e s para instalaçõ e s hidráulicas"
+subject = "Elementos aqu e ce do r e s para instalaçõ e s hidráulicas"
 
 [Grupo0.3E.38.10.02.00.00.00]
 code = "3E-38-10-02-00-00-00"
@@ -27782,31 +27782,31 @@ subject = "Aqu e ce do r a gás por acumulação para instalaçõ e s hidráulic
 
 [Grupo0.3E.38.12.00.00.00.00]
 code = "3E-38-12-00-00-00-00"
-subject = "Elem e ntos de isolamento térmico para instalaçõ e s hidráulicas"
+subject = "Elementos de isolamento térmico para instalaçõ e s hidráulicas"
 
 [Grupo0.3E.38.14.00.00.00.00]
 code = "3E-38-14-00-00-00-00"
-subject = "Elem e ntos controla do r e s de fuxo eminstalaçõ e s hidráulicas"
+subject = "Elementos controla do r e s de fuxo eminstalaçõ e s hidráulicas"
 
 [Grupo0.3E.38.16.00.00.00.00]
 code = "3E-38-16-00-00-00-00"
-subject = "Elem e ntos terminais em instalaçõ e s hidráulicas"
+subject = "Elementos terminais em instalaçõ e s hidráulicas"
 
 [Grupo0.3E.40.00.00.00.00.00]
 code = "3E-40-00-00-00-00-00"
-subject = "Elem e ntos de instalaçõ e s de água pluvial"
+subject = "Elementos de instalaçõ e s de água pluvial"
 
 [Grupo0.3E.40.02.00.00.00.00]
 code = "3E-40-02-00-00-00-00"
-subject = "Elem e ntos para captação de águas pluviais"
+subject = "Elementos para captação de águas pluviais"
 
 [Grupo0.3E.40.04.00.00.00.00]
 code = "3E-40-04-00-00-00-00"
-subject = "Elem e ntos para insp e ção de instalaçõ e s de água pluvial"
+subject = "Elementos para Inspeção de instalaçõ e s de água pluvial"
 
 [Grupo0.3E.40.06.00.00.00.00]
 code = "3E-40-06-00-00-00-00"
-subject = "Elem e ntos para tratamento de águas pluviais"
+subject = "Elementos para tratamento de águas pluviais"
 
 [Grupo0.3E.40.06.02.00.00.00]
 code = "3E-40-06-02-00-00-00"
@@ -27838,15 +27838,15 @@ subject = "Extravasor para aprov e itamentode águas pluviais"
 
 [Grupo0.3E.40.08.00.00.00.00]
 code = "3E-40-08-00-00-00-00"
-subject = "Elem e ntos para esgotamento de águas pluviais"
+subject = "Elementos para esgotamento de águas pluviais"
 
 [Grupo0.3E.42.00.00.00.00.00]
 code = "3E-42-00-00-00-00-00"
-subject = "Elem e ntos de instalaçõ e s sanitárias"
+subject = "Elementos de instalaçõ e s sanitárias"
 
 [Grupo0.3E.42.02.00.00.00.00]
 code = "3E-42-02-00-00-00-00"
-subject = "Elem e ntos controla do r e s de fuxo eminstalaçõ e s sanitárias"
+subject = "Elementos controla do r e s de fuxo eminstalaçõ e s sanitárias"
 
 [Grupo0.3E.42.02.02.00.00.00]
 code = "3E-42-02-02-00-00-00"
@@ -27878,7 +27878,7 @@ subject = "Registro ânguloab e rto"
 
 [Grupo0.3E.42.04.00.00.00.00]
 code = "3E-42-04-00-00-00-00"
-subject = "Elem e ntos col e tor e s eminstalaçõ e s sanitárias"
+subject = "Elementos col e tor e s eminstalaçõ e s sanitárias"
 
 [Grupo0.3E.42.04.02.00.00.00]
 code = "3E-42-04-02-00-00-00"
@@ -27890,7 +27890,7 @@ subject = "Sub-col e tor de instalação sanitária"
 
 [Grupo0.3E.42.06.00.00.00.00]
 code = "3E-42-06-00-00-00-00"
-subject = "Elem e ntos distribui do r e s eminstalaçõ e s sanitárias"
+subject = "Elementos distribui do r e s eminstalaçõ e s sanitárias"
 
 [Grupo0.3E.42.06.02.00.00.00]
 code = "3E-42-06-02-00-00-00"
@@ -27918,11 +27918,11 @@ subject = "Coluna de queda de instalação sanitária"
 
 [Grupo0.3E.42.08.00.00.00.00]
 code = "3E-42-08-00-00-00-00"
-subject = "Elem e ntos con e ctor e s eminstalaçõ e s sanitárias"
+subject = "Elementos con e ctor e s eminstalaçõ e s sanitárias"
 
 [Grupo0.3E.42.10.00.00.00.00]
 code = "3E-42-10-00-00-00-00"
-subject = "Elem e ntos para ventilação eminstalaçõ e s sanitárias"
+subject = "Elementos para ventilação eminstalaçõ e s sanitárias"
 
 [Grupo0.3E.42.10.02.00.00.00]
 code = "3E-42-10-02-00-00-00"
@@ -27942,11 +27942,11 @@ subject = "Ventila do r secundário de instalação sanitária"
 
 [Grupo0.3E.42.12.00.00.00.00]
 code = "3E-42-12-00-00-00-00"
-subject = "Elem e ntos de insp e ção de instalaçõ e s sanitárias"
+subject = "Elementos de Inspeção de instalaçõ e s sanitárias"
 
 [Grupo0.3E.42.14.00.00.00.00]
 code = "3E-42-14-00-00-00-00"
-subject = "Elem e ntos de reúso de águas cinzas"
+subject = "Elementos de reúso de águas cinzas"
 
 [Grupo0.3E.42.14.02.00.00.00]
 code = "3E-42-14-02-00-00-00"
@@ -27966,7 +27966,7 @@ subject = "Terminal de reúso de águas cinzas"
 
 [Grupo0.3E.42.16.00.00.00.00]
 code = "3E-42-16-00-00-00-00"
-subject = "Elem e ntos para esgotamento sanitáriolocal"
+subject = "Elementos para esgotamento sanitáriolocal"
 
 [Grupo0.3E.42.16.02.00.00.00]
 code = "3E-42-16-02-00-00-00"
@@ -27998,7 +27998,7 @@ subject = "Fossa negra"
 
 [Grupo0.3E.42.18.00.00.00.00]
 code = "3E-42-18-00-00-00-00"
-subject = "Elem e ntos para esgotamento sanitárioviar e de col e tora"
+subject = "Elementos para esgotamento sanitárioviar e de col e tora"
 
 [Grupo0.3E.42.18.02.00.00.00]
 code = "3E-42-18-02-00-00-00"
@@ -28014,11 +28014,11 @@ subject = "Ligação predial para a rede col e tora de esgoto"
 
 [Grupo0.3E.44.00.00.00.00.00]
 code = "3E-44-00-00-00-00-00"
-subject = "Elem e ntos da rede de esgotamentosanitário"
+subject = "Elementos da rede de esgotamentosanitário"
 
 [Grupo0.3E.44.02.00.00.00.00]
 code = "3E-44-02-00-00-00-00"
-subject = "Elem e ntos col e tor e s de esgoto"
+subject = "Elementos col e tor e s de esgoto"
 
 [Grupo0.3E.44.02.02.00.00.00]
 code = "3E-44-02-02-00-00-00"
@@ -28050,7 +28050,7 @@ subject = "Dispositivo acessóriode rede col e torade esgoto"
 
 [Grupo0.3E.44.04.00.00.00.00]
 code = "3E-44-04-00-00-00-00"
-subject = "Elem e ntos para tratamento de esgoto"
+subject = "Elementos para tratamento de esgoto"
 
 [Grupo0.3E.44.04.02.00.00.00]
 code = "3E-44-04-02-00-00-00"
@@ -28082,15 +28082,15 @@ subject = "Emissáriode estação de tratamentode esgoto"
 
 [Grupo0.3E.48.00.00.00.00.00]
 code = "3E-48-00-00-00-00-00"
-subject = "Elem e ntos de tratamentode resíduos sóli do s"
+subject = "Elementos de tratamentode resíduos sóli do s"
 
 [Grupo0.3E.48.02.00.00.00.00]
 code = "3E-48-02-00-00-00-00"
-subject = "Elem e ntos para sist em as de col e tade resíduos sóli do s"
+subject = "Elementos para sist em as de col e tade resíduos sóli do s"
 
 [Grupo0.3E.48.04.00.00.00.00]
 code = "3E-48-04-00-00-00-00"
-subject = "Elem e ntos para tratamento mecânico de resíduos sóli do s"
+subject = "Elementos para tratamento mecânico de resíduos sóli do s"
 
 [Grupo0.3E.48.04.02.00.00.00]
 code = "3E-48-04-02-00-00-00"
@@ -28098,7 +28098,7 @@ subject = "Compacta do r de resíduos sóli do s"
 
 [Grupo0.3E.48.06.00.00.00.00]
 code = "3E-48-06-00-00-00-00"
-subject = "Elem e ntos para tratamento bioquímico de resíduos sóli do s"
+subject = "Elementos para tratamento bioquímico de resíduos sóli do s"
 
 [Grupo0.3E.48.06.02.00.00.00]
 code = "3E-48-06-02-00-00-00"
@@ -28106,7 +28106,7 @@ subject = "Compost e ira de resíduos sóli do s"
 
 [Grupo0.3E.48.08.00.00.00.00]
 code = "3E-48-08-00-00-00-00"
-subject = "Elem e ntos para tratamento térmico de resíduos sóli do s"
+subject = "Elementos para tratamento térmico de resíduos sóli do s"
 
 [Grupo0.3E.48.08.02.00.00.00]
 code = "3E-48-08-02-00-00-00"
@@ -28114,15 +28114,15 @@ subject = "Forno de incin e ração de resíduos sóli do s"
 
 [Grupo0.3E.48.10.00.00.00.00]
 code = "3E-48-10-00-00-00-00"
-subject = "Elem e ntos para a destinação de resíduos sóli do s"
+subject = "Elementos para a destinação de resíduos sóli do s"
 
 [Grupo0.3E.50.00.00.00.00.00]
 code = "3E-50-00-00-00-00-00"
-subject = "Elem e ntos de sist em as de rerig e ração"
+subject = "Elementos de sist em as de rerig e ração"
 
 [Grupo0.3E.50.02.00.00.00.00]
 code = "3E-50-02-00-00-00-00"
-subject = "Elem e ntos de distribuição emsist em as de rerig e ração"
+subject = "Elementos de distribuição emsist em as de rerig e ração"
 
 [Grupo0.3E.50.02.02.00.00.00]
 code = "3E-50-02-02-00-00-00"
@@ -28142,7 +28142,7 @@ subject = "Dutoconv e ncional retangular apar e nte"
 
 [Grupo0.3E.50.04.00.00.00.00]
 code = "3E-50-04-00-00-00-00"
-subject = "Elem e ntos para diusão de ar"
+subject = "Elementos para diusão de ar"
 
 [Grupo0.3E.50.04.02.00.00.00]
 code = "3E-50-04-02-00-00-00"
@@ -28174,7 +28174,7 @@ subject = "Ventila do r para distribuição de ar"
 
 [Grupo0.3E.50.06.00.00.00.00]
 code = "3E-50-06-00-00-00-00"
-subject = "Elem e ntos para troca de calor de sist em as de rerig e ração"
+subject = "Elementos para troca de calor de sist em as de rerig e ração"
 
 [Grupo0.3E.50.06.02.00.00.00]
 code = "3E-50-06-02-00-00-00"
@@ -28186,7 +28186,7 @@ subject = "Cond e nsa do r paratroca de calor de sist em as de rerig e raçã
 
 [Grupo0.3E.50.08.00.00.00.00]
 code = "3E-50-08-00-00-00-00"
-subject = "Elem e ntos de compr e ssão de sist em as de rerig e ração"
+subject = "Elementos de compr e ssão de sist em as de rerig e ração"
 
 [Grupo0.3E.50.08.02.00.00.00]
 code = "3E-50-08-02-00-00-00"
@@ -28210,7 +28210,7 @@ subject = "Compr e ssor scroll"
 
 [Grupo0.3E.50.10.00.00.00.00]
 code = "3E-50-10-00-00-00-00"
-subject = "Elem e ntos de expansão de sist em as de rerig e ração"
+subject = "Elementos de expansão de sist em as de rerig e ração"
 
 [Grupo0.3E.50.10.02.00.00.00]
 code = "3E-50-10-02-00-00-00"
@@ -28250,7 +28250,7 @@ subject = "Dreno de expansão de sist em as de rerig e ração"
 
 [Grupo0.3E.50.12.00.00.00.00]
 code = "3E-50-12-00-00-00-00"
-subject = "Elem e ntos de sist em as de água gelada emsist em as de rerig e ração"
+subject = "Elementos de sist em as de água gelada emsist em as de rerig e ração"
 
 [Grupo0.3E.50.12.02.00.00.00]
 code = "3E-50-12-02-00-00-00"
@@ -28290,7 +28290,7 @@ subject = "Tanque de expansão"
 
 [Grupo0.3E.50.14.00.00.00.00]
 code = "3E-50-14-00-00-00-00"
-subject = "Elem e ntos de expansão dir e ta- cond e nsação a água"
+subject = "Elementos de expansão dir e ta- cond e nsação a água"
 
 [Grupo0.3E.50.14.02.00.00.00]
 code = "3E-50-14-02-00-00-00"
@@ -28302,7 +28302,7 @@ subject = "Caixa d’água de cond e nsação a água"
 
 [Grupo0.3E.50.16.00.00.00.00]
 code = "3E-50-16-00-00-00-00"
-subject = "Elem e ntos de expansão dir e ta- unidades compactas"
+subject = "Elementos de expansão dir e ta- unidades compactas"
 
 [Grupo0.3E.50.16.02.00.00.00]
 code = "3E-50-16-02-00-00-00"
@@ -28338,7 +28338,7 @@ subject = "Válvulade ret e nção para unidades compactas"
 
 [Grupo0.3E.50.18.00.00.00.00]
 code = "3E-50-18-00-00-00-00"
-subject = "Elem e ntos para sist em as de expansão indir e ta de água gelada"
+subject = "Elementos para sist em as de expansão indir e ta de água gelada"
 
 [Grupo0.3E.50.18.02.00.00.00]
 code = "3E-50-18-02-00-00-00"
@@ -28386,7 +28386,7 @@ subject = "Válvulade três vias parasist em as de expansão indir e tade água 
 
 [Grupo0.3E.50.20.00.00.00.00]
 code = "3E-50-20-00-00-00-00"
-subject = "Elem e ntos para instalação central de água gelada"
+subject = "Elementos para instalação central de água gelada"
 
 [Grupo0.3E.50.20.02.00.00.00]
 code = "3E-50-20-02-00-00-00"
@@ -28450,11 +28450,11 @@ subject = "Amort e ce do r de vibração para instalação central de água gela
 
 [Grupo0.3E.52.00.00.00.00.00]
 code = "3E-52-00-00-00-00-00"
-subject = "Elem e ntos de sist em as de aqu e cim e nto"
+subject = "Elementos de sist em as de aqu e cimento"
 
 [Grupo0.3E.52.02.00.00.00.00]
 code = "3E-52-02-00-00-00-00"
-subject = "Elem e ntos para sist em as de aqu e cim e ntosolar ativo"
+subject = "Elementos para sist em as de aqu e cimentosolar ativo"
 
 [Grupo0.3E.52.02.02.00.00.00]
 code = "3E-52-02-02-00-00-00"
@@ -28462,131 +28462,131 @@ subject = "Col e tor de placa plana"
 
 [Grupo0.3E.52.02.04.00.00.00]
 code = "3E-52-02-04-00-00-00"
-subject = "Tanque de armaz e namentopara líquido quente"
+subject = "Tanque de Armazenamentopara líquido quente"
 
 [Grupo0.3E.52.02.06.00.00.00]
 code = "3E-52-02-06-00-00-00"
-subject = "Bomba parasist em as de aqu e cim e ntosolar ativo"
+subject = "Bomba parasist em as de aqu e cimentosolar ativo"
 
 [Grupo0.3E.52.02.08.00.00.00]
 code = "3E-52-02-08-00-00-00"
-subject = "Ventila do r para sist em as de aqu e cim e ntosolar ativo"
+subject = "Ventila do r para sist em as de aqu e cimentosolar ativo"
 
 [Grupo0.3E.52.02.10.00.00.00]
 code = "3E-52-02-10-00-00-00"
-subject = "Serp e ntina para sist em as de aqu e cim e ntosolar ativo"
+subject = "Serp e ntina para sist em as de aqu e cimentosolar ativo"
 
 [Grupo0.3E.52.02.12.00.00.00]
 code = "3E-52-02-12-00-00-00"
-subject = "Dutopara sist em as de aqu e cim e ntosolar ativo"
+subject = "Dutopara sist em as de aqu e cimentosolar ativo"
 
 [Grupo0.3E.52.02.14.00.00.00]
 code = "3E-52-02-14-00-00-00"
-subject = "Diusor parasist em as de aqu e cim e ntosolar ativo"
+subject = "Diusor parasist em as de aqu e cimentosolar ativo"
 
 [Grupo0.3E.52.04.00.00.00.00]
 code = "3E-52-04-00-00-00-00"
-subject = "Elem e ntos para sist em as de aqu e cim e ntohidrônico por água quente"
+subject = "Elementos para sist em as de aqu e cimentohidrônico por água quente"
 
 [Grupo0.3E.52.04.02.00.00.00]
 code = "3E-52-04-02-00-00-00"
-subject = "Cald e ira parasist em as de aqu e cim e ntohidrônico por água quente"
+subject = "Cald e ira parasist em as de aqu e cimentohidrônico por água quente"
 
 [Grupo0.3E.52.04.04.00.00.00]
 code = "3E-52-04-04-00-00-00"
-subject = "Tanque de compr e ssão para sist em as de aqu e cim e ntohidrônico por água quente"
+subject = "Tanque de compr e ssão para sist em as de aqu e cimentohidrônico por água quente"
 
 [Grupo0.3E.52.04.06.00.00.00]
 code = "3E-52-04-06-00-00-00"
-subject = "Bomba parasist em as de aqu e cim e ntohidrônico por água quente"
+subject = "Bomba parasist em as de aqu e cimentohidrônico por água quente"
 
 [Grupo0.3E.52.04.08.00.00.00]
 code = "3E-52-04-08-00-00-00"
-subject = "Ramal de distribuição para sist em as de aqu e cim e ntohidrônico por água quente"
+subject = "Ramal de distribuição para sist em as de aqu e cimentohidrônico por água quente"
 
 [Grupo0.3E.52.04.10.00.00.00]
 code = "3E-52-04-10-00-00-00"
-subject = "Válvulade pressão para sist em as de aqu e cim e ntohidrônico por água quente"
+subject = "Válvulade pressão para sist em as de aqu e cimentohidrônico por água quente"
 
 [Grupo0.3E.52.04.12.00.00.00]
 code = "3E-52-04-12-00-00-00"
-subject = "Válvulade control e para sist em as de aqu e cim e ntohidrônico por água quente"
+subject = "Válvulade control e para sist em as de aqu e cimentohidrônico por água quente"
 
 [Grupo0.3E.52.04.14.00.00.00]
 code = "3E-52-04-14-00-00-00"
-subject = "Radia do r de calor parasist em as de aqu e cim e ntohidrônico por água quente"
+subject = "Radia do r de calor parasist em as de aqu e cimentohidrônico por água quente"
 
 [Grupo0.3E.52.06.00.00.00.00]
 code = "3E-52-06-00-00-00-00"
-subject = "Elem e ntos para sist em as de aqu e cim e ntoa vapor"
+subject = "Elementos para sist em as de aqu e cimentoa vapor"
 
 [Grupo0.3E.52.06.02.00.00.00]
 code = "3E-52-06-02-00-00-00"
-subject = "Cald e ira parasist em as de aqu e cim e ntoa vapor"
+subject = "Cald e ira parasist em as de aqu e cimentoa vapor"
 
 [Grupo0.3E.52.06.04.00.00.00]
 code = "3E-52-06-04-00-00-00"
-subject = "Bomba de vácuo para sist em as de aqu e cim e ntoa vapor"
+subject = "Bomba de vácuo para sist em as de aqu e cimentoa vapor"
 
 [Grupo0.3E.52.06.06.00.00.00]
 code = "3E-52-06-06-00-00-00"
-subject = "Ramal de alim e ntação para sist em as de aqu e cim e ntoa vapor"
+subject = "Ramal de alim e ntação para sist em as de aqu e cimentoa vapor"
 
 [Grupo0.3E.52.06.08.00.00.00]
 code = "3E-52-06-08-00-00-00"
-subject = "Ramal de retorno da água para sist em as de aqu e cim e ntoa vapor"
+subject = "Ramal de retorno da água para sist em as de aqu e cimentoa vapor"
 
 [Grupo0.3E.52.06.10.00.00.00]
 code = "3E-52-06-10-00-00-00"
-subject = "Válvulade control e para sist em as de aqu e cim e ntoa vapor"
+subject = "Válvulade control e para sist em as de aqu e cimentoa vapor"
 
 [Grupo0.3E.52.06.12.00.00.00]
 code = "3E-52-06-12-00-00-00"
-subject = "Radia do r para sist em as de aqu e cim e ntoa vapor"
+subject = "Radia do r para sist em as de aqu e cimentoa vapor"
 
 [Grupo0.3E.52.08.00.00.00.00]
 code = "3E-52-08-00-00-00-00"
-subject = "Elem e ntos para sist em as de aqu e cim e ntopor ar quente"
+subject = "Elementos para sist em as de aqu e cimentopor ar quente"
 
 [Grupo0.3E.52.08.02.00.00.00]
 code = "3E-52-08-02-00-00-00"
-subject = "Combustor para sist em as de aqu e cim e ntopor ar quente"
+subject = "Combustor para sist em as de aqu e cimentopor ar quente"
 
 [Grupo0.3E.52.08.04.00.00.00]
 code = "3E-52-08-04-00-00-00"
-subject = "Ventila do r para sist em as de aqu e cim e ntopor ar quente"
+subject = "Ventila do r para sist em as de aqu e cimentopor ar quente"
 
 [Grupo0.3E.52.08.06.00.00.00]
 code = "3E-52-08-06-00-00-00"
-subject = "Filtro de poeira parasist em as de aqu e cim e ntopor ar quente"
+subject = "Filtro de poeira parasist em as de aqu e cimentopor ar quente"
 
 [Grupo0.3E.52.08.08.00.00.00]
 code = "3E-52-08-08-00-00-00"
-subject = "Tanque de óleo para sist em as de aqu e cim e ntopor ar quente"
+subject = "Tanque de óleo para sist em as de aqu e cimentopor ar quente"
 
 [Grupo0.3E.52.08.10.00.00.00]
 code = "3E-52-08-10-00-00-00"
-subject = "Dutode insufamento para sist em as de aqu e cim e ntopor ar quente"
+subject = "Dutode insufamento para sist em as de aqu e cimentopor ar quente"
 
 [Grupo0.3E.52.08.12.00.00.00]
 code = "3E-52-08-12-00-00-00"
-subject = "Dutode retorno parasist em as de aqu e cim e ntopor ar quente"
+subject = "Dutode retorno parasist em as de aqu e cimentopor ar quente"
 
 [Grupo0.3E.54.00.00.00.00.00]
 code = "3E-54-00-00-00-00-00"
-subject = "Elem e ntos de instalaçõ e s de gas e s"
+subject = "Elementos de instalaçõ e s de gas e s"
 
 [Grupo0.3E.54.02.00.00.00.00]
 code = "3E-54-02-00-00-00-00"
-subject = "Elem e ntos para instalaçõ e s de gas e s combustív e is"
+subject = "Elementos para instalaçõ e s de gas e s combustív e is"
 
 [Grupo0.3E.54.02.02.00.00.00]
 code = "3E-54-02-02-00-00-00"
-subject = "Elem e ntos alim e nta do r e s eminstalaçõ e s de gas e s combustív e is"
+subject = "Elementos alim e nta do r e s eminstalaçõ e s de gas e s combustív e is"
 
 [Grupo0.3E.54.02.04.00.00.00]
 code = "3E-54-02-04-00-00-00"
-subject = "Elem e ntos distribui do r e s eminstalaçõ e s de gas e s combustív e is"
+subject = "Elementos distribui do r e s eminstalaçõ e s de gas e s combustív e is"
 
 [Grupo0.3E.54.02.04.02.00.00]
 code = "3E-54-02-04-02-00-00"
@@ -28602,11 +28602,11 @@ subject = "Sub-ramal de distribuição de gas e s combustív e is"
 
 [Grupo0.3E.54.02.06.00.00.00]
 code = "3E-54-02-06-00-00-00"
-subject = "Elem e ntos con e ctor e s eminstalaçõ e s de gas e s combustív e is"
+subject = "Elementos con e ctor e s eminstalaçõ e s de gas e s combustív e is"
 
 [Grupo0.3E.54.02.08.00.00.00]
 code = "3E-54-02-08-00-00-00"
-subject = "Elem e ntos controla do r e s de fuxo eminstalaçõ e s de gas e s combustív e is"
+subject = "Elementos controla do r e s de fuxo eminstalaçõ e s de gas e s combustív e is"
 
 [Grupo0.3E.54.02.08.02.00.00]
 code = "3E-54-02-08-02-00-00"
@@ -28618,7 +28618,7 @@ subject = "Regula do r col e tivo parainstalação de gas e s combustív e is"
 
 [Grupo0.3E.54.02.10.00.00.00]
 code = "3E-54-02-10-00-00-00"
-subject = "Elem e ntos medi do r e s de consumo eminstalaçõ e s de gas e s combustív e is"
+subject = "Elementos medi do r e s de consumo eminstalaçõ e s de gas e s combustív e is"
 
 [Grupo0.3E.54.02.10.02.00.00]
 code = "3E-54-02-10-02-00-00"
@@ -28630,35 +28630,35 @@ subject = "Medi do r col e tivo parainstalação de gas e s combustív e is"
 
 [Grupo0.3E.54.02.12.00.00.00]
 code = "3E-54-02-12-00-00-00"
-subject = "Elem e ntos terminais em instalaçõ e s de gas e s combustív e is"
+subject = "Elementos terminais em instalaçõ e s de gas e s combustív e is"
 
 [Grupo0.3E.54.04.00.00.00.00]
 code = "3E-54-04-00-00-00-00"
-subject = "Elem e ntos para instalaçõ e s de gas e s medicinais"
+subject = "Elementos para instalaçõ e s de gas e s medicinais"
 
 [Grupo0.3E.54.04.02.00.00.00]
 code = "3E-54-04-02-00-00-00"
-subject = "Elem e ntos alim e nta do r e s eminstalaçõ e s de gas e s medicinais"
+subject = "Elementos alim e nta do r e s eminstalaçõ e s de gas e s medicinais"
 
 [Grupo0.3E.54.04.04.00.00.00]
 code = "3E-54-04-04-00-00-00"
-subject = "Elem e ntos para tratamento em instalaçõ e s de gas e s medicinais"
+subject = "Elementos para tratamento em instalaçõ e s de gas e s medicinais"
 
 [Grupo0.3E.54.04.06.00.00.00]
 code = "3E-54-04-06-00-00-00"
-subject = "Elem e ntos distribui do r e s eminstalaçõ e s de gas e s medicinais"
+subject = "Elementos distribui do r e s eminstalaçõ e s de gas e s medicinais"
 
 [Grupo0.3E.54.04.08.00.00.00]
 code = "3E-54-04-08-00-00-00"
-subject = "Elem e ntos con e ctor e s eminstalaçõ e s de gas e s medicinais"
+subject = "Elementos con e ctor e s eminstalaçõ e s de gas e s medicinais"
 
 [Grupo0.3E.54.04.10.00.00.00]
 code = "3E-54-04-10-00-00-00"
-subject = "Elem e ntos controla do r e s de fuxo eminstalaçõ e s de gas e s medicinais"
+subject = "Elementos controla do r e s de fuxo eminstalaçõ e s de gas e s medicinais"
 
 [Grupo0.3E.54.04.12.00.00.00]
 code = "3E-54-04-12-00-00-00"
-subject = "Elem e ntos para monitoramentode instalaçõ e s de gas e s medicinais"
+subject = "Elementos para monitoramentode instalaçõ e s de gas e s medicinais"
 
 [Grupo0.3E.54.04.12.02.00.00]
 code = "3E-54-04-12-02-00-00"
@@ -28670,35 +28670,35 @@ subject = "Pain e l rep e ti do r de alarme para instalaçõ e s prediais de gas
 
 [Grupo0.3E.54.04.14.00.00.00]
 code = "3E-54-04-14-00-00-00"
-subject = "Elem e ntos terminais em instalaçõ e s de gas e s medicinais"
+subject = "Elementos terminais em instalaçõ e s de gas e s medicinais"
 
 [Grupo0.3E.54.06.00.00.00.00]
 code = "3E-54-06-00-00-00-00"
-subject = "Elem e ntos para instalaçõ e s de gas e s industriais"
+subject = "Elementos para instalaçõ e s de gas e s industriais"
 
 [Grupo0.3E.54.06.02.00.00.00]
 code = "3E-54-06-02-00-00-00"
-subject = "Elem e ntos alim e nta do r e s eminstalaçõ e s de gas e s industriais"
+subject = "Elementos alim e nta do r e s eminstalaçõ e s de gas e s industriais"
 
 [Grupo0.3E.54.06.04.00.00.00]
 code = "3E-54-06-04-00-00-00"
-subject = "Elem e ntos para tratamento em instalaçõ e s de gas e s industriais"
+subject = "Elementos para tratamento em instalaçõ e s de gas e s industriais"
 
 [Grupo0.3E.54.06.06.00.00.00]
 code = "3E-54-06-06-00-00-00"
-subject = "Elem e ntos distribui do r e s eminstalaçõ e s de gas e s industriais"
+subject = "Elementos distribui do r e s eminstalaçõ e s de gas e s industriais"
 
 [Grupo0.3E.54.06.08.00.00.00]
 code = "3E-54-06-08-00-00-00"
-subject = "Elem e ntos con e ctor e s eminstalaçõ e s de gas e s industriais"
+subject = "Elementos con e ctor e s eminstalaçõ e s de gas e s industriais"
 
 [Grupo0.3E.54.06.10.00.00.00]
 code = "3E-54-06-10-00-00-00"
-subject = "Elem e ntos controla do r e s de fuxo eminstalaçõ e s de gas e s industriais"
+subject = "Elementos controla do r e s de fuxo eminstalaçõ e s de gas e s industriais"
 
 [Grupo0.3E.54.06.12.00.00.00]
 code = "3E-54-06-12-00-00-00"
-subject = "Elem e ntos para monitoramentode instalaçõ e s de gas e s industriais"
+subject = "Elementos para monitoramentode instalaçõ e s de gas e s industriais"
 
 [Grupo0.3E.54.06.12.02.00.00]
 code = "3E-54-06-12-02-00-00"
@@ -28710,35 +28710,35 @@ subject = "Pain e l rep e ti do r de alarme para instalaçõ e s prediais de gas
 
 [Grupo0.3E.54.06.14.00.00.00]
 code = "3E-54-06-14-00-00-00"
-subject = "Elem e ntos terminais em instalaçõ e s de gas e s industriais"
+subject = "Elementos terminais em instalaçõ e s de gas e s industriais"
 
 [Grupo0.3E.54.08.00.00.00.00]
 code = "3E-54-08-00-00-00-00"
-subject = "Elem e ntos para instalaçõ e s de gas e s esp e ciais"
+subject = "Elementos para instalaçõ e s de gas e s esp e ciais"
 
 [Grupo0.3E.54.08.02.00.00.00]
 code = "3E-54-08-02-00-00-00"
-subject = "Elem e ntos alim e nta do r e s eminstalaçõ e s de gas e s esp e ciais"
+subject = "Elementos alim e nta do r e s eminstalaçõ e s de gas e s esp e ciais"
 
 [Grupo0.3E.54.08.04.00.00.00]
 code = "3E-54-08-04-00-00-00"
-subject = "Elem e ntos para tratamento em instalaçõ e s de gas e s esp e ciais"
+subject = "Elementos para tratamento em instalaçõ e s de gas e s esp e ciais"
 
 [Grupo0.3E.54.08.06.00.00.00]
 code = "3E-54-08-06-00-00-00"
-subject = "Elem e ntos distribui do r e s eminstalaçõ e s de gas e s esp e ciais"
+subject = "Elementos distribui do r e s eminstalaçõ e s de gas e s esp e ciais"
 
 [Grupo0.3E.54.08.08.00.00.00]
 code = "3E-54-08-08-00-00-00"
-subject = "Elem e ntos con e ctor e s eminstalaçõ e s de gas e s esp e ciais"
+subject = "Elementos con e ctor e s eminstalaçõ e s de gas e s esp e ciais"
 
 [Grupo0.3E.54.08.10.00.00.00]
 code = "3E-54-08-10-00-00-00"
-subject = "Elem e ntos controla do r e s de fuxo eminstalaçõ e s de gas e s esp e ciais"
+subject = "Elementos controla do r e s de fuxo eminstalaçõ e s de gas e s esp e ciais"
 
 [Grupo0.3E.54.08.12.00.00.00]
 code = "3E-54-08-12-00-00-00"
-subject = "Elem e ntos para monitoramentode instalaçõ e s de gas e s esp e ciais"
+subject = "Elementos para monitoramentode instalaçõ e s de gas e s esp e ciais"
 
 [Grupo0.3E.54.08.12.02.00.00]
 code = "3E-54-08-12-02-00-00"
@@ -28750,19 +28750,19 @@ subject = "Pain e l rep e ti do r de alarme para instalaçõ e s prediais de gas
 
 [Grupo0.3E.54.08.14.00.00.00]
 code = "3E-54-08-14-00-00-00"
-subject = "Elem e ntos terminais em instalaçõ e s de gas e s esp e ciais"
+subject = "Elementos terminais em instalaçõ e s de gas e s esp e ciais"
 
 [Grupo0.3E.56.00.00.00.00.00]
 code = "3E-56-00-00-00-00-00"
-subject = "Elem e ntos móv e is"
+subject = "Elementos móv e is"
 
 [Grupo0.3E.56.02.00.00.00.00]
 code = "3E-56-02-00-00-00-00"
-subject = "Elem e ntos para comunicação visual"
+subject = "Elementos para comunicação visual"
 
 [Grupo0.3E.56.04.00.00.00.00]
 code = "3E-56-04-00-00-00-00"
-subject = "Elem e ntos de mobiliário"
+subject = "Elementos de mobiliário"
 
 [Grupo0.3E.56.06.00.00.00.00]
 code = "3E-56-06-00-00-00-00"
@@ -28774,23 +28774,23 @@ subject = "Equipamentos móv e iscon e cta do s às instalaçõ e s hidráulicas
 
 [Grupo0.3E.58.00.00.00.00.00]
 code = "3E-58-00-00-00-00-00"
-subject = "Elem e ntos de automação"
+subject = "Elementos de automação"
 
 [Grupo0.3E.58.02.00.00.00.00]
 code = "3E-58-02-00-00-00-00"
-subject = "Elem e ntos de automação predial"
+subject = "Elementos de automação predial"
 
 [Grupo0.3E.58.04.00.00.00.00]
 code = "3E-58-04-00-00-00-00"
-subject = "Elem e ntos de automação industrial"
+subject = "Elementos de automação industrial"
 
 [Grupo0.3E.60.00.00.00.00.00]
 code = "3E-60-00-00-00-00-00"
-subject = "Elem e ntos de sist em as de prot e ção a descargas atmoséricas"
+subject = "Elementos de sist em as de Proteção a descargas atmoséricas"
 
 [Grupo0.3E.60.02.00.00.00.00]
 code = "3E-60-02-00-00-00-00"
-subject = "Elem e ntos para a captação de descargas atmoséricas"
+subject = "Elementos para a captação de descargas atmoséricas"
 
 [Grupo0.3E.60.02.02.00.00.00]
 code = "3E-60-02-02-00-00-00"
@@ -28810,7 +28810,7 @@ subject = "Gaiolade Fara da y"
 
 [Grupo0.3E.60.04.00.00.00.00]
 code = "3E-60-04-00-00-00-00"
-subject = "Elem e ntos para descida de descargas atmoséricas"
+subject = "Elementos para descida de descargas atmoséricas"
 
 [Grupo0.3E.60.04.02.00.00.00]
 code = "3E-60-04-02-00-00-00"
@@ -28818,7 +28818,7 @@ subject = "Condutor de int e rligação"
 
 [Grupo0.3E.60.06.00.00.00.00]
 code = "3E-60-06-00-00-00-00"
-subject = "Elem e ntos para a con e xão de aterramento da descarga atmosérica"
+subject = "Elementos para a con e xão de aterramento da descarga atmosérica"
 
 [Grupo0.3E.60.06.02.00.00.00]
 code = "3E-60-06-02-00-00-00"
@@ -28826,19 +28826,19 @@ subject = "Eletrodo para a con e xão de aterramentoda descarga atmosérica"
 
 [Grupo0.3E.60.08.00.00.00.00]
 code = "3E-60-08-00-00-00-00"
-subject = "Dispositivos para sist em as de prot e ção a descargas atmoséricas"
+subject = "Dispositivos para sist em as de Proteção a descargas atmoséricas"
 
 [Grupo0.3E.60.06.02.00.00.00]
 code = "3E-60-06-02-00-00-00"
-subject = "Dispositivo de prot e ção contra surtos atmoséricos (dps-a)"
+subject = "Dispositivo de Proteção contra surtos atmoséricos (dps-a)"
 
 [Grupo0.3E.62.00.00.00.00.00]
 code = "3E-62-00-00-00-00-00"
-subject = "Elem e ntos de prot e ção a incêndio"
+subject = "Elementos de Proteção a incêndio"
 
 [Grupo0.3E.62.02.00.00.00.00]
 code = "3E-62-02-00-00-00-00"
-subject = "Elem e ntos para restrição ao surgim e ntoe à propagação de incêndio"
+subject = "Elementos para restrição ao surgimentoe à propagação de incêndio"
 
 [Grupo0.3E.62.02.02.00.00.00]
 code = "3E-62-02-02-00-00-00"
@@ -28850,19 +28850,19 @@ subject = "Compartim e ntação vertical"
 
 [Grupo0.3E.62.04.00.00.00.00]
 code = "3E-62-04-00-00-00-00"
-subject = "Elem e ntos para control e de crescim e ntoe supr e ssão de incêndio"
+subject = "Elementos para control e de crescimentoe supr e ssão de incêndio"
 
 [Grupo0.3E.62.06.00.00.00.00]
 code = "3E-62-06-00-00-00-00"
-subject = "Elem e ntos de rede de gás para combate a incêndio"
+subject = "Elementos de rede de gás para combate a incêndio"
 
 [Grupo0.3E.62.08.00.00.00.00]
 code = "3E-62-08-00-00-00-00"
-subject = "Elem e ntos de rede de prot e ção por espuma"
+subject = "Elementos de rede de Proteção por espuma"
 
 [Grupo0.3E.62.10.00.00.00.00]
 code = "3E-62-10-00-00-00-00"
-subject = "Elem e ntos de rede de prot e ção por chuv e iros"
+subject = "Elementos de rede de Proteção por chuv e iros"
 
 [Grupo0.3E.62.10.02.00.00.00]
 code = "3E-62-10-02-00-00-00"
@@ -28906,47 +28906,47 @@ subject = "Terminal de chuv e iro automático paraincêndio"
 
 [Grupo0.3E.62.12.00.00.00.00]
 code = "3E-62-12-00-00-00-00"
-subject = "Elem e ntos de det e cção de incêndio"
+subject = "Elementos de det e cção de incêndio"
 
 [Grupo0.3E.62.14.00.00.00.00]
 code = "3E-62-14-00-00-00-00"
-subject = "Elem e ntos de alerta de incêndio"
+subject = "Elementos de alerta de incêndio"
 
 [Grupo0.3E.62.16.00.00.00.00]
 code = "3E-62-16-00-00-00-00"
-subject = "Elem e ntos de acesso e acili da de para operaçõ e s de socorro"
+subject = "Elementos de acesso e acili da de para operaçõ e s de socorro"
 
 [Grupo0.3E.62.18.00.00.00.00]
 code = "3E-62-18-00-00-00-00"
-subject = "Elem e ntos de prot e ção estrutural emsituaçõ e s de incêndio"
+subject = "Elementos de Proteção estrutural emsituaçõ e s de incêndio"
 
 [Grupo0.3E.62.20.00.00.00.00]
 code = "3E-62-20-00-00-00-00"
-subject = "Elem e ntos de control e de umaça e gas e s"
+subject = "Elementos de control e de umaça e gas e s"
 
 [Grupo0.3E.64.00.00.00.00.00]
 code = "3E-64-00-00-00-00-00"
-subject = "Elem e ntos de segurança patrimonial"
+subject = "Elementos de segurança patrimonial"
 
 [Grupo0.3E.64.02.00.00.00.00]
 code = "3E-64-02-00-00-00-00"
-subject = "Elem e ntos para monitoramento por câm e ras"
+subject = "Elementos para monitoramento por câm e ras"
 
 [Grupo0.3E.64.04.00.00.00.00]
 code = "3E-64-04-00-00-00-00"
-subject = "Elem e ntos para monitoramento de pres e nça"
+subject = "Elementos para monitoramento de pres e nça"
 
 [Grupo0.3E.64.06.00.00.00.00]
 code = "3E-64-06-00-00-00-00"
-subject = "Elem e ntos para alertas sonoros"
+subject = "Elementos para alertas sonoros"
 
 [Grupo0.3E.64.08.00.00.00.00]
 code = "3E-64-08-00-00-00-00"
-subject = "Elem e ntos para comunicação de ocorrência"
+subject = "Elementos para comunicação de ocorrência"
 
 [Grupo0.3E.64.10.00.00.00.00]
 code = "3E-64-10-00-00-00-00"
-subject = "Elem e ntos para control e de acesso"
+subject = "Elementos para control e de acesso"
 
 [Grupo0.3R.02.00.00.00.00.00]
 code = "3R-02-00-00-00-00-00"
@@ -29318,7 +29318,7 @@ subject = "estacionado (a)"
 
 [Grupo0.3R.06.06.00.00.00.00]
 code = "3R-06-06-00-00-00-00"
-subject = "Resulta do s dos trabalhos de armaz e namento"
+subject = "Resulta do s dos trabalhos de Armazenamento"
 
 [Grupo0.3R.06.06.02.00.00.00]
 code = "3R-06-06-02-00-00-00"
@@ -29702,7 +29702,7 @@ subject = "mesclado (a)"
 
 [Grupo0.3R.10.30.00.00.00.00]
 code = "3R-10-30-00-00-00-00"
-subject = "Resulta do s dos trabalhos do rev e stim e ntode produtos (não há como separar os produtos semque pelom e nos umd e l e s seja destruído)"
+subject = "Resulta do s dos trabalhos do rev e stimentode produtos (não há como separar os produtos semque pelom e nos umd e l e s seja destruído)"
 
 [Grupo0.3R.10.30.02.00.00.00]
 code = "3R-10-30-02-00-00-00"
@@ -30106,7 +30106,7 @@ subject = "Resulta do s dos trabalhos de apoio"
 
 [Grupo0.3R.22.02.00.00.00.00]
 code = "3R-22-02-00-00-00-00"
-subject = "Resulta do s dos trabalhos de limp e za"
+subject = "Resulta do s dos trabalhos de Limpeza"
 
 [Grupo0.3R.22.02.02.00.00.00]
 code = "3R-22-02-02-00-00-00"
@@ -30166,7 +30166,7 @@ subject = "Terr e no estrang e iro"
 
 [Grupo0.4U.02.06.00.00.00.00]
 code = "4U-02-06-00-00-00-00"
-subject = "Unidades de prot e ção int e gral"
+subject = "Unidades de Proteção int e gral"
 
 [Grupo0.4U.02.06.02.00.00.00]
 code = "4U-02-06-02-00-00-00"
@@ -30182,7 +30182,7 @@ subject = "Refúgiode vida silv e stre"
 
 [Grupo0.4U.02.06.14.00.00.00]
 code = "4U-02-06-14-00-00-00"
-subject = "Monum e ntonatural"
+subject = "Monumentonatural"
 
 [Grupo0.4U.02.10.00.00.00.00]
 code = "4U-02-10-00-00-00-00"
@@ -30190,7 +30190,7 @@ subject = "Unidades de uso sust e ntável"
 
 [Grupo0.4U.02.10.02.00.00.00]
 code = "4U-02-10-02-00-00-00"
-subject = "Área de prot e ção ambi e ntal"
+subject = "Área de Proteção ambi e ntal"
 
 [Grupo0.4U.02.10.06.00.00.00]
 code = "4U-02-10-06-00-00-00"
@@ -30674,7 +30674,7 @@ subject = "Uni da de de extração de caulim"
 
 [Grupo0.4U.10.14.26.00.00.00]
 code = "4U-10-14-26-00-00-00"
-subject = "Uni da de de extração de cim e nto"
+subject = "Uni da de de extração de cimento"
 
 [Grupo0.4U.10.14.30.00.00.00]
 code = "4U-10-14-30-00-00-00"
@@ -30746,7 +30746,7 @@ subject = "Unidades das indústrias de transformação"
 
 [Grupo0.4U.14.02.00.00.00.00]
 code = "4U-14-02-00-00-00-00"
-subject = "Unidades de proc e ssamentoe fabricação de alim e ntos"
+subject = "Unidades de proc e ssamentoe fabricação de alimentos"
 
 [Grupo0.4U.14.02.02.00.00.00]
 code = "4U-14-02-02-00-00-00"
@@ -31046,7 +31046,7 @@ subject = "Conf e cção de roupas prossionais"
 
 [Grupo0.4U.14.18.14.00.00.00]
 code = "4U-14-18-14-00-00-00"
-subject = "Uni da de de fabricação de acessórios do vestuário, exc e topara segurança e prot e ção"
+subject = "Uni da de de fabricação de acessórios do vestuário, exc e topara segurança e Proteção"
 
 [Grupo0.4U.14.18.18.00.00.00]
 code = "4U-14-18-18-00-00-00"
@@ -31062,7 +31062,7 @@ subject = "Unidades de fabricação de couroe produtos relaciona do s"
 
 [Grupo0.4U.14.22.02.00.00.00]
 code = "4U-14-22-02-00-00-00"
-subject = "Uni da de de curtim e ntoe outras pre para çõ e s de couro"
+subject = "Uni da de de curtimentoe outras pre para çõ e s de couro"
 
 [Grupo0.4U.14.22.06.00.00.00]
 code = "4U-14-22-06-00-00-00"
@@ -31134,7 +31134,7 @@ description = "
 4U-14-38-10-00-00-00;Uni da de de produção de bio com bustív e is;
 4U-14-38-10-02-00-00;Uni da de de produção de álcool;
 4U-14-38-10-06-00-00;Uni da de de produção de bio com bustív e is, exc e toálcool;
-4U-14-42-00-00-00-00;Unidades de produção de elem e ntos e produtos químicos;
+4U-14-42-00-00-00-00;Unidades de produção de elementos e produtos químicos;
 4U-14-42-02-00-00-00;Uni da de de produção de produtos químicos inorgânicos;
 4U-14-42-02-02-00-00;Uni da de de produção de cloroe álcalis;
 4U-14-42-02-06-00-00;Uni da de de produção de int e rm e diários paraf e rtilizant e s;
@@ -31151,9 +31151,9 @@ description = "
 4U-14-42-18-00-00-00;Uni da de de produção de def e nsivos agrícolas e desinf e stant e s domissanitários;
 4U-14-42-18-02-00-00;Uni da de de produção de def e nsivos agrícolas;
 4U-14-42-18-06-00-00;Uni da de de produção de desinf e stant e s domissanitários;
-4U-14-42-22-00-00-00;Uni da de de produção de sabõ e s, det e rg e nt e s, produtos de limp e za, cosméticos, produtos de perfumariae de higi e ne pessoal;
+4U-14-42-22-00-00-00;Uni da de de produção de sabõ e s, det e rg e nt e s, produtos de Limpeza, cosméticos, produtos de perfumariae de higi e ne pessoal;
 4U-14-42-22-02-00-00;Uni da de de produção de sabõ e s e det e rg e nt e s sintéticos;
-4U-14-42-22-06-00-00;Uni da de de produção de produtos de limp e za e polim e nto;
+4U-14-42-22-06-00-00;Uni da de de produção de produtos de Limpeza e polimento;
 4U-14-42-22-10-00-00;Uni da de de produção de cosméticos, produtos de perfumaria e de higi e ne pessoal;
 4U-14-42-26-00-00-00;Uni da de de produção de tintas, verniz e s, esmalt e s, lacas e produtos ans;
 4U-14-42-26-02-00-00;Uni da de de produção de tintas, verniz e s, esmalt e s e lacas;
@@ -31180,8 +31180,8 @@ description = "
 4U-14-54-02-02-00-00;Uni da de de fabricação de vidro plano e de segurança;
 4U-14-54-02-06-00-00;Uni da de de fabricação de embalag e ns de vidro;
 4U-14-54-02-10-00-00;Uni da de de fabricação de artigos de vidro;
-4U-14-54-06-00-00-00;Uni da de de fabricação de cim e nto;
-4U-14-54-10-00-00-00;Uni da de de fabricação de art e fatos de concr e to, cim e nto, brocim e nto, gesso ou materiaiss e m e lhant e s;
+4U-14-54-06-00-00-00;Uni da de de fabricação de cimento;
+4U-14-54-10-00-00-00;Uni da de de fabricação de art e fatos de concr e to, cimento, brocimento, gesso ou materiaiss e m e lhant e s;
 4U-14-54-14-00-00-00;Uni da de de fabricação de produtos cerâmicos;
 4U-14-54-14-02-00-00;Uni da de de fabricação de produtos cerâmicos refratários;
 4U-14-54-14-06-00-00;Uni da de de fabricação de produtos cerâmicos não refratários parauso estrutural na construção;
@@ -31213,12 +31213,12 @@ description = "
 4U-14-62-02-06-00-00;Uni da de de fabricação de esquadrias de metal;
 4U-14-62-02-10-00-00;Uni da de de fabricação de obras de cald e irariap e sada;
 4U-14-62-06-00-00-00;Uni da de de fabricação de tanqu e s, res e rvatórios metálicos e cald e iras;
-4U-14-62-06-02-00-00;Uni da de de fabricação de tanqu e s, res e rvatórios metálicos e cald e iras para aqu e cim e ntoc e ntral;
-4U-14-62-06-06-00-00;Uni da de de fabricação de cald e iras gera do ras de vapor, exc e topara aqu e cim e ntoc e ntral e para veículos;
+4U-14-62-06-02-00-00;Uni da de de fabricação de tanqu e s, res e rvatórios metálicos e cald e iras para aqu e cimentoc e ntral;
+4U-14-62-06-06-00-00;Uni da de de fabricação de cald e iras gera do ras de vapor, exc e topara aqu e cimentoc e ntral e para veículos;
 4U-14-62-10-00-00-00;Uni da de para forjaria, estamparia, metalurgiado pó e serviços de tratamentode metais;
 4U-14-62-10-02-00-00;Uni da de de produção de forja do s de aço e de metaisnão ferrosos e suas ligas;
 4U-14-62-10-06-00-00;Uni da de de produção de art e fatos estampa do s de metal;
-4U-14-62-10-10-00-00;Uni da de para realização de serviços de usinag e m, solda, tratamentoou revestim e nto em m e tais;
+4U-14-62-10-10-00-00;Uni da de para realização de serviços de usinag e m, solda, tratamentoou revestimento em m e tais;
 4U-14-62-14-00-00-00;Uni da de de fabricação de artigos de cut e laria, de serralh e ria e ferram e ntas;
 4U-14-62-14-02-00-00;Uni da de de fabricação de artigos de cut e laria;
 4U-14-62-14-06-00-00;Uni da de de fabricação de artigos de serralh e ria, exc e to e squadrias;
@@ -31233,11 +31233,11 @@ description = "
 4U-14-66-10-02-00-00;Uni da de de fabricação de equipamentos transmissor e s de comunicação;
 4U-14-66-10-06-00-00;Uni da de de fabricação de apar e lhos tel e fônicos e de outros equipamentos de comunicação;
 4U-14-66-14-00-00-00;Uni da de de fabricação de apar e lhos de rec e pção, reprodução, gravação e amplicação de áudioe víd e o;
-4U-14-66-18-00-00-00;Uni da de de fabricação de apar e lhos e instrum e ntos de medida, test e e controle;
+4U-14-66-18-00-00-00;Uni da de de fabricação de apar e lhos e instrumentos de medida, test e e controle;
 4U-14-66-18-02-00-00;Uni da de de fabricação de apar e lhos e equipamentos de medida, test e e controle;
 4U-14-66-18-06-00-00;Uni da de de fabricação de cronôm e tros e relógios;
 4U-14-66-22-00-00-00;Uni da de de fabricação de apar e lhos eletromédicos e eletrot e rapêuticos e equipamentos de irradiação;
-4U-14-66-26-00-00-00;Uni da de de fabricação de equipamentos e instrum e ntos ópticos, fotográcos e cin em atográcos;
+4U-14-66-26-00-00-00;Uni da de de fabricação de equipamentos e instrumentos ópticos, fotográcos e cin em atográcos;
 4U-14-66-30-00-00-00;Uni da de de fabricação de mídias virg e ns, magnéticas e ópticas;
 4U-14-70-00-00-00-00;Unidades de fabricação de máquinas, apar e lhos ou mat e riais e létricos;
 4U-14-70-02-00-00-00;Uni da de de fabricação de gera do r e s, transforma do r e s ou motor e s elétricos;
@@ -31276,7 +31276,7 @@ description = "
 4U-14-74-18-14-00-00;Uni da de de fabricação de máquinas e equipamentos para terrapl e nag e m, pavim e ntação e construção, exc e totrator e s;
 4U-14-74-22-00-00-00;Uni da de de fabricação de máquinas e equipamentos de uso industrial esp e cíco;
 4U-14-74-22-02-00-00;Uni da de de fabricação de máquinas para a indústriam e talúrgica, exc e to máquinas-ferram e nta;
-4U-14-74-22-06-00-00;Uni da de de fabricação de máquinas e equipamentos para as indústrias de alim e ntos, bebi da s e fumo;
+4U-14-74-22-06-00-00;Uni da de de fabricação de máquinas e equipamentos para as indústrias de alimentos, bebi da s e fumo;
 4U-14-74-22-10-00-00;Uni da de de fabricação de máquinas e equipamentos para a indústria têxtil;
 4U-14-74-22-14-00-00;Uni da de de fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calça do s;
 4U-14-74-22-18-00-00;Uni da de de fabricação de máquinas e equipamentos para as indústrias de celulose, pap e l e pap e lão e art e fatos;
@@ -31311,12 +31311,12 @@ description = "
 4U-14-90-00-00-00-00;Unidades de fabricação de produtos div e rsos;
 4U-14-90-02-00-00-00;Uni da de para a lapi da ção de gemas e uni da de de fabricação de art e fatos de ouriv e sariae joalh e ria;
 4U-14-90-06-00-00-00;Uni da de de fabricação de bijut e rias e art e fatos sem e lhant e s;
-4U-14-90-10-00-00-00;Uni da de de fabricação de instrum e ntos musicais;
+4U-14-90-10-00-00-00;Uni da de de fabricação de instrumentos musicais;
 4U-14-90-14-00-00-00;Uni da de de fabricação de art e fatos para pesca e esporte;
 4U-14-90-18-00-00-00;Uni da de de fabricação de brinque do s e jogos recr e ativos;
-4U-14-90-22-00-00-00;Uni da de de fabricação de instrum e ntos e mat e riais para uso médico e odontológico e de artigos ópticos;
+4U-14-90-22-00-00-00;Uni da de de fabricação de instrumentos e mat e riais para uso médico e odontológico e de artigos ópticos;
 4U-14-90-26-00-00-00;Uni da de de fabricação de escovas, pincéise vassouras;
-4U-14-90-30-00-00-00;Uni da de de fabricação de equipamentos e acessórios para segurança e prot e ção pessoal e prossional;
+4U-14-90-30-00-00-00;Uni da de de fabricação de equipamentos e acessórios para segurança e Proteção pessoal e prossional;
 4U-14-94-00-00-00-00;Unidades paramanut e nção, reparação de máquinas e equipamentos;
 4U-14-94-02-00-00-00;Uni da de para manut e nção e reparação de tanqu e s, res e rvatórios metálicos e cald e iras, exc e topara veículos;
 4U-14-94-06-00-00-00;Uni da de para manut e nção e reparação de equipamentos eletrônicos e ópticos;
@@ -31346,11 +31346,11 @@ description = "
 4U-18-10-02-00-00-00;Fossa séptica e campo de drenag e m;
 4U-18-10-06-00-00-00;Lagoa séptica e baciade ajuste;
 4U-18-10-10-00-00-00;Uni da de para a armaz e nag em de resíduos esp e ciais;
-4U-18-10-14-00-00-00;Uni da de para o manus e iode resíduos animais;
+4U-18-10-14-00-00-00;Uni da de para o Manuseiode resíduos animais;
 4U-18-10-18-00-00-00;Uni da de para o proc e ssamentode resíduos;
 4U-18-10-22-00-00-00;Uni da de para a Recuperação de resíduos esp e ciais;
 4U-18-10-26-00-00-00;Uni da de incin e ra do ra;
-4U-22-00-00-00-00-00;Unidades paraprodução, armaz e namentoe distribuição de eletrici da de e gás;
+4U-22-00-00-00-00-00;Unidades paraprodução, Armazenamentoe distribuição de eletrici da de e gás;
 4U-22-02-00-00-00-00;Usinas de produção de energia;
 4U-22-02-02-00-00-00;Usina de geração de energianucl e ar;
 4U-22-02-06-00-00-00;Usina de geração de energia e ólica;
@@ -31368,12 +31368,12 @@ description = "
 4U-22-06-10-00-00-00;Transforma do r elétrico;
 4U-22-06-14-00-00-00;Estação de bomb e amentode gás natural;
 4U-22-06-18-00-00-00;Estação de bomb e amentog e nérica;
-4U-22-10-00-00-00-00;Instalaçõ e s de armaz e namentode energia;
+4U-22-10-00-00-00-00;Instalaçõ e s de Armazenamentode energia;
 4U-22-10-02-00-00-00;Depósito de combustív e l líquido;
 4U-22-10-06-00-00-00;Depósito de combustív e l sólido;
 4U-22-10-10-00-00-00;Depósito de gás combustív e l;
 4U-22-10-14-00-00-00;Depósito de eletrici da de;
-4U-22-10-18-00-00-00;Tanque de armaz e namentode líqui do s div e rsos;
+4U-22-10-18-00-00-00;Tanque de Armazenamentode líqui do s div e rsos;
 4U-22-14-00-00-00-00;Unidades de distribuição de energia;
 4U-22-14-02-00-00-00;Tún e l de energia;
 4U-22-14-06-00-00-00;Dutode energia;
@@ -31381,11 +31381,11 @@ description = "
 4U-22-14-14-00-00-00;Linha de energia;
 4U-22-14-18-00-00-00;Tún e l de vapor;
 4U-22-14-22-00-00-00;Gasoduto;
-4U-22-18-00-00-00-00;Unidades de produção de gas e s paraaqu e cim e ntoe refrig e ração;
-4U-22-18-02-00-00-00;Uni da de de produção de gás para aqu e cim e nto;
-4U-22-18-06-00-00-00;Uni da de de armaz e namentode gás para aqu e cim e nto;
+4U-22-18-00-00-00-00;Unidades de produção de gas e s paraaqu e cimentoe refrig e ração;
+4U-22-18-02-00-00-00;Uni da de de produção de gás para aqu e cimento;
+4U-22-18-06-00-00-00;Uni da de de Armazenamentode gás para aqu e cimento;
 4U-22-18-10-00-00-00;Uni da de de produção de gas e s parar e frig e ração e ar-condicionado;
-4U-22-18-14-00-00-00;Uni da de de armaz e namentogas e s parar e frig e ração e ar-condicionado;
+4U-22-18-14-00-00-00;Uni da de de Armazenamentogas e s parar e frig e ração e ar-condicionado;
 4U-26-00-00-00-00-00;Unidades parahabitação, escritórios e comércio;
 4U-26-02-00-00-00-00;Residências unifamiliar e s;
 4U-26-02-02-00-00-00;Casa isolada;
@@ -31508,7 +31508,7 @@ description = "
 4U-34-02-06-06-00-00;Uni da de de lant e rnag em ou funilaria e pinturade veículos automotor e s;
 4U-34-02-06-10-00-00;Uni da de de manut e nção e reparação elétrica de veículos automotor e s;
 4U-34-02-06-14-00-00;Uni da de de alinhamentoe balanc e amentode veículos automotor e s;
-4U-34-02-06-18-00-00;Uni da de de lavag e m, lubricação e polim e ntode veículos automotor e s;
+4U-34-02-06-18-00-00;Uni da de de lavag e m, lubricação e polimentode veículos automotor e s;
 4U-34-02-06-22-00-00;Uni da de de borrachariapara veículos automotor e s;
 4U-34-02-06-26-00-00;Uni da de de instalação, manut e nção e reparação de acessórios para veículos automotor e s;
 4U-34-02-06-30-00-00;Uni da de de capotaria;
@@ -31538,7 +31538,7 @@ description = "
 4U-34-06-02-30-00-00;Comércioatacadistade sem e nt e s, for e s, plantas e gramas;
 4U-34-06-02-34-00-00;Comércioatacadistade sisal;
 4U-34-06-02-38-00-00;Comércioatacadistade matérias-primas agrícolas comativi da de de fracionamentoe acondicionamentoassociada;
-4U-34-06-02-42-00-00;Comércioatacadistade alim e ntos para animais;
+4U-34-06-02-42-00-00;Comércioatacadistade alimentos para animais;
 4U-34-06-06-00-00-00;Uni da de para o comércioatacadista e sp e cializado emprodutos alim e ntícios, bebi da s e fumo;
 4U-34-06-06-02-00-00;Comércioatacadistade leite e laticínios;
 4U-34-06-06-06-00-00;Comércioatacadistade cer e aise leguminosas benecia do s, farinhas, ami do s e féculas;
@@ -31552,7 +31552,7 @@ description = "
 4U-34-06-10-06-00-00;Comércioatacadistade artigos do vestuárioe acessórios;
 4U-34-06-10-10-00-00;Comércioatacadistade calça do s e artigos de viag e m;
 4U-34-06-10-14-00-00;Comércioatacadistade produtos farmacêuticos para uso humano e vet e rinário;
-4U-34-06-10-18-00-00;Comércioatacadistade instrum e ntos e mat e riaispara uso médico, cirúrgico, ortopédico e odontológico;
+4U-34-06-10-18-00-00;Comércioatacadistade instrumentos e mat e riaispara uso médico, cirúrgico, ortopédico e odontológico;
 4U-34-06-10-22-00-00;Comércioatacadistade cosméticos, produtos de perfumariae de higi e ne pessoal;
 4U-34-06-10-26-00-00"
 
