@@ -8362,7 +8362,7 @@ subject = "Forração"
 
 [2C.02.34.02.18.00.00]
 code = "2C.02.34.02.18.00.00"
-subject = "MantaTNT"
+subject = "Manta TNT"
 
 [2C.02.34.02.22.00.00]
 code = "2C.02.34.02.22.00.00"
@@ -8470,31 +8470,31 @@ subject = "Mobiliário para área externa"
 
 [2C.02.42.02.00.00.00]
 code = "2C.02.42.02.00.00.00"
-subject = "Bicicl e tário e abrigo para bicicl e ta"
+subject = "Bicicletário e abrigo para bicicleta"
 
 [2C.02.42.02.02.00.00]
 code = "2C.02.42.02.02.00.00"
-subject = "Suport e s para bicicl e ta"
+subject = "Suportes para bicicleta"
 
 [2C.02.42.02.06.00.00]
 code = "2C.02.42.02.06.00.00"
-subject = "Abrigo para bicicl e ta"
+subject = "Abrigo para bicicleta"
 
 [2C.02.42.02.10.00.00]
 code = "2C.02.42.02.10.00.00"
-subject = "Armário com tranca para bicicl e ta"
+subject = "Armário com tranca para bicicleta"
 
 [2C.02.42.06.00.00.00]
 code = "2C.02.42.06.00.00.00"
-subject = "Ass e nto para áreapública"
+subject = "Assento para área pública"
 
 [2C.02.42.06.02.00.00]
 code = "2C.02.42.06.02.00.00"
-subject = "Banco para áreapública"
+subject = "Banco para área pública"
 
 [2C.02.42.06.06.00.00]
 code = "2C.02.42.06.06.00.00"
-subject = "Ca de ira para áreapública"
+subject = "Cadeira para área pública"
 
 [2C.02.42.10.00.00.00]
 code = "2C.02.42.10.00.00.00"
@@ -8502,7 +8502,7 @@ subject = "Mobiliário para área externa"
 
 [2C.02.42.10.02.00.00]
 code = "2C.02.42.10.02.00.00"
-subject = "Ass e nto para área externa"
+subject = "Assento para área externa"
 
 [2C.02.42.10.06.00.00]
 code = "2C.02.42.10.06.00.00"
@@ -8510,15 +8510,15 @@ subject = "Mesa para área externa"
 
 [2C.02.42.14.00.00.00]
 code = "2C.02.42.14.00.00.00"
-subject = "Lix e ira para área externa"
+subject = "Lixeira para área externa"
 
 [2C.02.42.18.00.00.00]
 code = "2C.02.42.18.00.00.00"
-subject = "Elemento de corativo para área externa"
+subject = "Elemento decorativo para área externa"
 
 [2C.02.42.22.00.00.00]
 code = "2C.02.42.22.00.00.00"
-subject = "Poste/mastro para band e ira"
+subject = "Poste / mastro para bandeira"
 
 [2C.02.42.26.00.00.00]
 code = "2C.02.42.26.00.00.00"
@@ -8534,35 +8534,35 @@ subject = "Monumento"
 
 [2C.02.42.38.00.00.00]
 code = "2C.02.42.38.00.00.00"
-subject = "Comunicaçãovisual para área externa"
+subject = "Comunicação visual para área externa"
 
 [2C.02.42.38.02.00.00]
 code = "2C.02.42.38.02.00.00"
-subject = "Placadir e cional para área externa"
+subject = "Placa direcional para área externa"
 
 [2C.02.42.38.06.00.00]
 code = "2C.02.42.38.06.00.00"
-subject = "Placa de i de nticação de rua"
+subject = "Placa de identifcação de rua"
 
 [2C.02.42.38.10.00.00]
 code = "2C.02.42.38.10.00.00"
-subject = "Placa de sinalizaçãoiluminada"
+subject = "Placa de sinalização iluminada"
 
 [2C.02.42.42.00.00.00]
 code = "2C.02.42.42.00.00.00"
-subject = "Pilar e te"
+subject = "Pilarete"
 
 [2C.02.42.42.02.00.00]
 code = "2C.02.42.42.02.00.00"
-subject = "Pilaretedebloqu e ioativo de ac e sso"
+subject = "Pilarete de bloqueio ativo de acesso"
 
 [2C.02.42.42.06.00.00]
 code = "2C.02.42.42.06.00.00"
-subject = "Pilaretedebloqu e iopassivo de ac e sso"
+subject = "Pilarete de bloqueio passivo de acesso"
 
 [2C.02.42.42.10.00.00]
 code = "2C.02.42.42.10.00.00"
-subject = "Pilar e t e ornam e ntal"
+subject = "Pilarete ornamental"
 
 [2C.02.42.46.00.00.00]
 code = "2C.02.42.46.00.00.00"
@@ -8974,11 +8974,11 @@ subject = "Estruturam e tálica"
 
 [2C.04.26.10.02.00.00]
 code = "2C.04.26.10.02.00.00"
-subject = "Estrutura de p e rsdeaço"
+subject = "Estrutura de p e rfsdeaço"
 
 [2C.04.26.10.06.00.00]
 code = "2C.04.26.10.06.00.00"
-subject = "Estrutura de p e rsdealumínio"
+subject = "Estrutura de p e rfsdealumínio"
 
 [2C.06.00.00.00.00.00]
 code = "2C.06.00.00.00.00.00"
@@ -9046,7 +9046,7 @@ subject = "Telha de m e tal"
 
 [2C.06.06.06.14.00.00]
 code = "2C.06.06.06.14.00.00"
-subject = "Telhadebrocimento"
+subject = "Telhadefbrocimento"
 
 [2C.06.06.06.18.00.00]
 code = "2C.06.06.06.18.00.00"
@@ -9066,7 +9066,7 @@ subject = "Telhad emadeira"
 
 [2C.06.06.06.34.00.00]
 code = "2C.06.06.06.34.00.00"
-subject = "Telhasd e asfaltocombras e grânulosmin e rais"
+subject = "Telhasd e asfaltocomfbras e grânulosmin e rais"
 
 [2C.06.06.10.00.00.00]
 code = "2C.06.06.10.00.00.00"
@@ -9126,7 +9126,7 @@ subject = "DivisóriaseParede smodular e s"
 
 [2C.08.02.00.00.00.00]
 code = "2C.08.02.00.00.00.00"
-subject = "Divisóriasxas"
+subject = "Divisóriasfxas"
 
 [2C.08.02.02.00.00.00]
 code = "2C.08.02.02.00.00.00"
@@ -9186,7 +9186,7 @@ subject = "Pared em odulard e g e sso"
 
 [2C.08.10.18.00.00.00]
 code = "2C.08.10.18.00.00.00"
-subject = "Paredem odulardebrocimento"
+subject = "Paredem odulardefbrocimento"
 
 [2C.10.00.00.00.00.00]
 code = "2C.10.00.00.00.00.00"
@@ -9562,7 +9562,7 @@ subject = "Portademat e riaisr e sina do s"
 
 [2C.12.02.18.02.00.00]
 code = "2C.12.02.18.02.00.00"
-subject = "Portadebra de vidro"
+subject = "Portadefbra de vidro"
 
 [2C.12.02.18.06.00.00]
 code = "2C.12.02.18.06.00.00"
@@ -9634,7 +9634,7 @@ subject = "Grelhade e nrolar"
 
 [2C.12.02.34.00.00.00]
 code = "2C.12.02.34.00.00.00"
-subject = "Porta de ac e sso"
+subject = "Porta de acesso"
 
 [2C.12.02.34.02.00.00]
 code = "2C.12.02.34.02.00.00"
@@ -9642,7 +9642,7 @@ subject = "Portatipoalçapão"
 
 [2C.12.02.34.06.00.00]
 code = "2C.12.02.34.06.00.00"
-subject = "Porta de ac e sso"
+subject = "Porta de acesso"
 
 [2C.12.02.34.10.00.00]
 code = "2C.12.02.34.10.00.00"
@@ -9662,11 +9662,11 @@ subject = "Alçapãodetelha do d e s e gurança"
 
 [2C.12.02.34.26.00.00]
 code = "2C.12.02.34.26.00.00"
-subject = "Abertura para ac e ssohumano"
+subject = "Abertura para acessohumano"
 
 [2C.12.02.38.00.00.00]
 code = "2C.12.02.38.00.00.00"
-subject = "paineld e ac e sso"
+subject = "paineld e acesso"
 
 [2C.12.02.38.02.00.00]
 code = "2C.12.02.38.02.00.00"
@@ -9786,7 +9786,7 @@ subject = "Jan e la de m e tal"
 
 [2C.12.06.06.02.00.00]
 code = "2C.12.06.06.02.00.00"
-subject = "Jan e laxa de m e tal"
+subject = "Jan e lafxa de m e tal"
 
 [2C.12.06.06.06.00.00]
 code = "2C.12.06.06.06.00.00"
@@ -9822,7 +9822,7 @@ subject = "Jan e lad emadeira"
 
 [2C.12.06.10.02.00.00]
 code = "2C.12.06.10.02.00.00"
-subject = "Jan e laxad emadeira"
+subject = "Jan e lafxad emadeira"
 
 [2C.12.06.10.06.00.00]
 code = "2C.12.06.10.06.00.00"
@@ -9862,7 +9862,7 @@ subject = "Jan e la de plástico/polím e ros"
 
 [2C.12.06.14.02.00.00]
 code = "2C.12.06.14.02.00.00"
-subject = "Jan e laxa de plástico"
+subject = "Jan e lafxa de plástico"
 
 [2C.12.06.14.06.00.00]
 code = "2C.12.06.14.06.00.00"
@@ -9910,7 +9910,7 @@ subject = "Janelad em at e riais com postos"
 
 [2C.12.06.18.02.00.00]
 code = "2C.12.06.18.02.00.00"
-subject = "Jan e laxad em at e rial com posto"
+subject = "Jan e lafxad em at e rial com posto"
 
 [2C.12.06.18.06.00.00]
 code = "2C.12.06.18.06.00.00"
@@ -10050,7 +10050,7 @@ subject = "Vidro de baixa em issivi da de"
 
 [2C.12.10.02.46.00.00]
 code = "2C.12.10.02.46.00.00"
-subject = "Vidrogurado"
+subject = "Vidrofgurado"
 
 [2C.12.10.02.50.00.00]
 code = "2C.12.10.02.50.00.00"
@@ -10102,7 +10102,7 @@ subject = "Vidrocolorido"
 
 [2C.12.10.18.00.00.00]
 code = "2C.12.10.18.00.00.00"
-subject = "Vidro de uso e sp e cíco"
+subject = "Vidro de uso e sp e cífco"
 
 [2C.12.10.18.02.00.00]
 code = "2C.12.10.18.02.00.00"
@@ -10134,11 +10134,11 @@ subject = "Acessóriode e nvidraçamento"
 
 [2C.12.10.26.02.00.00]
 code = "2C.12.10.26.02.00.00"
-subject = "Selant e etaparavidro"
+subject = "Selant e eftaparavidro"
 
 [2C.12.10.30.00.00.00]
 code = "2C.12.10.30.00.00.00"
-subject = "Películaselmes"
+subject = "Películaseflmes"
 
 [2C.12.10.30.02.00.00]
 code = "2C.12.10.30.02.00.00"
@@ -11386,7 +11386,7 @@ subject = "Equipamentosparare para ção de tubulaçõ e s"
 
 [2C.14.60.02.00.00.00]
 code = "2C.14.60.02.00.00.00"
-subject = "Kitdexação de tubo"
+subject = "Kitdefxação de tubo"
 
 [2C.14.62.00.00.00.00]
 code = "2C.14.62.00.00.00.00"
@@ -11686,11 +11686,11 @@ subject = "Iluminaçãoultraviol e ta de d e sinfecção de líquido"
 
 [2C.14.74.34.00.00.00]
 code = "2C.14.74.34.00.00.00"
-subject = "Descalcicadord e líquido"
+subject = "Descalcifcadord e líquido"
 
 [2C.14.74.34.02.00.00]
 code = "2C.14.74.34.02.00.00"
-subject = "Descalcicadord e água"
+subject = "Descalcifcadord e água"
 
 [2C.14.74.38.00.00.00]
 code = "2C.14.74.38.00.00.00"
@@ -11810,19 +11810,19 @@ subject = "Ejetord e ar"
 
 [2C.14.78.18.00.00.00]
 code = "2C.14.78.18.00.00.00"
-subject = "Puricadord e ar"
+subject = "Purifcadord e ar"
 
 [2C.14.78.18.02.00.00]
 code = "2C.14.78.18.02.00.00"
-subject = "Puricadord e ard e duplagarganta"
+subject = "Purifcadord e ard e duplagarganta"
 
 [2C.14.78.18.06.00.00]
 code = "2C.14.78.18.06.00.00"
-subject = "Puricadord e ard em últipla para da"
+subject = "Purifcadord e ard em últipla para da"
 
 [2C.14.78.18.10.00.00]
 code = "2C.14.78.18.10.00.00"
-subject = "Puricadord e cama de ar em balada"
+subject = "Purifcadord e cama de ar em balada"
 
 [2C.14.78.22.00.00.00]
 code = "2C.14.78.22.00.00.00"
@@ -11838,11 +11838,11 @@ subject = "Tratamento de gáscombustív e l"
 
 [2C.14.78.26.00.00.00]
 code = "2C.14.78.26.00.00.00"
-subject = "Puricadord e ar eletrônico"
+subject = "Purifcadord e ar eletrônico"
 
 [2C.14.78.30.00.00.00]
 code = "2C.14.78.30.00.00.00"
-subject = "Puricadordearm e canicam e nt e assistido"
+subject = "Purifcadordearm e canicam e nt e assistido"
 
 [2C.14.78.34.00.00.00]
 code = "2C.14.78.34.00.00.00"
@@ -11850,11 +11850,11 @@ subject = "Filtro de ar"
 
 [2C.14.78.34.02.00.00]
 code = "2C.14.78.34.02.00.00"
-subject = "Compon e nt e doltro de ar"
+subject = "Compon e nt e dofltro de ar"
 
 [2C.14.78.34.06.00.00]
 code = "2C.14.78.34.06.00.00"
-subject = "Filtro de ard e altaeciência"
+subject = "Filtro de ard e altaefciência"
 
 [2C.14.78.34.10.00.00]
 code = "2C.14.78.34.10.00.00"
@@ -11870,7 +11870,7 @@ subject = "Filtrotiposaco"
 
 [2C.14.78.34.22.00.00]
 code = "2C.14.78.34.22.00.00"
-subject = "Carcaçadeltro de ar"
+subject = "Carcaçadefltro de ar"
 
 [2C.14.78.34.26.00.00]
 code = "2C.14.78.34.26.00.00"
@@ -12266,7 +12266,7 @@ subject = "Pilaret e passivo de bloqu e io/antipassag e m"
 
 [2C.30.02.18.10.00.00]
 code = "2C.30.02.18.10.00.00"
-subject = "Pilar e t e arquit e tônico"
+subject = "Pilarete arquit e tônico"
 
 [2C.30.06.00.00.00.00]
 code = "2C.30.06.00.00.00.00"
@@ -12370,7 +12370,7 @@ subject = "Compon e nte da plataformaferroviária"
 
 [2C.30.10.10.00.00.00]
 code = "2C.30.10.10.00.00.00"
-subject = "Equipamentode e l e tricaçãoferroviária"
+subject = "Equipamentode e l e trifcaçãoferroviária"
 
 [2C.30.10.10.02.00.00]
 code = "2C.30.10.10.02.00.00"
@@ -12658,7 +12658,7 @@ subject = "Col e tor,acoplamentoetubodedr e nag em d e água residual"
 
 [2C.30.38.02.14.00.00]
 code = "2C.30.38.02.14.00.00"
-subject = "Armação de ac e ssoaodutode e sgoto"
+subject = "Armação de acessoaodutode e sgoto"
 
 [2C.30.38.06.00.00.00]
 code = "2C.30.38.06.00.00.00"
@@ -12682,7 +12682,7 @@ subject = "Dreno de subl e ito"
 
 [2C.30.38.06.18.00.00]
 code = "2C.30.38.06.18.00.00"
-subject = "Sistemadedr e nag em sup e rcial da água"
+subject = "Sistemadedr e nag em sup e rfcial da água"
 
 [2C.30.38.06.22.00.00]
 code = "2C.30.38.06.22.00.00"
@@ -12694,7 +12694,7 @@ subject = "cobertura,grade,ravina,canald e águar e sidual"
 
 [2C.30.40.00.00.00.00]
 code = "2C.30.40.00.00.00.00"
-subject = "Sistemadedr e nag em sup e rcial"
+subject = "Sistemadedr e nag em sup e rfcial"
 
 [2C.30.40.02.00.00.00]
 code = "2C.30.40.02.00.00.00"
@@ -12778,7 +12778,7 @@ subject = "Bocas com bina da s"
 
 [2C.30.40.10.00.00.00]
 code = "2C.30.40.10.00.00.00"
-subject = "Meio-o"
+subject = "Meio-fo"
 
 [2C.30.40.14.00.00.00]
 code = "2C.30.40.14.00.00.00"
@@ -12978,7 +12978,7 @@ subject = "Cômo do stemporáriosparaarmazenamento e d e sp e nsa"
 
 [2C.60.30.00.00.00.00]
 code = "2C.60.30.00.00.00.00"
-subject = "Cômo do stemporários para uso e sp e cíco"
+subject = "Cômo do stemporários para uso e sp e cífco"
 
 [2C.60.30.02.00.00.00]
 code = "2C.60.30.02.00.00.00"
@@ -13074,7 +13074,7 @@ subject = "Placa de hom e nag e m"
 
 [2C.64.18.02.00.00.00]
 code = "2C.64.18.02.00.00.00"
-subject = "paineld e i de nticação de salascom e rciais"
+subject = "paineld e i de ntifcação de salascom e rciais"
 
 [2C.64.22.00.00.00.00]
 code = "2C.64.22.00.00.00.00"
@@ -13354,11 +13354,11 @@ subject = "Armáriosobm e dida para usog e ral"
 
 [2C.68.18.10.00.00.00]
 code = "2C.68.18.10.00.00.00"
-subject = "Armários para usos e sp e cícos"
+subject = "Armários para usos e sp e cífcos"
 
 [2C.68.18.10.02.00.00]
 code = "2C.68.18.10.02.00.00"
-subject = "Armário para bancos e outrasinstituiçõ e snanc e iras"
+subject = "Armário para bancos e outrasinstituiçõ e sfnanc e iras"
 
 [2C.68.18.10.06.00.00]
 code = "2C.68.18.10.06.00.00"
@@ -13366,7 +13366,7 @@ subject = "Armário para hotéis"
 
 [2C.68.18.10.10.00.00]
 code = "2C.68.18.10.10.00.00"
-subject = "Armárioparansmédicos"
+subject = "Armárioparafnsmédicos"
 
 [2C.68.18.10.14.00.00]
 code = "2C.68.18.10.14.00.00"
@@ -13718,11 +13718,11 @@ subject = "Dispensa do rindustriald e band e jas"
 
 [2C.68.22.30.54.00.00]
 code = "2C.68.22.30.54.00.00"
-subject = "Sist em aindustrialparaltrag em d e água"
+subject = "Sist em aindustrialparafltrag em d e água"
 
 [2C.68.22.30.56.00.00]
 code = "2C.68.22.30.56.00.00"
-subject = "Equipamentoindustrialdeltrag e m"
+subject = "Equipamentoindustrialdefltrag e m"
 
 [2C.68.22.34.00.00.00]
 code = "2C.68.22.34.00.00.00"
@@ -13766,7 +13766,7 @@ subject = "Máquinadefabricarg e lo em focos"
 
 [2C.68.22.38.14.00.00]
 code = "2C.68.22.38.14.00.00"
-subject = "Dispensadord e lascasd e g e lo"
+subject = "Dispensador de lascas de gelo"
 
 [2C.68.22.38.18.00.00]
 code = "2C.68.22.38.18.00.00"
@@ -13806,7 +13806,7 @@ subject = "Mesaindustrial para Preparação de alimentos"
 
 [2C.68.22.42.26.00.00]
 code = "2C.68.22.42.26.00.00"
-subject = "Equipamentoindustrial para Preparação de bebi da s"
+subject = "Equipamentoindustrial para Preparação de bebidas"
 
 [2C.68.22.46.00.00.00]
 code = "2C.68.22.46.00.00.00"
@@ -13818,27 +13818,27 @@ subject = "Banco de bar"
 
 [2C.68.22.46.06.00.00]
 code = "2C.68.22.46.06.00.00"
-subject = "Ass e nto para r e staurante"
+subject = "Assento para restaurante"
 
 [2C.68.22.46.10.00.00]
 code = "2C.68.22.46.10.00.00"
-subject = "Sofáparar e staurante"
+subject = "Sofá para r staurante"
 
 [2C.68.22.46.14.00.00]
 code = "2C.68.22.46.14.00.00"
-subject = "Ca de ira para r e staurante"
+subject = "Cadeira para restaurante"
 
 [2C.68.22.46.18.00.00]
 code = "2C.68.22.46.18.00.00"
-subject = "Mesa para r e staurante"
+subject = "Mesa para restaurante"
 
 [2C.68.22.50.00.00.00]
 code = "2C.68.22.50.00.00.00"
-subject = "Equipamentosparaatendimentoaopúblico do s e torde alim e ntaçãocom e rcial"
+subject = "Equipamentos para atendimento ao público do setor de alimentação comercial"
 
 [2C.68.22.50.02.00.00]
 code = "2C.68.22.50.02.00.00"
-subject = "Balcãoaltoparaat e ndimentoaocli e nte"
+subject = "Balcão alto para atendimento ao cliente"
 
 [2C.68.22.50.06.00.00]
 code = "2C.68.22.50.06.00.00"
@@ -14098,7 +14098,7 @@ subject = "Chal e ira e létrica"
 
 [2C.68.26.42.00.00.00]
 code = "2C.68.26.42.00.00.00"
-subject = "Sist em asdeltrag em d e água"
+subject = "Sist em asdefltrag em d e água"
 
 [2C.68.26.42.02.00.00]
 code = "2C.68.26.42.02.00.00"
@@ -14106,7 +14106,7 @@ subject = "Filtro de barro"
 
 [2C.68.26.42.06.00.00]
 code = "2C.68.26.42.06.00.00"
-subject = "Puricadord e água"
+subject = "Purifcadord e água"
 
 [2C.68.26.42.10.00.00]
 code = "2C.68.26.42.10.00.00"
@@ -14250,7 +14250,7 @@ subject = "Assentos para a com o da rgrupos"
 
 [2C.68.30.02.02.00.00]
 code = "2C.68.30.02.02.00.00"
-subject = "Ass e nto de auditório"
+subject = "Assento de auditório"
 
 [2C.68.30.02.06.00.00]
 code = "2C.68.30.02.06.00.00"
@@ -14258,7 +14258,7 @@ subject = "Mobiliário e scolar"
 
 [2C.68.30.02.10.00.00]
 code = "2C.68.30.02.10.00.00"
-subject = "Ass e ntosxosdiv e rsos"
+subject = "Ass e ntosfxosdiv e rsos"
 
 [2C.68.30.02.14.00.00]
 code = "2C.68.30.02.14.00.00"
@@ -14302,7 +14302,7 @@ subject = "Proj e tord e plan e tário"
 
 [2C.68.30.10.06.00.00]
 code = "2C.68.30.10.06.00.00"
-subject = "Ass e nto de plan e tário"
+subject = "Assento de plan e tário"
 
 [2C.68.30.14.00.00.00]
 code = "2C.68.30.14.00.00.00"
@@ -14474,7 +14474,7 @@ subject = "Cadeiraseberçosdebalanço para b e bês e crianças"
 
 [2C.68.34.30.02.00.00]
 code = "2C.68.34.30.02.00.00"
-subject = "Ca de ira de balançoinfantil"
+subject = "Cadeira de balançoinfantil"
 
 [2C.68.34.30.06.00.00]
 code = "2C.68.34.30.06.00.00"
@@ -14566,15 +14566,15 @@ subject = "Estação de trabalho"
 
 [2C.68.38.10.00.00.00]
 code = "2C.68.38.10.00.00.00"
-subject = "Equipamentos para ocinasoufábricas"
+subject = "Equipamentos para ofcinasoufábricas"
 
 [2C.68.38.14.00.00.00]
 code = "2C.68.38.14.00.00.00"
-subject = "Mobiliário para ocinasoufábricas"
+subject = "Mobiliário para ofcinasoufábricas"
 
 [2C.68.38.14.02.00.00]
 code = "2C.68.38.14.02.00.00"
-subject = "Banca da d e trabalho para ocinasefábricas"
+subject = "Banca da d e trabalho para ofcinasefábricas"
 
 [2C.68.38.22.06.00.00]
 code = "2C.68.38.22.06.00.00"
@@ -14622,7 +14622,7 @@ subject = "Bombade com bustív e l"
 
 [2C.68.42.10.10.00.00]
 code = "2C.68.42.10.10.00.00"
-subject = "Ferram e nta para lubricaçãoautomotiva"
+subject = "Ferram e nta para lubrifcaçãoautomotiva"
 
 [2C.68.42.10.14.00.00]
 code = "2C.68.42.10.14.00.00"
@@ -14954,7 +14954,7 @@ subject = "Limpa do raavapor"
 
 [2C.68.58.10.00.00.00]
 code = "2C.68.58.10.00.00.00"
-subject = "Dispensa do r e s com rel"
+subject = "Dispensa do r e s com refl"
 
 [2C.68.58.10.02.00.00]
 code = "2C.68.58.10.02.00.00"
@@ -15378,7 +15378,7 @@ subject = "Arquibanca da s"
 
 [2C.70.02.30.02.00.00]
 code = "2C.70.02.30.02.00.00"
-subject = "Arquibancadaxapara e stádios"
+subject = "Arquibancadafxapara e stádios"
 
 [2C.70.02.30.06.00.00]
 code = "2C.70.02.30.06.00.00"
@@ -15414,7 +15414,7 @@ subject = "Barra de f e xão"
 
 [2C.70.06.06.06.00.00]
 code = "2C.70.06.06.06.00.00"
-subject = "Barra de halt e rolismo"
+subject = "Barra de halt e roflismo"
 
 [2C.70.06.10.00.00.00]
 code = "2C.70.06.10.00.00.00"
@@ -15422,7 +15422,7 @@ subject = "Bancospara e x e rcícios"
 
 [2C.70.06.10.02.00.00]
 code = "2C.70.06.10.02.00.00"
-subject = "Banco para halt e rolismo"
+subject = "Banco para halt e roflismo"
 
 [2C.70.06.14.00.00.00]
 code = "2C.70.06.14.00.00.00"
@@ -15586,7 +15586,7 @@ subject = "Asc e nsor e s"
 
 [2C.72.06.02.02.00.00]
 code = "2C.72.06.02.02.00.00"
-subject = "Asc e nsorpantográco"
+subject = "Asc e nsorpantográfco"
 
 [2C.72.06.02.04.00.00]
 code = "2C.72.06.02.04.00.00"
@@ -15614,7 +15614,7 @@ subject = "Asc e nsor para palco"
 
 [2C.72.06.02.16.00.00]
 code = "2C.72.06.02.16.00.00"
-subject = "Ascensorparaca de ira de ro da s"
+subject = "AscensorparaCadeira de ro da s"
 
 [2C.72.10.00.00.00.00]
 code = "2C.72.10.00.00.00.00"
@@ -15834,7 +15834,7 @@ subject = "Iça do r e s-guincho"
 
 [2C.72.14.34.02.00.00]
 code = "2C.72.14.34.02.00.00"
-subject = "Iça do r-guinchoxo"
+subject = "Iça do r-guinchofxo"
 
 [2C.72.14.34.06.00.00]
 code = "2C.72.14.34.06.00.00"
@@ -16110,7 +16110,7 @@ subject = "Unidaded em onitordefunçãoauditiva"
 
 [2C.74.04.02.18.00.00]
 code = "2C.74.04.02.18.00.00"
-subject = "Gravadord e t e st e grácoauditivo"
+subject = "Gravadord e t e st e gráfcoauditivo"
 
 [2C.74.04.02.22.00.00]
 code = "2C.74.04.02.22.00.00"
@@ -16274,7 +16274,7 @@ subject = "Tanqu e o do ntológico"
 
 [2C.74.08.06.18.00.00]
 code = "2C.74.08.06.18.00.00"
-subject = "Máquinadepolimento e r e ticação de ntal"
+subject = "Máquinadepolimento e r e tifcação de ntal"
 
 [2C.74.08.06.22.00.00]
 code = "2C.74.08.06.22.00.00"
@@ -16390,7 +16390,7 @@ subject = "Mobiliáriode e n do crinologia"
 
 [2C.74.14.02.02.00.00]
 code = "2C.74.14.02.02.00.00"
-subject = "Ca de ira de diálise"
+subject = "Cadeira de diálise"
 
 [2C.74.14.02.06.00.00]
 code = "2C.74.14.02.06.00.00"
@@ -16494,11 +16494,11 @@ subject = "Estruturaspré-fabricadasparaat e ndimentoaclínicag e ral"
 
 [2C.74.20.00.00.00.00]
 code = "2C.74.20.00.00.00.00"
-subject = "Produtot e rapêuticos e parasiot e rapia"
+subject = "Produtot e rapêuticos e parafsiot e rapia"
 
 [2C.74.20.02.00.00.00]
 code = "2C.74.20.02.00.00.00"
-subject = "Mobiliáriot e rapêutico e parasiot e rapia"
+subject = "Mobiliáriot e rapêutico e parafsiot e rapia"
 
 [2C.74.20.02.02.00.00]
 code = "2C.74.20.02.02.00.00"
@@ -16510,11 +16510,11 @@ subject = "Maca para t e rapia"
 
 [2C.74.20.06.00.00.00]
 code = "2C.74.20.06.00.00.00"
-subject = "Equipamentost e rapêuticos e parasiot e rapia"
+subject = "Equipamentost e rapêuticos e parafsiot e rapia"
 
 [2C.74.20.06.02.00.00]
 code = "2C.74.20.06.02.00.00"
-subject = "Equipamentodesiot e rapia com tração"
+subject = "Equipamentodefsiot e rapia com tração"
 
 [2C.74.20.06.06.00.00]
 code = "2C.74.20.06.06.00.00"
@@ -16542,7 +16542,7 @@ subject = "Unidadedehipotermia e hip e rt e rmia"
 
 [2C.74.20.10.00.00.00]
 code = "2C.74.20.10.00.00.00"
-subject = "Estruturaspré-fabrica da sparasiot e rapiae e x e rcícios paraasaúde"
+subject = "Estruturaspré-fabrica da sparafsiot e rapiae e x e rcícios paraasaúde"
 
 [2C.74.20.10.02.00.00]
 code = "2C.74.20.10.02.00.00"
@@ -16618,7 +16618,7 @@ subject = "Coluna de distribuição de gás"
 
 [2C.74.24.22.00.00.00]
 code = "2C.74.24.22.00.00.00"
-subject = "Equipamentodeltrag em d e gás"
+subject = "Equipamentodefltrag em d e gás"
 
 [2C.74.24.26.00.00.00]
 code = "2C.74.24.26.00.00.00"
@@ -16834,7 +16834,7 @@ subject = "Chuv e iro"
 
 [2C.74.36.02.18.00.00]
 code = "2C.74.36.02.18.00.00"
-subject = "Ass e nto para paci e nte"
+subject = "Assento para paci e nte"
 
 [2C.74.36.02.22.00.00]
 code = "2C.74.36.02.22.00.00"
@@ -16982,7 +16982,7 @@ subject = "Carrotipomaca"
 
 [2C.74.40.34.00.00.00]
 code = "2C.74.40.34.00.00.00"
-subject = "Ca de ira de ro da s"
+subject = "Cadeira de ro da s"
 
 [2C.74.40.38.00.00.00]
 code = "2C.74.40.38.00.00.00"
@@ -17122,7 +17122,7 @@ subject = "Esteriliza do rd e calors e co"
 
 [2C.74.48.02.10.00.00]
 code = "2C.74.48.02.10.00.00"
-subject = "Est e riliza do rdeltro"
+subject = "Est e riliza do rdefltro"
 
 [2C.74.48.02.14.00.00]
 code = "2C.74.48.02.14.00.00"
@@ -17278,7 +17278,7 @@ subject = "Testadordepressãosanguín e av e t e rinário"
 
 [2C.74.52.10.06.00.00]
 code = "2C.74.52.10.06.00.00"
-subject = "Testa do rquimiográcov e t e rinário"
+subject = "Testa do rquimiográfcov e t e rinário"
 
 [2C.74.52.10.10.00.00]
 code = "2C.74.52.10.10.00.00"
@@ -17326,7 +17326,7 @@ subject = "Carrinho para radiologia e diagnósticoporimag e ns"
 
 [2C.74.54.06.06.00.00]
 code = "2C.74.54.06.06.00.00"
-subject = "Equipamento de tomograacomputa do riza da tradicional ouporfeix e cônico"
+subject = "Equipamento de tomografacomputa do riza da tradicional ouporfeix e cônico"
 
 [2C.74.54.06.10.00.00]
 code = "2C.74.54.06.10.00.00"
@@ -17354,11 +17354,11 @@ subject = "Unidadedeterapiadeaceleradorlineard e int e nsi da de modula da d e r
 
 [2C.74.54.06.34.00.00]
 code = "2C.74.54.06.34.00.00"
-subject = "Uni da d em édica de tomograade em issãopósitron"
+subject = "Uni da d em édica de tomografade em issãopósitron"
 
 [2C.74.54.06.38.00.00]
 code = "2C.74.54.06.38.00.00"
-subject = "Uni da d em édicatomograacomputa do riza da com emissãodefótonúnico"
+subject = "Uni da d em édicatomografacomputa do riza da com emissãodefótonúnico"
 
 [2C.74.54.06.42.00.00]
 code = "2C.74.54.06.42.00.00"
@@ -17366,7 +17366,7 @@ subject = "Equipamentodetelet e rapia e radiot e rapia"
 
 [2C.74.54.06.46.00.00]
 code = "2C.74.54.06.46.00.00"
-subject = "Unidaderadiográcafuoroscópica"
+subject = "Unidaderadiográfcafuoroscópica"
 
 [2C.74.54.06.50.00.00]
 code = "2C.74.54.06.50.00.00"
@@ -17506,27 +17506,27 @@ subject = "Refrigerador e cong e la do ràprovade e xplosão"
 
 [2C.74.60.00.00.00.00]
 code = "2C.74.60.00.00.00.00"
-subject = "Produtos para usoci e ntícoelaboratorial"
+subject = "Produtos para usoci e ntífcoelaboratorial"
 
 [2C.74.60.02.00.00.00]
 code = "2C.74.60.02.00.00.00"
-subject = "Mobiliário para usoci e ntícoelaboratorial"
+subject = "Mobiliário para usoci e ntífcoelaboratorial"
 
 [2C.74.60.02.02.00.00]
 code = "2C.74.60.02.02.00.00"
-subject = "Mesa para usoci e ntícoelaboratorial"
+subject = "Mesa para usoci e ntífcoelaboratorial"
 
 [2C.74.60.02.06.00.00]
 code = "2C.74.60.02.06.00.00"
-subject = "Ca de ira para usoci e ntícoelaboratorial"
+subject = "Cadeira para usoci e ntífcoelaboratorial"
 
 [2C.74.60.02.10.00.00]
 code = "2C.74.60.02.10.00.00"
-subject = "Exaustor para usoci e ntícoelaboratorial"
+subject = "Exaustor para usoci e ntífcoelaboratorial"
 
 [2C.74.60.06.00.00.00]
 code = "2C.74.60.06.00.00.00"
-subject = "Equipamentos para usoci e ntícoelaboratorial"
+subject = "Equipamentos para usoci e ntífcoelaboratorial"
 
 [2C.74.60.06.02.00.00]
 code = "2C.74.60.06.02.00.00"
@@ -17690,7 +17690,7 @@ subject = "Caboenterradopara de t e cção de intrusão"
 
 [2C.76.02.26.06.00.00]
 code = "2C.76.02.26.06.00.00"
-subject = "Sistemade de t e cção de intrusãoporbraótica"
+subject = "Sistemade de t e cção de intrusãoporfbraótica"
 
 [2C.76.02.26.10.00.00]
 code = "2C.76.02.26.10.00.00"
@@ -17782,7 +17782,7 @@ subject = "IluminaçãoparaInspeção da part e inferiord e v e ículos"
 
 [2C.76.06.00.00.00.00]
 code = "2C.76.06.00.00.00.00"
-subject = "Control e sd e ac e sso"
+subject = "Control e sd e acesso"
 
 [2C.76.06.02.00.00.00]
 code = "2C.76.06.02.00.00.00"
@@ -17838,15 +17838,15 @@ subject = "Tecladosdeacessodep e ssoald e s e gurança"
 
 [2C.76.06.26.00.00.00]
 code = "2C.76.06.26.00.00.00"
-subject = "Barr e iras,catracasetorniquetesparacontrol e d e ac e sso"
+subject = "Barr e iras,catracasetorniquetesparacontrol e d e acesso"
 
 [2C.76.06.26.02.00.00]
 code = "2C.76.06.26.02.00.00"
-subject = "Barreiraoucatracaparacontrol e d e ac e sso"
+subject = "Barreiraoucatracaparacontrol e d e acesso"
 
 [2C.76.06.26.06.00.00]
 code = "2C.76.06.26.06.00.00"
-subject = "Torniqueteparacontrol e d e ac e sso"
+subject = "Torniqueteparacontrol e d e acesso"
 
 [2C.76.06.26.10.00.00]
 code = "2C.76.06.26.10.00.00"
@@ -17918,7 +17918,7 @@ subject = "Travasd e s e gurança"
 
 [2C.76.14.02.00.00.00]
 code = "2C.76.14.02.00.00.00"
-subject = "Travasdes e gurança de bicicl e ta"
+subject = "Travasdes e gurança de bicicleta"
 
 [2C.76.14.06.00.00.00]
 code = "2C.76.14.06.00.00.00"
@@ -18150,7 +18150,7 @@ subject = "Interruptord e incêndio de ap e rtar"
 
 [2C.76.42.00.00.00.00]
 code = "2C.76.42.00.00.00.00"
-subject = "Apar e lhosd e noticação de incêndio"
+subject = "Apar e lhosd e notifcação de incêndio"
 
 [2C.76.42.02.00.00.00]
 code = "2C.76.42.02.00.00.00"
@@ -18254,7 +18254,7 @@ subject = "Controladordealarm e d e incêndior em oto"
 
 [2C.76.42.46.00.00.00]
 code = "2C.76.42.46.00.00.00"
-subject = "Amplicadordealarm e d e incêndior em oto"
+subject = "Amplifcadordealarm e d e incêndior em oto"
 
 [2C.76.42.50.00.00.00]
 code = "2C.76.42.50.00.00.00"
@@ -18402,7 +18402,7 @@ subject = "Sistemasd e d e t e cçãodefalhas"
 
 [2C.76.58.10.02.00.00]
 code = "2C.76.58.10.02.00.00"
-subject = "Sistemade de t e cção de inltraçõ e s"
+subject = "Sistemade de t e cção de infltraçõ e s"
 
 [2C.76.58.10.06.00.00]
 code = "2C.76.58.10.06.00.00"
@@ -18646,7 +18646,7 @@ subject = "Banheira e chuv e ironom e smoboxe"
 
 [2C.78.10.06.00.00.00]
 code = "2C.78.10.06.00.00.00"
-subject = "Ass e nto de higi e nizaçãoíntima"
+subject = "Assento de higi e nizaçãoíntima"
 
 [2C.78.10.10.00.00.00]
 code = "2C.78.10.10.00.00.00"
@@ -18670,7 +18670,7 @@ subject = "painel para banh e iras"
 
 [2C.78.10.14.14.00.00]
 code = "2C.78.10.14.14.00.00"
-subject = "Ass e nto para banh e iras"
+subject = "Assento para banh e iras"
 
 [2C.78.10.14.18.00.00]
 code = "2C.78.10.14.18.00.00"
@@ -18714,7 +18714,7 @@ subject = "Revestimentoparabox e d e chuv e iro"
 
 [2C.78.14.26.00.00.00]
 code = "2C.78.14.26.00.00.00"
-subject = "Ass e nto de chuv e iro"
+subject = "Assento de chuv e iro"
 
 [2C.78.14.30.00.00.00]
 code = "2C.78.14.30.00.00.00"
@@ -18790,7 +18790,7 @@ subject = "Tritura do rsanitário"
 
 [2C.78.18.18.14.00.00]
 code = "2C.78.18.18.14.00.00"
-subject = "Ass e nto de baciasanitária"
+subject = "Assento de baciasanitária"
 
 [2C.78.18.18.18.00.00]
 code = "2C.78.18.18.18.00.00"
@@ -19606,23 +19606,23 @@ subject = "Lava do ra de arpor e vaporação"
 
 [2C.80.34.06.00.00.00]
 code = "2C.80.34.06.00.00.00"
-subject = "Equipamentos para d e sumidicação"
+subject = "Equipamentos para d e sumidifcação"
 
 [2C.80.34.06.02.00.00]
 code = "2C.80.34.06.02.00.00"
-subject = "Desumidicadora"
+subject = "Desumidifcadora"
 
 [2C.80.34.06.06.00.00]
 code = "2C.80.34.06.06.00.00"
-subject = "Desumidicadorapermanent em e nt e instalada"
+subject = "Desumidifcadorapermanent em e nt e instalada"
 
 [2C.80.34.06.10.00.00]
 code = "2C.80.34.06.10.00.00"
-subject = "Desumidicadoraportátil"
+subject = "Desumidifcadoraportátil"
 
 [2C.80.34.10.00.00.00]
 code = "2C.80.34.10.00.00.00"
-subject = "Umidicadorasd e ar"
+subject = "Umidifcadorasd e ar"
 
 [2C.80.34.14.00.00.00]
 code = "2C.80.34.14.00.00.00"
@@ -19942,7 +19942,7 @@ subject = "Terminaisd e ar-condiciona do tipopackag e d"
 
 [2C.80.58.18.02.00.00]
 code = "2C.80.58.18.02.00.00"
-subject = "Terminald e ar-condiciona do tipopackag e dxadonochão"
+subject = "Terminald e ar-condiciona do tipopackag e dfxadonochão"
 
 [2C.80.58.18.06.00.00]
 code = "2C.80.58.18.06.00.00"
@@ -20102,7 +20102,7 @@ subject = "Duto de v e ntilaçãoquadrado"
 
 [2C.80.78.10.00.00.00]
 code = "2C.80.78.10.00.00.00"
-subject = "Painéisd e ac e ssoaoduto"
+subject = "Painéisd e acessoaoduto"
 
 [2C.80.78.14.00.00.00]
 code = "2C.80.78.14.00.00.00"
@@ -20230,7 +20230,7 @@ subject = "Monitor e sd e gas e srefrig e rant e s"
 
 [2C.80.82.06.00.00.00]
 code = "2C.80.82.06.00.00.00"
-subject = "Unidadesd e puricação de gas e srefrig e rant e s"
+subject = "Unidadesd e purifcação de gas e srefrig e rant e s"
 
 [2C.80.82.10.00.00.00]
 code = "2C.80.82.10.00.00.00"
@@ -20714,7 +20714,7 @@ subject = "Conv e rsor e s e státicosd e alim e ntação"
 
 [2C.82.26.10.02.00.00]
 code = "2C.82.26.10.02.00.00"
-subject = "Reticador e stático"
+subject = "Retifcador e stático"
 
 [2C.82.26.10.06.00.00]
 code = "2C.82.26.10.06.00.00"
@@ -21102,7 +21102,7 @@ subject = "Alimenta do r e s e létricos"
 
 [2C.82.44.00.00.00.00]
 code = "2C.82.44.00.00.00.00"
-subject = "Component e sd e via para caboseos"
+subject = "Component e sd e via para cabosefos"
 
 [2C.82.44.02.00.00.00]
 code = "2C.82.44.02.00.00.00"
@@ -21294,7 +21294,7 @@ subject = "Int e rruptord e lâmina"
 
 [2C.82.52.42.00.00.00]
 code = "2C.82.52.42.00.00.00"
-subject = "Int e rruptor e sporsist em asdeaçãomodular"
+subject = "Int e rruptor e sporsist em asdefaçãomodular"
 
 [2C.82.52.46.00.00.00]
 code = "2C.82.52.46.00.00.00"
@@ -21686,7 +21686,7 @@ subject = "Luminárias para iluminaçãode em e rgência"
 
 [2C.82.72.06.02.00.00]
 code = "2C.82.72.06.02.00.00"
-subject = "Luminária para iluminaçãode em e rgênciadeaçãorígida"
+subject = "Luminária para iluminaçãode em e rgênciadefaçãorígida"
 
 [2C.82.72.06.06.00.00]
 code = "2C.82.72.06.06.00.00"
@@ -21710,7 +21710,7 @@ subject = "Sinalizadorluminosodesaídacombat e riar e s e rva"
 
 [2C.82.72.10.06.00.00]
 code = "2C.82.72.10.06.00.00"
-subject = "Sinalizadorluminosodesaída com r e s e rvadeação rígida"
+subject = "Sinalizadorluminosodesaída com r e s e rvadefação rígida"
 
 [2C.82.72.10.10.00.00]
 code = "2C.82.72.10.10.00.00"
@@ -21718,7 +21718,7 @@ subject = "Sinaliza do rluminoso de saí da autoiluminado"
 
 [2C.82.72.14.00.00.00]
 code = "2C.82.72.14.00.00.00"
-subject = "Luminárias para iluminaçãoporbraótica"
+subject = "Luminárias para iluminaçãoporfbraótica"
 
 [2C.82.72.18.00.00.00]
 code = "2C.82.72.18.00.00.00"
@@ -21798,7 +21798,7 @@ subject = "Rackd e t e lefone"
 
 [2C.84.02.10.10.00.00]
 code = "2C.84.02.10.10.00.00"
-subject = "Equipamentodebraóptica"
+subject = "Equipamentodefbraóptica"
 
 [2C.84.02.14.00.00.00]
 code = "2C.84.02.14.00.00.00"
@@ -21910,11 +21910,11 @@ subject = "Switchd e r e d e local"
 
 [2C.84.06.10.38.00.00]
 code = "2C.84.06.10.38.00.00"
-subject = "Unidadedeta de r e d e local"
+subject = "Unidadedefta de r e d e local"
 
 [2C.84.06.10.42.00.00]
 code = "2C.84.06.10.42.00.00"
-subject = "Dispositivos e moemr e d e local"
+subject = "Dispositivos e mfoemr e d e local"
 
 [2C.84.06.10.46.00.00]
 code = "2C.84.06.10.46.00.00"
@@ -21958,11 +21958,11 @@ subject = "Switchder e d e d e longadistância"
 
 [2C.84.06.14.34.00.00]
 code = "2C.84.06.14.34.00.00"
-subject = "Unidadedetasder e d e d e longadistância"
+subject = "Unidadedeftasder e d e d e longadistância"
 
 [2C.84.06.14.38.00.00]
 code = "2C.84.06.14.38.00.00"
-subject = "Dispositivos e moemr e d e d e longadistância"
+subject = "Dispositivos e mfoemr e d e d e longadistância"
 
 [2C.84.06.18.00.00.00]
 code = "2C.84.06.18.00.00.00"
@@ -21982,7 +21982,7 @@ subject = "Unidade de m em óriafash"
 
 [2C.84.06.18.14.00.00]
 code = "2C.84.06.18.14.00.00"
-subject = "Unidadedetade com puta do r"
+subject = "Unidadedeftade com puta do r"
 
 [2C.84.06.22.00.00.00]
 code = "2C.84.06.22.00.00.00"
@@ -22030,7 +22030,7 @@ subject = "Equipamentosaudiovisuais"
 
 [2C.84.10.02.00.00.00]
 code = "2C.84.10.02.00.00.00"
-subject = "Câm e rasfotográcas"
+subject = "Câm e rasfotográfcas"
 
 [2C.84.10.02.02.00.00]
 code = "2C.84.10.02.02.00.00"
@@ -22050,7 +22050,7 @@ subject = "Câmeradegravaçãodevídeo com Armazenamento digital"
 
 [2C.84.10.06.06.00.00]
 code = "2C.84.10.06.06.00.00"
-subject = "CâmeradegravaçãodevídeocomArmazenamento em ta"
+subject = "CâmeradegravaçãodevídeocomArmazenamento em fta"
 
 [2C.84.10.10.00.00.00]
 code = "2C.84.10.10.00.00.00"
@@ -22082,7 +22082,7 @@ subject = "Proj e tord e víd e oalto"
 
 [2C.84.10.18.10.00.00]
 code = "2C.84.10.18.10.00.00"
-subject = "Proj e tordelme de víd e o"
+subject = "Proj e tordeflme de víd e o"
 
 [2C.84.10.18.14.00.00]
 code = "2C.84.10.18.14.00.00"
@@ -22114,7 +22114,7 @@ subject = "Equipamentos e stér e o"
 
 [2C.84.10.26.02.00.00]
 code = "2C.84.10.26.02.00.00"
-subject = "Amplicador e stér e o"
+subject = "Amplifcador e stér e o"
 
 [2C.84.10.26.06.00.00]
 code = "2C.84.10.26.06.00.00"
@@ -22226,11 +22226,11 @@ subject = "Equipamentosde comunicação com público"
 
 [2C.84.14.10.02.00.00]
 code = "2C.84.14.10.02.00.00"
-subject = "Microfonecomo"
+subject = "Microfonecomfo"
 
 [2C.84.14.10.06.00.00]
 code = "2C.84.14.10.06.00.00"
-subject = "Microfones e mo"
+subject = "Microfones e mfo"
 
 [2C.84.14.10.10.00.00]
 code = "2C.84.14.10.10.00.00"
@@ -22282,15 +22282,15 @@ subject = "Equipamento de t e le comunicação"
 
 [2C.84.26.02.00.00.00]
 code = "2C.84.26.02.00.00.00"
-subject = "Equipamentosd e t e lefonias e mo"
+subject = "Equipamentosd e t e lefonias e mfo"
 
 [2C.84.26.02.02.00.00]
 code = "2C.84.26.02.02.00.00"
-subject = "Telefones e mo"
+subject = "Telefones e mfo"
 
 [2C.84.26.02.06.00.00]
 code = "2C.84.26.02.06.00.00"
-subject = "Carrega do rd e t e lefones e mo"
+subject = "Carrega do rd e t e lefones e mfo"
 
 [2C.84.26.06.00.00.00]
 code = "2C.84.26.06.00.00.00"
@@ -22318,7 +22318,7 @@ subject = "Telefone de linhamúltipla"
 
 [2C.84.26.14.00.00.00]
 code = "2C.84.26.14.00.00.00"
-subject = "Equipamento de t e lefoniacomo"
+subject = "Equipamento de t e lefoniacomfo"
 
 [2C.84.26.14.02.00.00]
 code = "2C.84.26.14.02.00.00"
@@ -22374,7 +22374,7 @@ subject = "Equipamento de radio comunicação de satélite"
 
 [2C.84.26.26.10.00.00]
 code = "2C.84.26.26.10.00.00"
-subject = "Equipamentode comunicação de rádios e mo"
+subject = "Equipamentode comunicação de rádios e mfo"
 
 [2C.84.26.26.14.00.00]
 code = "2C.84.26.26.14.00.00"
@@ -22414,7 +22414,7 @@ subject = "Equipamentosderecepção e d e cabo de transmissãode radiodifusão"
 
 [2C.84.30.18.02.00.00]
 code = "2C.84.30.18.02.00.00"
-subject = "Amplicadoresderec e pção e cabo de transmissãode radiodifusão"
+subject = "Amplifcadoresderec e pção e cabo de transmissãode radiodifusão"
 
 [2C.84.30.18.06.00.00]
 code = "2C.84.30.18.06.00.00"
@@ -22438,7 +22438,7 @@ subject = "Ant e nasd e radiodifusão"
 
 [2C.84.30.22.10.00.00]
 code = "2C.84.30.22.10.00.00"
-subject = "Amplicador e sd e radiodifusão"
+subject = "Amplifcador e sd e radiodifusão"
 
 [2C.84.30.22.14.00.00]
 code = "2C.84.30.22.14.00.00"
@@ -22462,7 +22462,7 @@ subject = "Parabólicasd e radiodifusão"
 
 [2C.84.30.26.14.00.00]
 code = "2C.84.30.26.14.00.00"
-subject = "Amplicador e sd em icro-onda de radiodifusão"
+subject = "Amplifcador e sd em icro-onda de radiodifusão"
 
 [2C.84.30.26.18.00.00]
 code = "2C.84.30.26.18.00.00"
@@ -22490,19 +22490,19 @@ subject = "Comunicaçãode em e rgência"
 
 [2C.84.34.02.00.00.00]
 code = "2C.84.34.02.00.00.00"
-subject = "Dispositivosd e noticaçõ e sd e aprisionamento"
+subject = "Dispositivosd e notifcaçõ e sd e aprisionamento"
 
 [2C.84.34.06.00.00.00]
 code = "2C.84.34.06.00.00.00"
-subject = "Sist em asd e noticaçõ e sd em assas"
+subject = "Sist em asd e notifcaçõ e sd em assas"
 
 [2C.84.34.06.02.00.00]
 code = "2C.84.34.06.02.00.00"
-subject = "Dispositivo de noticaçãode em e rgência"
+subject = "Dispositivo de notifcaçãode em e rgência"
 
 [2C.84.34.06.06.00.00]
 code = "2C.84.34.06.06.00.00"
-subject = "Noticação de p e rigoimin e nte"
+subject = "Notifcação de p e rigoimin e nte"
 
 [2C.84.34.10.00.00.00]
 code = "2C.84.34.10.00.00.00"
@@ -22522,7 +22522,7 @@ subject = "Equipamentosdechama da sde em e rgências"
 
 [2C.84.34.14.02.00.00]
 code = "2C.84.34.14.02.00.00"
-subject = "Sistemadechamada para p e ssoas com deciência"
+subject = "Sistemadechamada para p e ssoas com defciência"
 
 [2C.84.34.14.06.00.00]
 code = "2C.84.34.14.06.00.00"
@@ -22542,7 +22542,7 @@ subject = "Areias"
 
 [2C.92.02.02.02.00.00]
 code = "2C.92.02.02.02.00.00"
-subject = "Areiana"
+subject = "Areiafna"
 
 [2C.92.02.02.06.00.00]
 code = "2C.92.02.02.06.00.00"
@@ -22670,7 +22670,7 @@ subject = "Aditivocim e ntício"
 
 [2C.92.10.06.02.00.00]
 code = "2C.92.10.06.02.00.00"
-subject = "Aditivocim e ntícioplasticante"
+subject = "Aditivocim e ntícioplastifcante"
 
 [2C.92.10.06.06.00.00]
 code = "2C.92.10.06.06.00.00"
@@ -22726,23 +22726,23 @@ subject = "Aditivo para g e sso"
 
 [2C.92.14.00.00.00.00]
 code = "2C.92.14.00.00.00.00"
-subject = "Pers"
+subject = "Perfs"
 
 [2C.92.14.02.00.00.00]
 code = "2C.92.14.02.00.00.00"
-subject = "Persdeaço"
+subject = "Perfsdeaço"
 
 [2C.92.14.06.00.00.00]
 code = "2C.92.14.06.00.00.00"
-subject = "Persdealumínio"
+subject = "Perfsdealumínio"
 
 [2C.92.14.10.00.00.00]
 code = "2C.92.14.10.00.00.00"
-subject = "Persdema de ira"
+subject = "Perfsdema de ira"
 
 [2C.92.14.14.00.00.00]
 code = "2C.92.14.14.00.00.00"
-subject = "Persdeplástico"
+subject = "Perfsdeplástico"
 
 [2C.92.18.00.00.00.00]
 code = "2C.92.18.00.00.00.00"
@@ -22778,7 +22778,7 @@ subject = "Estais"
 
 [2C.92.18.02.26.00.00]
 code = "2C.92.18.02.26.00.00"
-subject = "Cor da seos"
+subject = "Cor da sefos"
 
 [2C.92.18.02.30.00.00]
 code = "2C.92.18.02.30.00.00"
@@ -23158,7 +23158,7 @@ subject = "Proj e tista"
 
 [2N.14.02.20.00.00.00]
 code = "2N.14.02.20.00.00.00"
-subject = "Esp e cicador"
+subject = "Esp e cifcador"
 
 [2N.14.08.00.00.00.00]
 code = "2N.14.08.00.00.00.00"
@@ -23186,7 +23186,7 @@ subject = "Administra do rd e contratos"
 
 [2N.14.14.00.00.00.00]
 code = "2N.14.14.00.00.00.00"
-subject = "Funçõ e sdescalização de projetos"
+subject = "Funçõ e sdefscalização de projetos"
 
 [2N.14.14.02.00.00.00]
 code = "2N.14.14.02.00.00.00"
@@ -23270,11 +23270,11 @@ subject = "Funçõesde e x e cução da obra"
 
 [2N.20.14.02.00.00.00]
 code = "2N.20.14.02.00.00.00"
-subject = "Ocialouprossional"
+subject = "Ofcialouprofssional"
 
 [2N.20.14.08.00.00.00]
 code = "2N.20.14.08.00.00.00"
-subject = "Meio-ocial,ajudant e ous e rv e nte"
+subject = "Meio-ofcial,ajudant e ous e rv e nte"
 
 [2N.20.14.14.00.00.00]
 code = "2N.20.14.14.00.00.00"
@@ -23286,11 +23286,11 @@ subject = "Pedr e iro"
 
 [2N.20.14.20.02.00.00]
 code = "2N.20.14.20.02.00.00"
-subject = "Pedr e iroqualicado"
+subject = "Pedr e iroqualifcado"
 
 [2N.20.14.20.08.00.00]
 code = "2N.20.14.20.08.00.00"
-subject = "Pedr e ironãoqualicado"
+subject = "Pedr e ironãoqualifcado"
 
 [2N.20.14.26.00.00.00]
 code = "2N.20.14.26.00.00.00"
@@ -23306,7 +23306,7 @@ subject = "Opera do rd e sist em as"
 
 [2N.20.20.00.00.00.00]
 code = "2N.20.20.00.00.00.00"
-subject = "Funçõ e sdescalização de obras"
+subject = "Funçõ e sdefscalização de obras"
 
 [2N.20.20.02.00.00.00]
 code = "2N.20.20.02.00.00.00"
@@ -23426,7 +23426,7 @@ subject = "Corr e tord e imóv e l"
 
 [2N.32.14.00.00.00.00]
 code = "2N.32.14.00.00.00.00"
-subject = "Funçõ e snanc e iras"
+subject = "Funçõ e sfnanc e iras"
 
 [2N.32.14.02.00.00.00]
 code = "2N.32.14.02.00.00.00"
@@ -23434,7 +23434,7 @@ subject = "Conta do r"
 
 [2N.32.14.08.00.00.00]
 code = "2N.32.14.08.00.00.00"
-subject = "Consultornanc e iro"
+subject = "Consultorfnanc e iro"
 
 [2N.32.14.14.00.00.00]
 code = "2N.32.14.14.00.00.00"
@@ -23630,11 +23630,11 @@ subject = "Consórcio"
 
 [2N.92.20.38.00.00.00]
 code = "2N.92.20.38.00.00.00"
-subject = "Sociedade de propósito e sp e cíco"
+subject = "Sociedade de propósito e sp e cífco"
 
 [2N.92.26.00.00.00.00]
 code = "2N.92.26.00.00.00.00"
-subject = "Organizaçõ e ss e mnslucrativos"
+subject = "Organizaçõ e ss e mfnslucrativos"
 
 [2N.92.26.02.00.00.00]
 code = "2N.92.26.02.00.00.00"
@@ -23682,7 +23682,7 @@ subject = "Guias em anuais"
 
 [2Q.02.06.02.00.00.00]
 code = "2Q.02.06.02.00.00.00"
-subject = "Guiasd e classicaçãoe e sp e cicação"
+subject = "Guiasd e classifcaçãoe e sp e cifcação"
 
 [2Q.02.10.00.00.00.00]
 code = "2Q.02.10.00.00.00.00"
@@ -23834,7 +23834,7 @@ subject = "Sotware de Planejamento"
 
 [2Q.06.10.02.22.00.00]
 code = "2Q.06.10.02.22.00.00"
-subject = "Sotwar e gráco"
+subject = "Sotwar e gráfco"
 
 [2Q.06.10.02.26.00.00]
 code = "2Q.06.10.02.26.00.00"
@@ -23906,15 +23906,15 @@ subject = "SotwareBIMparaprojetodeoutrasesp e ciali da d e s"
 
 [2Q.06.10.14.00.00.00]
 code = "2Q.06.10.14.00.00.00"
-subject = "Sistemasparagestão em anut e nçãode e dicaçõ e se instalações (BMS)"
+subject = "Sistemasparagestão em anut e nçãode e difcaçõ e se instalações (BMS)"
 
 [2Q.06.10.14.02.00.00]
 code = "2Q.06.10.14.02.00.00"
-subject = "Sotware para g e stãode e dicaçõ e s e instalações"
+subject = "Sotware para g e stãode e difcaçõ e s e instalações"
 
 [2Q.06.10.14.06.00.00]
 code = "2Q.06.10.14.06.00.00"
-subject = "Sistemacomputadorizadodeg e stãod em anut e nçãode edicaçõ e s e instalações"
+subject = "Sistemacomputadorizadodeg e stãod em anut e nçãode edifcaçõ e s e instalações"
 
 [2Q.06.10.14.10.00.00]
 code = "2Q.06.10.14.10.00.00"
@@ -23926,7 +23926,7 @@ subject = "Equipamentosparam e dição em campo e capturada reali da de"
 
 [2Q.18.02.00.00.00.00]
 code = "2Q.18.02.00.00.00.00"
-subject = "Equipamentosd e topograael e vantamento"
+subject = "Equipamentosd e topografael e vantamento"
 
 [2Q.18.02.02.00.00.00]
 code = "2Q.18.02.02.00.00.00"
@@ -23934,7 +23934,7 @@ subject = "Trena"
 
 [2Q.18.02.02.02.00.00]
 code = "2Q.18.02.02.02.00.00"
-subject = "Trenadebra de vidro"
+subject = "Trenadefbra de vidro"
 
 [2Q.18.02.02.06.00.00]
 code = "2Q.18.02.02.06.00.00"
@@ -24022,7 +24022,7 @@ subject = "Equipamento para anális e d e vibração"
 
 [2Q.22.02.02.06.00.00]
 code = "2Q.22.02.02.06.00.00"
-subject = "Equipamento para t e rmograa"
+subject = "Equipamento para t e rmografa"
 
 [2Q.22.02.02.10.00.00]
 code = "2Q.22.02.02.10.00.00"
@@ -24210,7 +24210,7 @@ subject = "Dobra do r e sd e açoreforçado"
 
 [2Q.42.02.14.00.00.00]
 code = "2Q.42.02.14.00.00.00"
-subject = "Ferram e ntasmanuaisparaxação"
+subject = "Ferram e ntasmanuaisparafxação"
 
 [2Q.42.02.14.02.00.00]
 code = "2Q.42.02.14.02.00.00"
@@ -24310,7 +24310,7 @@ subject = "Serramotorizada"
 
 [2Q.42.06.02.06.00.00]
 code = "2Q.42.06.02.06.00.00"
-subject = "Fura de iraportátil com ous e mo"
+subject = "Fura de iraportátil com ous e mfo"
 
 [2Q.42.06.02.10.00.00]
 code = "2Q.42.06.02.10.00.00"
@@ -24354,7 +24354,7 @@ subject = "Esm e ril/esm e rilha de ira"
 
 [2Q.42.06.10.00.00.00]
 code = "2Q.42.06.10.00.00.00"
-subject = "Ferram e ntasmotoriza da sparaxação"
+subject = "Ferram e ntasmotoriza da sparafxação"
 
 [2Q.42.06.14.00.00.00]
 code = "2Q.42.06.14.00.00.00"
@@ -24370,7 +24370,7 @@ subject = "Poli do r e létrico"
 
 [2Q.42.06.14.10.00.00]
 code = "2Q.42.06.14.10.00.00"
-subject = "Escaricador"
+subject = "Escarifcador"
 
 [2Q.42.06.14.14.00.00]
 code = "2Q.42.06.14.14.00.00"
@@ -24482,7 +24482,7 @@ subject = "Equipamento de jat e amento"
 
 [2Q.42.18.00.00.00.00]
 code = "2Q.42.18.00.00.00.00"
-subject = "Desumidicador e s"
+subject = "Desumidifcador e s"
 
 [2Q.42.22.00.00.00.00]
 code = "2Q.42.22.00.00.00.00"
@@ -24558,7 +24558,7 @@ subject = "Balanças"
 
 [2Q.42.26.30.00.00.00]
 code = "2Q.42.26.30.00.00.00"
-subject = "Câmarasfrigorícas"
+subject = "Câmarasfrigorífcas"
 
 [2Q.42.26.34.00.00.00]
 code = "2Q.42.26.34.00.00.00"
@@ -24646,7 +24646,7 @@ subject = "Equipamentosdedrenagem para cant e iro de obras"
 
 [2Q.50.10.02.00.00.00]
 code = "2Q.50.10.02.00.00.00"
-subject = "Pont e irasltrant e s"
+subject = "Pont e irasfltrant e s"
 
 [2Q.50.14.00.00.00.00]
 code = "2Q.50.14.00.00.00.00"
@@ -24706,7 +24706,7 @@ subject = "Guarda-corpos"
 
 [2Q.54.06.18.06.00.00]
 code = "2Q.54.06.18.06.00.00"
-subject = "Viasd e ac e sso"
+subject = "Viasd e acesso"
 
 [2Q.54.06.18.06.02.00]
 code = "2Q.54.06.18.06.02.00"
@@ -24898,7 +24898,7 @@ subject = "Quebradoresetrituradoresd e p e drasbrita da spara concr e to"
 
 [2Q.58.10.02.10.00.00]
 code = "2Q.58.10.02.10.00.00"
-subject = "Planta de classicaçãoeseparação de p e drasbrita da s paraconcreto e agr e ga do s"
+subject = "Planta de classifcaçãoeseparação de p e drasbrita da s paraconcreto e agr e ga do s"
 
 [2Q.58.10.02.14.00.00]
 code = "2Q.58.10.02.14.00.00"
@@ -24926,7 +24926,7 @@ subject = "Usinadereciclagemd e r e stosd e construção"
 
 [2Q.58.10.06.00.00.00]
 code = "2Q.58.10.06.00.00.00"
-subject = "Equipamentosd e b e neciamentodep e drasbrita da s para a produção de concr e to"
+subject = "Equipamentosd e b e nefciamentodep e drasbrita da s para a produção de concr e to"
 
 [2Q.58.10.06.02.00.00]
 code = "2Q.58.10.06.02.00.00"
@@ -25078,7 +25078,7 @@ subject = "Vibrador e sd e im e rsão(mangot e s)"
 
 [2Q.58.10.06.34.06.00]
 code = "2Q.58.10.06.34.06.00"
-subject = "Vibra do r e ssup e rciais-Réguasvibratórias"
+subject = "Vibra do r e ssup e rfciais-Réguasvibratórias"
 
 [2Q.58.10.06.34.10.00]
 code = "2Q.58.10.06.34.10.00"
@@ -25214,7 +25214,7 @@ subject = "Máquinasc e ntrífugasparalançamento em ol da g em de concr e to"
 
 [2Q.58.10.14.02.34.00]
 code = "2Q.58.10.14.02.34.00"
-subject = "Máquinas para produção de meios-osd e concr e to"
+subject = "Máquinas para produção de meios-fosd e concr e to"
 
 [2Q.58.10.14.02.38.00]
 code = "2Q.58.10.14.02.38.00"
@@ -25374,7 +25374,7 @@ subject = "Escavoel e va do r e s"
 
 [2Q.62.02.46.00.00.00]
 code = "2Q.62.02.46.00.00.00"
-subject = "Escaricador e s"
+subject = "Escarifcador e s"
 
 [2Q.62.02.50.00.00.00]
 code = "2Q.62.02.50.00.00.00"
@@ -25414,7 +25414,7 @@ subject = "Carrega de iras com braçopara e scavação"
 
 [2Q.62.10.18.00.00.00]
 code = "2Q.62.10.18.00.00.00"
-subject = "Carrega de iras com lançaarticulada e suportexo"
+subject = "Carrega de iras com lançaarticulada e suportefxo"
 
 [2Q.62.10.22.00.00.00]
 code = "2Q.62.10.22.00.00.00"
@@ -25470,7 +25470,7 @@ subject = "Tratorde e st e iras"
 
 [2Q.62.30.02.10.00.00]
 code = "2Q.62.30.02.10.00.00"
-subject = "Trator com lâmina e scaricadora"
+subject = "Trator com lâmina e scarifcadora"
 
 [2Q.62.30.02.14.00.00]
 code = "2Q.62.30.02.14.00.00"
@@ -25638,7 +25638,7 @@ subject = "Máquinasdevarrição e Limpeza de pistas"
 
 [2Q.62.34.58.30.00.00]
 code = "2Q.62.34.58.30.00.00"
-subject = "Escaricadorasparaestradasd e ro da g e m"
+subject = "Escarifcadorasparaestradasd e ro da g e m"
 
 [2Q.62.34.62.00.00.00]
 code = "2Q.62.34.62.00.00.00"
@@ -25990,7 +25990,7 @@ subject = "Duto"
 
 [2Q.66.26.00.00.00.00]
 code = "2Q.66.26.00.00.00.00"
-subject = "Equipamentosd e suportexo"
+subject = "Equipamentosd e suportefxo"
 
 [2Q.66.30.00.00.00.00]
 code = "2Q.66.30.00.00.00.00"
@@ -26026,7 +26026,7 @@ subject = "Roça de irasd e jardim"
 
 [2Q.92.02.06.00.00.00]
 code = "2Q.92.02.06.00.00.00"
-subject = "EquipamentosparaLimpeza em anut e nçãodefacha da sde edicaçõ e s"
+subject = "EquipamentosparaLimpeza em anut e nçãodefacha da sde edifcaçõ e s"
 
 [2Q.92.02.06.02.00.00]
 code = "2Q.92.02.06.02.00.00"
@@ -26054,7 +26054,7 @@ subject = "Luvasparaserviçosdelavag em d e jan e las"
 
 [2Q.92.02.06.22.00.00]
 code = "2Q.92.02.06.22.00.00"
-subject = "Panosd em icrobraparalavag em d e jan e las"
+subject = "Panosd em icrofbraparalavag em d e jan e las"
 
 [2Q.92.02.06.26.00.00]
 code = "2Q.92.02.06.26.00.00"
@@ -31923,7 +31923,7 @@ subject = "Uni da de de fabricação de motocicl e tas"
 
 [4U.14.82.22.00.00.00]
 code = "4U.14.82.22.00.00.00"
-subject = "Uni da de de fabricação de bicicl e tas e triciclos não motoriza do s"
+subject = "Uni da de de fabricação de bicicletas e triciclos não motoriza do s"
 
 [4U.14.86.00.00.00.00]
 code = "4U.14.86.00.00.00.00"
@@ -32591,11 +32591,11 @@ subject = "Passag em para pe de str e s"
 
 [4U.30.10.10.06.00.00]
 code = "4U.30.10.10.06.00.00"
-subject = "Passag em para bicicl e tas e outros veículos não motoriza do s"
+subject = "Passag em para bicicletas e outros veículos não motoriza do s"
 
 [4U.30.10.10.10.00.00]
 code = "4U.30.10.10.10.00.00"
-subject = "Passag em para pe de str e s, bicicl e tas e outros veículos não motoriza do s"
+subject = "Passag em para pe de str e s, bicicletas e outros veículos não motoriza do s"
 
 [4U.30.10.10.14.00.00]
 code = "4U.30.10.10.14.00.00"
@@ -32944,7 +32944,7 @@ subject = "Comércioatacadistade apar e lhos eletrônicos de uso pessoal e domé
 
 [4U.34.06.10.38.00.00]
 code = "4U.34.06.10.38.00.00"
-subject = "Comércioatacadistade bicicl e tas, triciclos e outros veículos recr e ativos"
+subject = "Comércioatacadistade bicicletas, triciclos e outros veículos recr e ativos"
 
 [4U.34.06.10.42.00.00]
 code = "4U.34.06.10.42.00.00"
@@ -33588,7 +33588,7 @@ subject = "Estacionamentode caminhõ e s"
 
 [4U.38.14.06.14.00.00]
 code = "4U.38.14.06.14.00.00"
-subject = "Estacionamentode bicicl e tas"
+subject = "Estacionamentode bicicletas"
 
 [4U.38.14.06.18.00.00]
 code = "4U.38.14.06.18.00.00"
@@ -35844,7 +35844,7 @@ subject = "Ocina de reparação de relógios"
 
 [4U.82.22.30.00.00.00]
 code = "4U.82.22.30.00.00.00"
-subject = "Ocina de reparação de bicicl e tas, triciclos e outros veículos não motoriza do s"
+subject = "Ocina de reparação de bicicletas, triciclos e outros veículos não motoriza do s"
 
 [4U.82.22.34.00.00.00]
 code = "4U.82.22.34.00.00.00"
@@ -38596,7 +38596,7 @@ subject = "Salade exam e s ou treinamento, imp e dimentos de visão"
 
 [4A.43.28.28.00.00.00]
 code = "4A.43.28.28.00.00.00"
-subject = "Ca de ira oftalmológica"
+subject = "Cadeira oftalmológica"
 
 [4A.43.28.31.00.00.00]
 code = "4A.43.28.31.00.00.00"
@@ -39316,7 +39316,7 @@ subject = "Espaço de exame e tratamentofonoaudiológico"
 
 [4A.43.49.88.00.00.00]
 code = "4A.43.49.88.00.00.00"
-subject = "Ocina de reparo de ca de ira de rodas"
+subject = "Ocina de reparo de Cadeira de rodas"
 
 [4A.43.49.91.00.00.00]
 code = "4A.43.49.91.00.00.00"
