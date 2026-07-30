@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NBR 15965 – Classificação</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+    body {
+      background: #f5f7fa;
+      margin: 0;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+    }
+    .container {
+      max-width: 1200px;
+      width: 100%;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      padding: 24px 30px 40px;
+    }
+    h1 {
+      font-size: 1.8rem;
+      font-weight: 600;
+      margin: 0 0 4px 0;
+      color: #1e293b;
+    }
+    .sub {
+      color: #64748b;
+      margin-top: 0;
+      margin-bottom: 24px;
+      font-size: 0.95rem;
+    }
+    .search-box {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 28px;
+    }
+    .search-box input {
+      flex: 1;
+      min-width: 200px;
+      padding: 12px 18px;
+      border: 1px solid #d1d5db;
+      border-radius: 40px;
+      font-size: 1rem;
+      outline: none;
+      transition: 0.2s;
+    }
+    .search-box input:focus {
+      border-color: #2563eb;
+      box-shadow: 0 0 0 3px rgba(37,99,235,0.15);
+    }
+    .search-box button {
+      background: #2563eb;
+      color: white;
+      border: none;
+      padding: 12px 28px;
+      border-radius: 40px;
+      font-size: 1rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+    .search-box button:hover {
+      background: #1d4ed8;
+    }
+    .stats {
+      font-size: 0.9rem;
+      color: #475569;
+      margin-bottom: 16px;
+    }
+    .table-wrap {
+      overflow-x: auto;
+      border-radius: 12px;
+      border: 1px solid #e9edf2;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+    th {
+      background: #f1f5f9;
+      text-align: left;
+      padding: 14px 16px;
+      font-weight: 600;
+      color: #1e293b;
+      border-bottom: 2px solid #dce1e8;
+    }
+    td {
+      padding: 12px 16px;
+      border-bottom: 1px solid #e9edf2;
+      vertical-align: top;
+    }
+    tr:last-child td {
+      border-bottom: none;
+    }
+    .code-col {
+      font-family: 'Courier New', monospace;
+      font-weight: 500;
+      color: #0b3b5c;
+      white-space: nowrap;
+    }
+    .no-results {
+      text-align: center;
+      padding: 40px 16px;
+      color: #64748b;
+    }
+    .loading {
+      text-align: center;
+      padding: 40px;
+      color: #2563eb;
+    }
+    footer {
+      margin-top: 30px;
+      font-size: 0.8rem;
+      color: #94a3b8;
+      text-align: center;
+      border-top: 1px solid #e9edf2;
+      padding-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>🔍 NBR 15965</h1>
+  <p class="sub">Sistema de classificação da informação da construção</p>
+
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="Pesquise por código ou assunto (ex: 0M-10, cimento, argila)" />
+    <button id="searchBtn">Buscar</button>
+  </div>
+
+  <div class="stats" id="stats"></div>
+  <div class="table-wrap">
+    <table id="resultsTable">
+      <thead>
+        <tr>
+          <th style="width:22%;">Código</th>
+          <th style="width:28%;">Assunto</th>
+          <th style="width:50%;">Descrição</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody">
+        <tr><td colspan="3" class="loading">Carregando dados…</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <footer>Fonte: ABNT NBR 15965:2023 · Dados carregados do arquivo JSON</footer>
+</div>
+
+<script>
+  (function() {
+    const JSON_URL = 'nbr15965-classification.json';
+    let allRows = [];            // array de objetos { code, subject, description }
+    let isLoaded = false;
+
+    const searchInput = document.getElementById('searchInput');
+    const searchBtn = document.getElementById('searchBtn');
+    const tbody = document.getElementById('tableBody');
+    const stats = document.getElementById('stats');
+
+    // ---- Achata a hierarquia do JSON para uma tabela simples ----
+    function flattenNodes(nodes, result = []) {
+      for (const node of nodes) {
+        result.push({ 
+          code: node.code, 
+          subject: node.subject, 
+          description: node.description 
+        });
+        
+        // Se houver filhos, chama a função recursivamente
+        if (node.children && node.children.length > 0) {
+          flattenNodes(node.children, result);
+        }
+      }
+      return result;
+    }
+
+    // ---- Carrega JSON ----
+    async function loadJSON() {
+      try {
+        const response = await fetch(JSON_URL);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        
+        const data = await response.json();
+        
+        // Transforma a árvore JSON em uma lista plana usando o nó 'classification'
+        allRows = flattenNodes(data.classification);
+        
+        isLoaded = true;
+        // Exibe todos os registros inicialmente
+        renderResults(allRows);
+      } catch (err) {
+        console.error(err);
+        tbody.innerHTML = `<tr><td colspan="3" style="color:#b91c1c; text-align:center;">
+          ⚠️ Erro ao carregar o arquivo JSON. Verifique se o arquivo está na mesma pasta que o index.html.
+          <br><small>${err.message}</small>
+        </td></tr>`;
+      }
+    }
+
+    // ---- Renderiza resultados ----
+    function renderResults(rows) {
+      if (!rows || rows.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="3" class="no-results">Nenhum resultado encontrado.</td></tr>`;
+        stats.textContent = '0 registros';
+        return;
+      }
+
+      let html = '';
+      for (const row of rows) {
+        html += `<tr>
+          <td class="code-col">${escapeHtml(row.code)}</td>
+          <td>${escapeHtml(row.subject)}</td>
+          <td>${escapeHtml(row.description)}</td>
+        </tr>`;
+      }
+      tbody.innerHTML = html;
+      stats.textContent = `${rows.length} registro${rows.length > 1 ? 's' : ''}`;
+    }
+
+    // ---- Escapa caracteres especiais para evitar XSS ----
+    function escapeHtml(text) {
+      if (!text) return '';
+      return text.replace(/[&<>"]/g, function(m) {
+        if (m === '&') return '&amp;';
+        if (m === '<') return '&lt;';
+        if (m === '>') return '&gt;';
+        if (m === '"') return '&quot;';
+        return m;
+      });
+    }
+
+    // ---- Função de busca ----
+    function performSearch() {
+      if (!isLoaded) return;
+
+      const query = searchInput.value.trim().toLowerCase();
+      if (!query) {
+        renderResults(allRows);
+        return;
+      }
+
+      const filtered = allRows.filter(row => {
+        // Busca no código e no assunto (case‑insensitive)
+        const codeMatch = row.code.toLowerCase().includes(query);
+        const subjectMatch = row.subject.toLowerCase().includes(query);
+        return codeMatch || subjectMatch;
+      });
+
+      renderResults(filtered);
+    }
+
+    // ---- Eventos ----
+    searchBtn.addEventListener('click', performSearch);
+    searchInput.addEventListener('keyup', (e) => {
+      if (e.key === 'Enter') {
+        performSearch();
+      }
+    });
+
+    // Busca automática enquanto digita (opcional, descomente se quiser)
+    searchInput.addEventListener('input', performSearch);
+
+    // ---- Inicializa ----
+    loadJSON();
+  })();
+</script>
+
+</body>
+</html>
