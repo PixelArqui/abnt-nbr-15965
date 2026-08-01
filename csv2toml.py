@@ -46,6 +46,12 @@ description = "{info_sistema.get('description', '')}"
                 if not linha or not linha[0]:  # Pula linhas em branco
                     continue
                 
+                # CORREÇÃO: Garante que a linha tenha elementos suficientes preenchendo com '' (vazio)
+                tamanho_necessario = len(cabecalho_dados)
+                if len(linha) < tamanho_necessario:
+                    linha.extend([''] * (tamanho_necessario - len(linha)))
+                
+                # Agora é seguro buscar pelos índices
                 codigo = linha[cabecalho_dados['CODE']]
                 assunto = linha[cabecalho_dados['SUBJECT']]
                 descricao = linha[cabecalho_dados['DESCRIPTION']]
